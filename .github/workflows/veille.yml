@@ -1,0 +1,42 @@
+name: Veille France Travail
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install -r requirements.txt
+
+      - name: Lancer la collecte des offres
+        env:
+          FRANCE_TRAVAIL_CLIENT_ID: ${{ secrets.FRANCE_TRAVAIL_CLIENT_ID }}
+          FRANCE_TRAVAIL_CLIENT_SECRET: ${{ secrets.FRANCE_TRAVAIL_CLIENT_SECRET }}
+        run: python scripts/fetch_offres.py
+
+      - name: Enregistrer les données si elles ont changé
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          if ! git diff --quiet -- data/offres.json; then
+            git add data/offres.json
+            git commit -m "Veille automatique : mise à jour des offres ($(date -u +%Y-%m-%d))"
+            git push
+          else
+            echo "Rien de nouveau, pas de commit."
+          fi
