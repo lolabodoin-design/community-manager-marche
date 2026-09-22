@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Offres en direct — Community manager</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <nav class="nav">
+    <a href="index.html" class="nav-brand">Community manager — compté</a>
+    <a href="offres.html" class="nav-link is-active">Offres en direct</a>
+  </nav>
+</header>
+
+<main>
+  <section class="hero hero-compact">
+    <h1>Offres en direct</h1>
+    <p class="hero-sub">Dernières offres pour le métier de community manager, collectées automatiquement depuis
+      l'API France Travail (code ROME E1101).</p>
+  </section>
+
+  <section class="block">
+    <div id="meta-banner" class="meta-banner">Chargement des données…</div>
+    <div id="offres-list" class="offres-list"></div>
+    <p id="offres-empty" class="muted" hidden>
+      Aucune donnée pour l'instant. La collecte se lance via <code>scripts/fetch_offres.py</code> (en local) ou
+      automatiquement chaque matin via GitHub Actions une fois les secrets configurés — voir le
+      <code>GUIDE_DEMARRAGE.md</code> du dépôt.
+    </p>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>Séminaires métiers — M2 Marketing Opérationnel &amp; Digital — IAE Clermont Auvergne · UCA · 2026-2027</p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
