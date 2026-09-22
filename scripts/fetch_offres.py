@@ -53,18 +53,27 @@ OUTPUT_FILE = ROOT / "data" / "offres.json"
 
 
 def get_token(client_id: str, client_secret: str) -> str:
-    """Récupère un jeton d'accès OAuth2 (grant_type=client_credentials)."""
+    """Récupère un jeton d'accès OAuth2 (grant_type=client_credentials).
+
+    Le scope doit impérativement se terminer par "application_<client_id>" :
+    c'est ce qui indique à l'API quelle application (donc quelles API
+    souscrites) utiliser. Sans ce morceau, le serveur renvoie 400 Bad Request.
+    """
     resp = requests.post(
         TOKEN_URL,
         data={
             "grant_type": "client_credentials",
             "client_id": client_id,
             "client_secret": client_secret,
-            "scope": "api_offresdemploiv2 o2dsoffre",
+            "scope": f"api_offresdemploiv2 o2dsoffre application_{client_id}",
         },
         headers={"Content-Type": "application/x-www-form-urlencoded"},
         timeout=30,
     )
+    if not resp.ok:
+        # Affiche le message d'erreur exact renvoyé par l'API (utile pour
+        # diagnostiquer : scope refusé, identifiants invalides, etc.)
+        print(f"Réponse de l'API ({resp.status_code}) : {resp.text}", file=sys.stderr)
     resp.raise_for_status()
     return resp.json()["access_token"]
 
