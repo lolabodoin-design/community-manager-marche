@@ -1,9 +1,89 @@
 {
-  "derniere_maj": "2026-09-22T09:34:03+00:00",
+  "derniere_maj": "2026-09-23T09:41:19+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 137,
+  "nombre_offres": 141,
   "offres": [
+    {
+      "id": "214GZQX",
+      "intitule": "Community manager",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "13 - CASSIS",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 2290.0 Euros",
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214GZQX"
+    },
+    {
+      "id": "7132280",
+      "intitule": "Alternance Assistant Community Manager - Paris (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "75 - Paris 10e Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7132280"
+    },
+    {
+      "id": "7126415",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "77 - Livry-sur-Seine",
+      "contrat": "CDD - 6 Mois",
+      "salaire": "Annuel de 20000.0 Euros à 20000.0 Euros",
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7126415"
+    },
+    {
+      "id": "7126406",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "75 - Paris 1er Arrondissement",
+      "contrat": "CDD - 6 Mois",
+      "salaire": "Annuel de 12000.0 Euros à 12000.0 Euros",
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7126406"
+    },
+    {
+      "id": "7126393",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "13 - Châteauneuf-les-Martigues",
+      "contrat": "CDD - 6 Mois",
+      "salaire": "Annuel de 20000.0 Euros à 20000.0 Euros",
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7126393"
+    },
+    {
+      "id": "7117848",
+      "intitule": "COMMUNITY MANAGER (H/F)",
+      "entreprise": "Intermarché",
+      "lieu": "21 - Fontaine-lès-Dijon",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7117848"
+    },
+    {
+      "id": "7110775",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "13 - Saint-Victoret",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7110775"
+    },
+    {
+      "id": "214GKZW",
+      "intitule": "Renfort community manager - accueil (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "73 - ORELLE",
+      "contrat": "CDD - 6 Mois",
+      "salaire": "Mensuel de 1964.0 Euros - avantage en nature : forfait saison 3 Vallées",
+      "date_publication": "2026-09-22",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214GKZW"
+    },
     {
       "id": "214FGWW",
       "intitule": "Community manager",
@@ -13,6 +93,36 @@
       "salaire": "Mensuel de 1867.02 Euros - + commissions",
       "date_publication": "2026-09-22",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214FGWW"
+    },
+    {
+      "id": "7103886",
+      "intitule": "Chargé (e) de Famille et de Coordination H/F NOS AIMES TALENCE",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "33 - Saint-Ferme",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-22",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7103886"
+    },
+    {
+      "id": "7102318",
+      "intitule": "L'Association des Journalistes LGBTQIA+ recrute un community manageur (H/F)",
+      "entreprise": "AJL - Association des Journalistes LGBTQIA+",
+      "lieu": "75 - Paris",
+      "contrat": "CDD - 1 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-22",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7102318"
+    },
+    {
+      "id": "7102306",
+      "intitule": "Responsable animation et mobilisation de communautés  (H/F)",
+      "entreprise": "Label Vie",
+      "lieu": "75 - Paris",
+      "contrat": "CDI",
+      "salaire": "Annuel de 30000.0 Euros à 32000.0 Euros",
+      "date_publication": "2026-09-22",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7102306"
     },
     {
       "id": "7071595",
@@ -83,16 +193,6 @@
       "salaire": null,
       "date_publication": "2026-09-20",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7044994"
-    },
-    {
-      "id": "7044839",
-      "intitule": "Animateur H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "84 - Saint-Didier",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-20",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7044839"
     },
     {
       "id": "7032639",
@@ -193,16 +293,6 @@
       "salaire": null,
       "date_publication": "2026-09-18",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7008991"
-    },
-    {
-      "id": "7008336",
-      "intitule": "Créateur de contenu H/F - Community Manager",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "75 - Paris",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-18",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7008336"
     },
     {
       "id": "7001953",
@@ -675,16 +765,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6634911"
     },
     {
-      "id": "6630826",
-      "intitule": "Alternance community manager (H/F) - Toulon (83)",
-      "entreprise": "ICADEMIE",
-      "lieu": "83 - Toulon",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Mensuel de 800.0 Euros à 1900.0 Euros",
-      "date_publication": "2026-09-04",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6630826"
-    },
-    {
       "id": "6623766",
       "intitule": "Alternance Community manager Gaming / Multimédia - La Buissière (H/F)",
       "entreprise": "ISCOD",
@@ -1055,26 +1135,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/212WWHW"
     },
     {
-      "id": "6244181",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "JEUNE AFRIQUE MEDIA GROUP",
-      "lieu": "75 - Paris 16e Arrondissement",
-      "contrat": "CDI",
-      "salaire": "Annuel de 35000.0 Euros à 40000.0 Euros",
-      "date_publication": "2026-08-25",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6244181"
-    },
-    {
-      "id": "6187442",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "Biotech Dental",
-      "lieu": "13 - Salon-de-Provence",
-      "contrat": "CDI",
-      "salaire": "Annuel de 25000.0 Euros à 30000.0 Euros",
-      "date_publication": "2026-08-22",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6187442"
-    },
-    {
       "id": "6141795",
       "intitule": "Alternance Community Manager - Créteil (H/F)",
       "entreprise": "ISCOD",
@@ -1255,16 +1315,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/211RNTH"
     },
     {
-      "id": "5342217",
-      "intitule": "Alternance Community manager - Vallauris (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "06 - Vallauris",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-07-22",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5342217"
-    },
-    {
       "id": "211JZCP",
       "intitule": "COMMUNITY MANAGER (H/F)",
       "entreprise": "DANCE FACTORY PROD",
@@ -1353,16 +1403,6 @@
       "salaire": null,
       "date_publication": "2026-06-18",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/3971398"
-    },
-    {
-      "id": "3740012",
-      "intitule": "community manager attaché presse H/F - EC22337",
-      "entreprise": "Ville de STAINS",
-      "lieu": "93 - Stains",
-      "contrat": "CDD - 6 Mois",
-      "salaire": null,
-      "date_publication": "2026-06-12",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/3740012"
     },
     {
       "id": "3539810",
