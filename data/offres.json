@@ -1,18 +1,88 @@
 {
-  "derniere_maj": "2026-09-23T09:41:19+00:00",
+  "derniere_maj": "2026-09-24T09:40:28+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 141,
+  "nombre_offres": 145,
   "offres": [
     {
-      "id": "214GZQX",
-      "intitule": "Community manager",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "13 - CASSIS",
+      "id": "214JHBS",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "INTERMARCHE",
+      "lieu": "39 - Dole",
       "contrat": "CDI",
-      "salaire": "Mensuel de 2290.0 Euros",
+      "salaire": "Mensuel de 2271.0 Euros à 2900.0 Euros",
+      "date_publication": "2026-09-24",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JHBS"
+    },
+    {
+      "id": "214HSRL",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "SAS DIGITAL BANG BANG",
+      "lieu": "94 - IVRY-SUR-SEINE",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 2263.0 Euros",
       "date_publication": "2026-09-23",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214GZQX"
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214HSRL"
+    },
+    {
+      "id": "214HHTK",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "AUTO ECOLE DES VALLEES",
+      "lieu": "94 - ST MANDE",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214HHTK"
+    },
+    {
+      "id": "7151779",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "75 - Paris",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7151779"
+    },
+    {
+      "id": "7151724",
+      "intitule": "Animateur H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "84 - Saint-Didier",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7151724"
+    },
+    {
+      "id": "7135278",
+      "intitule": "COMMUNITY MANAGER (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "21 - Fontaine-lès-Dijon",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7135278"
+    },
+    {
+      "id": "7135114",
+      "intitule": "Alternance Assistant Community Manager - Paris (F/H)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "75 - Paris",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7135114"
+    },
+    {
+      "id": "7134967",
+      "intitule": "Stagiaire communication (H/F) - Novembre à décembre (2 mois)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "33 - Bordeaux",
+      "contrat": "Intérim - 1 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7134967"
     },
     {
       "id": "7132280",
@@ -93,16 +163,6 @@
       "salaire": "Mensuel de 1867.02 Euros - + commissions",
       "date_publication": "2026-09-22",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214FGWW"
-    },
-    {
-      "id": "7103886",
-      "intitule": "Chargé (e) de Famille et de Coordination H/F NOS AIMES TALENCE",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "33 - Saint-Ferme",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-22",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7103886"
     },
     {
       "id": "7102318",
@@ -245,16 +305,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7032581"
     },
     {
-      "id": "7032425",
-      "intitule": "Alternant(e) Marketing & Community Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "30 - Sommières",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-19",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7032425"
-    },
-    {
       "id": "7015798",
       "intitule": "Community Manager E-commerce & Retail (H/F)",
       "entreprise": "LECLERC VOYAGES",
@@ -273,26 +323,6 @@
       "salaire": "Mensuel de 505.0 Euros à 1867.0 Euros",
       "date_publication": "2026-09-18",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214CKVG"
-    },
-    {
-      "id": "7009726",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "72 - Mans",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-18",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7009726"
-    },
-    {
-      "id": "7008991",
-      "intitule": "Chargé de Satisfactions clients (f-h) - Réf. GEST1347 (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "93 - Seine-Saint-Denis",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-18",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7008991"
     },
     {
       "id": "7001953",
@@ -373,16 +403,6 @@
       "salaire": null,
       "date_publication": "2026-09-16",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213YNXN"
-    },
-    {
-      "id": "6930079",
-      "intitule": "Alternance Community Manager - Ennery (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "57 - Ennery",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-16",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6930079"
     },
     {
       "id": "6927940",
@@ -473,6 +493,16 @@
       "salaire": null,
       "date_publication": "2026-09-12",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6847904"
+    },
+    {
+      "id": "213TFNB",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "13 - CASSIS",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 2290.0 Euros",
+      "date_publication": "2026-09-11",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213TFNB"
     },
     {
       "id": "213TCLP",
@@ -1023,6 +1053,16 @@
       "salaire": null,
       "date_publication": "2026-08-28",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6365246"
+    },
+    {
+      "id": "212ZGGR",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "MIKA SUSHI",
+      "lieu": "69 - Vaulx-en-Velin",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 1950.0 Euros à 2400.0 Euros - Selon expérience",
+      "date_publication": "2026-08-27",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212ZGGR"
     },
     {
       "id": "6341935",
