@@ -1,9 +1,39 @@
 {
-  "derniere_maj": "2026-09-24T09:40:28+00:00",
+  "derniere_maj": "2026-09-25T09:57:46+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 145,
+  "nombre_offres": 147,
   "offres": [
+    {
+      "id": "7380029",
+      "intitule": "Expert Développeur React DSFR - Freelance (H/F)",
+      "entreprise": "Collective.work",
+      "lieu": "44 - Nantes",
+      "contrat": "Profession libérale",
+      "salaire": null,
+      "date_publication": "2026-09-25",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7380029"
+    },
+    {
+      "id": "214JWRD",
+      "intitule": "Community manager",
+      "entreprise": "CARIF OREF AUVERGNE-RHONE-ALPES",
+      "lieu": "69 - LYON 02",
+      "contrat": "CDD - 3 Mois",
+      "salaire": "Mensuel de 2100.0 Euros à 2300.0 Euros",
+      "date_publication": "2026-09-24",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JWRD"
+    },
+    {
+      "id": "214JLHD",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "SUSHI INVEST",
+      "lieu": "Hauts-de-France",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 1900.0 Euros",
+      "date_publication": "2026-09-24",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JLHD"
+    },
     {
       "id": "214JHBS",
       "intitule": "Community Manager (H/F)",
@@ -13,6 +43,66 @@
       "salaire": "Mensuel de 2271.0 Euros à 2900.0 Euros",
       "date_publication": "2026-09-24",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JHBS"
+    },
+    {
+      "id": "7346535",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "72 - Mans",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-24",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7346535"
+    },
+    {
+      "id": "7346216",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "40 - Soorts-Hossegor",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-24",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7346216"
+    },
+    {
+      "id": "7346170",
+      "intitule": "Chargé (e) de Famille et de Coordination H/F NOS AIMES TALENCE",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "33 - Saint-Ferme",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-24",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7346170"
+    },
+    {
+      "id": "7344671",
+      "intitule": "Responsable mobilisation citoyenne (H/F)",
+      "entreprise": "SINGA Global",
+      "lieu": "75 - Paris",
+      "contrat": "CDD - 11 Mois",
+      "salaire": "Annuel de 40000.0 Euros à 45000.0 Euros",
+      "date_publication": "2026-09-24",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7344671"
+    },
+    {
+      "id": "7165073",
+      "intitule": "Alternant(e) Marketing & Community Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "30 - Sommières",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-24",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7165073"
+    },
+    {
+      "id": "7163412",
+      "intitule": "MANAGER DE SITE OEUVRANT -Nancy H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "54 - Nancy",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-24",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7163412"
     },
     {
       "id": "214HSRL",
@@ -43,16 +133,6 @@
       "salaire": null,
       "date_publication": "2026-09-23",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7151779"
-    },
-    {
-      "id": "7151724",
-      "intitule": "Animateur H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "84 - Saint-Didier",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-23",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7151724"
     },
     {
       "id": "7135278",
@@ -133,16 +213,6 @@
       "salaire": null,
       "date_publication": "2026-09-23",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7117848"
-    },
-    {
-      "id": "7110775",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "13 - Saint-Victoret",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-23",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7110775"
     },
     {
       "id": "214GKZW",
@@ -245,16 +315,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7053013"
     },
     {
-      "id": "7044994",
-      "intitule": "Animateur H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "06 - Villefranche-sur-Mer",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-20",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7044994"
-    },
-    {
       "id": "7032639",
       "intitule": "Alternance Community Manager - Strasbourg (F/H)",
       "entreprise": "Entreprise non précisée",
@@ -303,16 +363,6 @@
       "salaire": null,
       "date_publication": "2026-09-19",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7032581"
-    },
-    {
-      "id": "7015798",
-      "intitule": "Community Manager E-commerce & Retail (H/F)",
-      "entreprise": "LECLERC VOYAGES",
-      "lieu": "38 - Saint-Martin-d'Hères",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-19",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7015798"
     },
     {
       "id": "214CKVG",
@@ -455,16 +505,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6897462"
     },
     {
-      "id": "6895887",
-      "intitule": "Animateur QSE (H/F)",
-      "entreprise": "HIREE",
-      "lieu": "79 - Thouars",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-15",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6895887"
-    },
-    {
       "id": "6895797",
       "intitule": "Alternance Community Manager en agence - Paris (H/F)",
       "entreprise": "ISCOD",
@@ -493,16 +533,6 @@
       "salaire": null,
       "date_publication": "2026-09-12",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6847904"
-    },
-    {
-      "id": "213TFNB",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "13 - CASSIS",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 2290.0 Euros",
-      "date_publication": "2026-09-11",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213TFNB"
     },
     {
       "id": "213TCLP",
@@ -553,16 +583,6 @@
       "salaire": null,
       "date_publication": "2026-09-10",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213RYNM"
-    },
-    {
-      "id": "213RSJS",
-      "intitule": "COMMUNITY MANAGER EXPERIMENTE(E) (H/F)",
-      "entreprise": "LA MAISON BLANCHE",
-      "lieu": "83 - ST RAPHAEL",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-10",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213RSJS"
     },
     {
       "id": "213RRVB",
