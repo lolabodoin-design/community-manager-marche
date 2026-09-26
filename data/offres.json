@@ -1,9 +1,39 @@
 {
-  "derniere_maj": "2026-09-25T09:57:46+00:00",
+  "derniere_maj": "2026-09-26T09:40:15+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 147,
+  "nombre_offres": 136,
   "offres": [
+    {
+      "id": "7400700",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "33 - Naujac-sur-Mer",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-25",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7400700"
+    },
+    {
+      "id": "7398726",
+      "intitule": "APPRENTI(E) COMMUNITY MANAGER - H/F",
+      "entreprise": "Groupe CHOPARD",
+      "lieu": "25 - Besançon",
+      "contrat": "CDD - 24 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-25",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7398726"
+    },
+    {
+      "id": "7386804",
+      "intitule": "Alternance Community Manager en alternance (H/F) - Corbeil-Essonnes (F/H)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "91 - Corbeil-Essonnes",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-25",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7386804"
+    },
     {
       "id": "7380029",
       "intitule": "Expert Développeur React DSFR - Freelance (H/F)",
@@ -113,16 +143,6 @@
       "salaire": "Mensuel de 2263.0 Euros",
       "date_publication": "2026-09-23",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214HSRL"
-    },
-    {
-      "id": "214HHTK",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "AUTO ECOLE DES VALLEES",
-      "lieu": "94 - ST MANDE",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-23",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214HHTK"
     },
     {
       "id": "7151779",
@@ -585,16 +605,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213RYNM"
     },
     {
-      "id": "213RRVB",
-      "intitule": "ALTERNANCE Assistant Communication & Community Management (H/F)",
-      "entreprise": "ALBON",
-      "lieu": "26 - SAINT-RAMBERT-D'ALBON",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-10",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213RRVB"
-    },
-    {
       "id": "6806004",
       "intitule": "Community Manager F/H - OVERSTIMS",
       "entreprise": "OVERSTIMS",
@@ -643,26 +653,6 @@
       "salaire": "Mensuel de 2090.72 Euros",
       "date_publication": "2026-09-09",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213QPZF"
-    },
-    {
-      "id": "213PTQP",
-      "intitule": "#FORUMMOUGINS2026 Community Manager (H/F)",
-      "entreprise": "STAND TANCO & CO",
-      "lieu": "06 - MOUGINS",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-09",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213PTQP"
-    },
-    {
-      "id": "213PTMC",
-      "intitule": "#FORUMMOUGINS2026 Administrateur / Modérateur de communauté (H/F)",
-      "entreprise": "STAND TANCO & CO",
-      "lieu": "06 - MOUGINS",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-09",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213PTMC"
     },
     {
       "id": "6749253",
@@ -793,16 +783,6 @@
       "salaire": "Mensuel de 1136.0 Euros à 1867.02 Euros",
       "date_publication": "2026-09-04",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LCJJ"
-    },
-    {
-      "id": "213KJCX",
-      "intitule": "APPRENTISSAGE Community manager (H/F)",
-      "entreprise": "ALOHA POKE",
-      "lieu": "34 - CASTELNAU LE LEZ",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-04",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213KJCX"
     },
     {
       "id": "6634911",
@@ -1035,26 +1015,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6444923"
     },
     {
-      "id": "6418711",
-      "intitule": "Alternance Community Manager - Le Plessis-Belleville (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "60 - Plessis-Belleville",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-29",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6418711"
-    },
-    {
-      "id": "6383450",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "39 - Dole",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-28",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6383450"
-    },
-    {
       "id": "6382011",
       "intitule": "Alternance Community Manager et réseaux - Paris (H/F)",
       "entreprise": "ISCOD",
@@ -1175,26 +1135,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6304494"
     },
     {
-      "id": "212WZNQ",
-      "intitule": "Community manager",
-      "entreprise": "AU PAYS DES ANES",
-      "lieu": "42 - ANDREZIEUX BOUTHEON",
-      "contrat": "CDD - 6 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-25",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212WZNQ"
-    },
-    {
-      "id": "212WWHW",
-      "intitule": "Community Manager en apprentissage F/H (H/F)",
-      "entreprise": "CIMALPES",
-      "lieu": "73 - Albertville",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Mensuel de 966.21 Euros à 1112.05 Euros",
-      "date_publication": "2026-08-25",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212WWHW"
-    },
-    {
       "id": "6141795",
       "intitule": "Alternance Community Manager - Créteil (H/F)",
       "entreprise": "ISCOD",
@@ -1223,26 +1163,6 @@
       "salaire": null,
       "date_publication": "2026-08-13",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5959813"
-    },
-    {
-      "id": "5939510",
-      "intitule": "COMMUNITY MANAGER - H/F",
-      "entreprise": "Société des trois vallées",
-      "lieu": "73 - Courchevel",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-12",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5939510"
-    },
-    {
-      "id": "5908748",
-      "intitule": "community manager apprentissage H/F - EC21907",
-      "entreprise": "Ville de ORLY",
-      "lieu": "94 - Orly",
-      "contrat": "CDD - 36 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-11",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5908748"
     },
     {
       "id": "5901934",
@@ -1305,16 +1225,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5718083"
     },
     {
-      "id": "5691466",
-      "intitule": "Alternance Community Manager H/F - Marseille (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "13 - Marseille",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-04",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5691466"
-    },
-    {
       "id": "5659836",
       "intitule": "STAGE EN COMMUNICATION (2 MOIS) - H/F",
       "entreprise": "Entreprise non précisée",
@@ -1333,16 +1243,6 @@
       "salaire": null,
       "date_publication": "2026-08-01",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5634257"
-    },
-    {
-      "id": "5620768",
-      "intitule": "Alternance Community Manager H/F - Biarritz (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "64 - Biarritz",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-07-31",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5620768"
     },
     {
       "id": "5570863",
@@ -1443,16 +1343,6 @@
       "salaire": null,
       "date_publication": "2026-07-03",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/210RSNH"
-    },
-    {
-      "id": "4074939",
-      "intitule": "Alternance - Community manager (H/F) - 24 Mois",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "69 - Lyon",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-06-21",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4074939"
     },
     {
       "id": "3971398",
