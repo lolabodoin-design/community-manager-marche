@@ -1,9 +1,39 @@
 {
-  "derniere_maj": "2026-09-26T09:40:15+00:00",
+  "derniere_maj": "2026-09-27T10:19:34+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 136,
+  "nombre_offres": 138,
   "offres": [
+    {
+      "id": "7431728",
+      "intitule": "Chargé(e) des Relations Partenaires - Toulouse - Groupe IMMO9 (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "31 - Haute-Garonne",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-26",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7431728"
+    },
+    {
+      "id": "7431020",
+      "intitule": "COMMUNITY MANAGER - H/F",
+      "entreprise": "Société des trois vallées",
+      "lieu": "73 - Courchevel",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-26",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7431020"
+    },
+    {
+      "id": "7427717",
+      "intitule": "Alternance - Community manager (H/F)",
+      "entreprise": "E2SE Business School",
+      "lieu": "14 - Caen",
+      "contrat": "CDD - 24 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-26",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7427717"
+    },
     {
       "id": "7400700",
       "intitule": "Manager H/F",
@@ -73,16 +103,6 @@
       "salaire": "Mensuel de 2271.0 Euros à 2900.0 Euros",
       "date_publication": "2026-09-24",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JHBS"
-    },
-    {
-      "id": "7346535",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "72 - Mans",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-24",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7346535"
     },
     {
       "id": "7346216",
@@ -1026,7 +1046,7 @@
     },
     {
       "id": "6365246",
-      "intitule": "Community Manager (H/F)",
+      "intitule": "Community Manager en alternance (H/F)",
       "entreprise": "Intermarché",
       "lieu": "39 - Dole",
       "contrat": "CDI",
