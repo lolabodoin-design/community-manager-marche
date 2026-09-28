@@ -1,9 +1,29 @@
 {
-  "derniere_maj": "2026-09-27T10:19:34+00:00",
+  "derniere_maj": "2026-09-28T11:23:22+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 138,
+  "nombre_offres": 135,
   "offres": [
+    {
+      "id": "214MBHG",
+      "intitule": "Community manager",
+      "entreprise": "USBCO",
+      "lieu": "62 - BOULOGNE SUR MER",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-28",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214MBHG"
+    },
+    {
+      "id": "7465127",
+      "intitule": "animateur / médiateur proximité #ALT14988 (H/F)",
+      "entreprise": "ALTERNATIVE CONSEIL FORMATION",
+      "lieu": "974 - Saint-Louis",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-28",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7465127"
+    },
     {
       "id": "7431728",
       "intitule": "Chargé(e) des Relations Partenaires - Toulouse - Groupe IMMO9 (H/F)",
@@ -103,26 +123,6 @@
       "salaire": "Mensuel de 2271.0 Euros à 2900.0 Euros",
       "date_publication": "2026-09-24",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JHBS"
-    },
-    {
-      "id": "7346216",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "40 - Soorts-Hossegor",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-24",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7346216"
-    },
-    {
-      "id": "7346170",
-      "intitule": "Chargé (e) de Famille et de Coordination H/F NOS AIMES TALENCE",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "33 - Saint-Ferme",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-24",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7346170"
     },
     {
       "id": "7344671",
@@ -583,16 +583,6 @@
       "salaire": null,
       "date_publication": "2026-09-11",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213TCLP"
-    },
-    {
-      "id": "213SSZC",
-      "intitule": "COMMUNITY MANAGER EN ALTERNANCE H/F (H/F)",
-      "entreprise": "AUTO ECOLE RICHARD",
-      "lieu": "13 - MARSEILLE",
-      "contrat": "CDD - 24 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-11",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SSZC"
     },
     {
       "id": "6827320",
@@ -1095,16 +1085,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6327408"
     },
     {
-      "id": "212YLFL",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "69 - NEUVILLE SUR SAONE",
-      "contrat": "CDD - 6 Mois",
-      "salaire": "Horaire de 12.31 Euros à 13.2 Euros",
-      "date_publication": "2026-08-26",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212YLFL"
-    },
-    {
       "id": "6306139",
       "intitule": "COMMUNITY MANAGER H/F - H/F",
       "entreprise": "Entreprise non précisée",
@@ -1293,16 +1273,6 @@
       "salaire": null,
       "date_publication": "2026-07-27",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/211RNTH"
-    },
-    {
-      "id": "211JZCP",
-      "intitule": "COMMUNITY MANAGER (H/F)",
-      "entreprise": "DANCE FACTORY PROD",
-      "lieu": "77 - VARENNES SUR SEINE",
-      "contrat": "CDD - 10 Mois",
-      "salaire": "Horaire de 12.5 Euros",
-      "date_publication": "2026-07-20",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211JZCP"
     },
     {
       "id": "211JVJB",
