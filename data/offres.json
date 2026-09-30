@@ -1,9 +1,79 @@
 {
-  "derniere_maj": "2026-09-29T11:01:12+00:00",
+  "derniere_maj": "2026-09-30T10:51:29+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 125,
+  "nombre_offres": 124,
   "offres": [
+    {
+      "id": "214PHZH",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "INTERNATIONAL BURGER'S COMPANY",
+      "lieu": "69 - VENISSIEUX",
+      "contrat": "CDI",
+      "salaire": "Annuel de 22800.0 Euros à 25000.0 Euros",
+      "date_publication": "2026-09-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PHZH"
+    },
+    {
+      "id": "7516658",
+      "intitule": "ANIMAteur(trice)/ANIMATEUR H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "17 - Royan",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7516658"
+    },
+    {
+      "id": "7515050",
+      "intitule": "Alternance Community manager en immobilier - Paris (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "75 - Paris 17e Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7515050"
+    },
+    {
+      "id": "7498070",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "JEUNE AFRIQUE MEDIA GROUP",
+      "lieu": "75 - Paris 16e Arrondissement",
+      "contrat": "CDI",
+      "salaire": "Annuel de 40000.0 Euros à 40000.0 Euros",
+      "date_publication": "2026-09-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7498070"
+    },
+    {
+      "id": "214PFBN",
+      "intitule": "COMMUNITY MANAGER (H/F)",
+      "entreprise": "O'MY EMPLOI",
+      "lieu": "971 - Les Abymes",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-29",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PFBN"
+    },
+    {
+      "id": "214NMGP",
+      "intitule": "ALTERNANCE Community Manager (H/F)",
+      "entreprise": "AUTO ECOLE DES VALLEES",
+      "lieu": "94 - SAINT-MANDE",
+      "contrat": "CDD - 12 Mois",
+      "salaire": "Mensuel de 1121.0 Euros",
+      "date_publication": "2026-09-29",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214NMGP"
+    },
+    {
+      "id": "214NHNW",
+      "intitule": "COMMUNITY MANAGER (H/F)",
+      "entreprise": "KREMLIN BEAUTY",
+      "lieu": "94 - LE KREMLIN BICETRE",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-29",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214NHNW"
+    },
     {
       "id": "7490441",
       "intitule": "Alternance Community Manager - Dijon (H/F)",
@@ -95,16 +165,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7398726"
     },
     {
-      "id": "7386804",
-      "intitule": "Alternance Community Manager en alternance (H/F) - Corbeil-Essonnes (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "91 - Corbeil-Essonnes",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-25",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7386804"
-    },
-    {
       "id": "7380029",
       "intitule": "Expert Développeur React DSFR - Freelance (H/F)",
       "entreprise": "Collective.work",
@@ -133,26 +193,6 @@
       "salaire": "Mensuel de 1900.0 Euros",
       "date_publication": "2026-09-24",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JLHD"
-    },
-    {
-      "id": "214JHBS",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "INTERMARCHE",
-      "lieu": "39 - Dole",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 2271.0 Euros à 2900.0 Euros",
-      "date_publication": "2026-09-24",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JHBS"
-    },
-    {
-      "id": "7165073",
-      "intitule": "Alternant(e) Marketing & Community Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "30 - Sommières",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-24",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7165073"
     },
     {
       "id": "7163412",
@@ -295,16 +335,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7053013"
     },
     {
-      "id": "7032639",
-      "intitule": "Alternance Community Manager - Strasbourg (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "67 - Strasbourg",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-19",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7032639"
-    },
-    {
       "id": "7032637",
       "intitule": "Alternance COMMUNITY MANAGER - Villemomble (F/H)",
       "entreprise": "Entreprise non précisée",
@@ -343,26 +373,6 @@
       "salaire": null,
       "date_publication": "2026-09-19",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7032581"
-    },
-    {
-      "id": "7001953",
-      "intitule": "Alternance community manager (H/F) - Lille (59)",
-      "entreprise": "ICADEMIE",
-      "lieu": "59 - Lille",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Mensuel de 800.0 Euros à 1900.0 Euros",
-      "date_publication": "2026-09-18",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7001953"
-    },
-    {
-      "id": "7001940",
-      "intitule": "Alternance community manager (H/F) - Nancy (54)",
-      "entreprise": "ICADEMIE",
-      "lieu": "54 - Nancy",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Mensuel de 800.0 Euros à 1900.0 Euros",
-      "date_publication": "2026-09-18",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7001940"
     },
     {
       "id": "6988138",
@@ -585,16 +595,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6782061"
     },
     {
-      "id": "213QPZF",
-      "intitule": "COMMUNITY MANAGER (H/F)",
-      "entreprise": "OFFICE DE TOURISME LE CORBIER",
-      "lieu": "73 - VILLAREMBERT",
-      "contrat": "Saisonnier - 5 Mois",
-      "salaire": "Mensuel de 2090.72 Euros",
-      "date_publication": "2026-09-09",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213QPZF"
-    },
-    {
       "id": "6749253",
       "intitule": "Assistant / Assistante community manager (H/F)",
       "entreprise": "ESID",
@@ -653,16 +653,6 @@
       "salaire": null,
       "date_publication": "2026-09-08",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6707347"
-    },
-    {
-      "id": "213MRVW",
-      "intitule": "Community manager",
-      "entreprise": "LATTE & CO",
-      "lieu": "62 - LENS",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Mensuel de 1867.02 Euros",
-      "date_publication": "2026-09-07",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213MRVW"
     },
     {
       "id": "213LQMG",
@@ -823,16 +813,6 @@
       "salaire": null,
       "date_publication": "2026-09-01",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6495551"
-    },
-    {
-      "id": "213DQSM",
-      "intitule": "Formateur Environnement Internet (H/F)",
-      "entreprise": "WOOSPEAK",
-      "lieu": "France",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Horaire de 30.0 Euros à 35.0 Euros sur 12.0 mois",
-      "date_publication": "2026-08-31",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213DQSM"
     },
     {
       "id": "213DCPM",
@@ -1043,6 +1023,16 @@
       "salaire": null,
       "date_publication": "2026-08-26",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6304494"
+    },
+    {
+      "id": "212WZNQ",
+      "intitule": "Community manager",
+      "entreprise": "AU PAYS DES ANES",
+      "lieu": "42 - ANDREZIEUX BOUTHEON",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-08-25",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212WZNQ"
     },
     {
       "id": "5993930",
