@@ -1,9 +1,49 @@
 {
-  "derniere_maj": "2026-09-30T10:51:29+00:00",
+  "derniere_maj": "2026-10-01T11:18:49+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 124,
+  "nombre_offres": 121,
   "offres": [
+    {
+      "id": "214QXYC",
+      "intitule": "Chargé de veille (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "69 - Lyon 2e Arrondissement",
+      "contrat": "CDI",
+      "salaire": "Annuel de 26000.0 Euros à 29000.0 Euros",
+      "date_publication": "2026-10-01",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214QXYC"
+    },
+    {
+      "id": "7554342",
+      "intitule": "Alternance Community Manager & Marketing digital - Paris (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "75 - Paris 16e Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-01",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7554342"
+    },
+    {
+      "id": "214PVJH",
+      "intitule": "Community manager en apprentissage (H/F)",
+      "entreprise": "MYBS 54",
+      "lieu": "54 - ESSEY LES NANCY",
+      "contrat": "CDD - 24 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PVJH"
+    },
+    {
+      "id": "214PNCS",
+      "intitule": "COMMUNITY MANAGER H/F (H/F)",
+      "entreprise": "LE NOVELTY",
+      "lieu": "34 - MONTPELLIER",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 2101.0 Euros",
+      "date_publication": "2026-09-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PNCS"
+    },
     {
       "id": "214PHZH",
       "intitule": "Community manager (H/F)",
@@ -13,6 +53,16 @@
       "salaire": "Annuel de 22800.0 Euros à 25000.0 Euros",
       "date_publication": "2026-09-30",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PHZH"
+    },
+    {
+      "id": "7531287",
+      "intitule": "Alternance community manager (H/F) - Lille (59)",
+      "entreprise": "ICADEMIE",
+      "lieu": "59 - Lille",
+      "contrat": "CDD - 12 Mois",
+      "salaire": "Mensuel de 800.0 Euros à 1900.0 Euros",
+      "date_publication": "2026-09-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7531287"
     },
     {
       "id": "7516658",
@@ -105,16 +155,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214MBHG"
     },
     {
-      "id": "7472067",
-      "intitule": "Chargé (e) de Famille et de Coordination H/F NOS AIMES TALENCE",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "33 - Saint-Ferme",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-28",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7472067"
-    },
-    {
       "id": "7465127",
       "intitule": "animateur / médiateur proximité #ALT14988 (H/F)",
       "entreprise": "ALTERNATIVE CONSEIL FORMATION",
@@ -175,16 +215,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7380029"
     },
     {
-      "id": "214JWRD",
-      "intitule": "Community manager",
-      "entreprise": "CARIF OREF AUVERGNE-RHONE-ALPES",
-      "lieu": "69 - LYON 02",
-      "contrat": "CDD - 3 Mois",
-      "salaire": "Mensuel de 2100.0 Euros à 2300.0 Euros",
-      "date_publication": "2026-09-24",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JWRD"
-    },
-    {
       "id": "214JLHD",
       "intitule": "Community manager (H/F)",
       "entreprise": "SUSHI INVEST",
@@ -193,16 +223,6 @@
       "salaire": "Mensuel de 1900.0 Euros",
       "date_publication": "2026-09-24",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JLHD"
-    },
-    {
-      "id": "7163412",
-      "intitule": "MANAGER DE SITE OEUVRANT -Nancy H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "54 - Nancy",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-24",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7163412"
     },
     {
       "id": "214HSRL",
@@ -293,6 +313,16 @@
       "salaire": null,
       "date_publication": "2026-09-22",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7071595"
+    },
+    {
+      "id": "214DWNY",
+      "intitule": "Community Manager en alternance (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "95 - Saint-Leu-la-Forêt",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-09-21",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DWNY"
     },
     {
       "id": "214DRZT",
@@ -443,26 +473,6 @@
       "salaire": null,
       "date_publication": "2026-09-16",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6927940"
-    },
-    {
-      "id": "213WYJD",
-      "intitule": "Community manager",
-      "entreprise": "I LOVE CHABLIS",
-      "lieu": "89 - CHABLIS",
-      "contrat": "Profession libérale",
-      "salaire": null,
-      "date_publication": "2026-09-15",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213WYJD"
-    },
-    {
-      "id": "213WLJV",
-      "intitule": "Offre d'alternance - Community Manager (H/F)",
-      "entreprise": "CORREZE NETTOYAGE",
-      "lieu": "19 - ST CYR LA ROCHE",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-15",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213WLJV"
     },
     {
       "id": "6897558",
@@ -695,16 +705,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LKDG"
     },
     {
-      "id": "213LKCZ",
-      "intitule": "Community manager et logistique (H/F)",
-      "entreprise": "GOODSNEEKERS",
-      "lieu": "69 - NEUVILLE SUR SAONE",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 2000.0 Euros",
-      "date_publication": "2026-09-04",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LKCZ"
-    },
-    {
       "id": "213LCJJ",
       "intitule": "Community Manager (H/F)",
       "entreprise": "360 AGENCY",
@@ -735,16 +735,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6596556"
     },
     {
-      "id": "6579343",
-      "intitule": "Alternance - Chargé de Communication (H/F)",
-      "entreprise": "E2SE Business School",
-      "lieu": "14 - Caen",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Annuel de 10000.0 Euros à 25000.0 Euros",
-      "date_publication": "2026-09-03",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6579343"
-    },
-    {
       "id": "6576277",
       "intitule": "Alternance Community Manager dans la restauration - Nice (F/H)",
       "entreprise": "Entreprise non précisée",
@@ -773,6 +763,16 @@
       "salaire": "Mensuel de 1250.0 Euros à 1867.0 Euros",
       "date_publication": "2026-09-03",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6535001"
+    },
+    {
+      "id": "213GGWJ",
+      "intitule": "Chargé(e) de communication digitale & création de contenu H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "974 - ST LOUIS",
+      "contrat": "CDD - 6 Mois",
+      "salaire": "Mensuel de 2000.0 Euros",
+      "date_publication": "2026-09-02",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213GGWJ"
     },
     {
       "id": "6533030",
@@ -923,16 +923,6 @@
       "salaire": null,
       "date_publication": "2026-08-28",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6382011"
-    },
-    {
-      "id": "6365246",
-      "intitule": "Community Manager en alternance (H/F)",
-      "entreprise": "Intermarché",
-      "lieu": "39 - Dole",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-08-28",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6365246"
     },
     {
       "id": "212ZGGR",
@@ -1155,16 +1145,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5503316"
     },
     {
-      "id": "211RNTH",
-      "intitule": "Assistant Manager (H/F)",
-      "entreprise": "MOULIN D'ELISE",
-      "lieu": "29 - PLOURIN LES MORLAIX",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-07-27",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211RNTH"
-    },
-    {
       "id": "211JVJB",
       "intitule": "Community manager (H/F)",
       "entreprise": "LES EDITIONS CORSES",
@@ -1173,16 +1153,6 @@
       "salaire": "Mensuel de 2200.0 Euros à 2600.0 Euros",
       "date_publication": "2026-07-20",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/211JVJB"
-    },
-    {
-      "id": "211GVSH",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "84 - AVIGNON",
-      "contrat": "CDD Insertion - 4 Mois",
-      "salaire": "Horaire de 12.31 Euros",
-      "date_publication": "2026-07-16",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211GVSH"
     },
     {
       "id": "4779659",
