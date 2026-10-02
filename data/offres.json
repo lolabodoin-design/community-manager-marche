@@ -1,9 +1,69 @@
 {
-  "derniere_maj": "2026-10-01T11:18:49+00:00",
+  "derniere_maj": "2026-10-02T10:50:40+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 121,
+  "nombre_offres": 126,
   "offres": [
+    {
+      "id": "214SFWC",
+      "intitule": "Community manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "91 - GUILLERVAL",
+      "contrat": "CDI",
+      "salaire": "Horaire de 12.31 Euros",
+      "date_publication": "2026-10-02",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214SFWC"
+    },
+    {
+      "id": "214RXHR",
+      "intitule": "E-Reputation Associate (H/F)",
+      "entreprise": "LA CADETTE",
+      "lieu": "75 - PARIS",
+      "contrat": "CDI",
+      "salaire": "Annuel de 28000.0 Euros",
+      "date_publication": "2026-10-02",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RXHR"
+    },
+    {
+      "id": "7588754",
+      "intitule": "Alternance Community manager - Grigny (F/H)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "62 - Grigny",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-02",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7588754"
+    },
+    {
+      "id": "7587718",
+      "intitule": "ANIMAteur(trice)/ANIMATEUR H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "17 - Royan",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-02",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7587718"
+    },
+    {
+      "id": "7587093",
+      "intitule": "Animateur SSE (H/F)",
+      "entreprise": "Les Colettes Sourcing",
+      "lieu": "44 - Nantes",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-02",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7587093"
+    },
+    {
+      "id": "7586931",
+      "intitule": "Alternance Community manager - Grigny (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "91 - Grigny",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-02",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7586931"
+    },
     {
       "id": "214QXYC",
       "intitule": "Chargé de veille (H/F)",
@@ -13,6 +73,26 @@
       "salaire": "Annuel de 26000.0 Euros à 29000.0 Euros",
       "date_publication": "2026-10-01",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214QXYC"
+    },
+    {
+      "id": "7566713",
+      "intitule": "Chargé(e) des Relations Partenaires - Toulouse - Groupe IMMO9 (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "31 - Haute-Garonne",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-01",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7566713"
+    },
+    {
+      "id": "7566697",
+      "intitule": "Community Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "59 - Bousignies",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-01",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7566697"
     },
     {
       "id": "7554342",
@@ -63,16 +143,6 @@
       "salaire": "Mensuel de 800.0 Euros à 1900.0 Euros",
       "date_publication": "2026-09-30",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7531287"
-    },
-    {
-      "id": "7516658",
-      "intitule": "ANIMAteur(trice)/ANIMATEUR H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "17 - Royan",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7516658"
     },
     {
       "id": "7515050",
@@ -183,6 +253,16 @@
       "salaire": null,
       "date_publication": "2026-09-26",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7427717"
+    },
+    {
+      "id": "214KXYF",
+      "intitule": "Animateur, animatrice Live - community manager (H/F)",
+      "entreprise": "shopcadoreunion974",
+      "lieu": "974 - Sainte-Marie",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-09-25",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214KXYF"
     },
     {
       "id": "7400700",
@@ -725,16 +805,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6623766"
     },
     {
-      "id": "6596556",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "VILLE DE BAGNOLET -",
-      "lieu": "93 - Bagnolet",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-04",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6596556"
-    },
-    {
       "id": "6576277",
       "intitule": "Alternance Community Manager dans la restauration - Nice (F/H)",
       "entreprise": "Entreprise non précisée",
@@ -753,16 +823,6 @@
       "salaire": null,
       "date_publication": "2026-09-03",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6539958"
-    },
-    {
-      "id": "6535001",
-      "intitule": "Traffic Manager en Acquisition Digitale (H/F)",
-      "entreprise": "LWS HOSPITALITY",
-      "lieu": "26 - Valence",
-      "contrat": "CDD - 24 Mois",
-      "salaire": "Mensuel de 1250.0 Euros à 1867.0 Euros",
-      "date_publication": "2026-09-03",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6535001"
     },
     {
       "id": "213GGWJ",
@@ -1163,16 +1223,6 @@
       "salaire": null,
       "date_publication": "2026-07-10",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4779659"
-    },
-    {
-      "id": "210VKXT",
-      "intitule": "Community Manager en alternance (H/F)",
-      "entreprise": "LPP STE ELISABETH-SEPTEMES",
-      "lieu": "13 - SEPTEMES LES VALLONS",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-07-06",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210VKXT"
     },
     {
       "id": "210SPCH",
