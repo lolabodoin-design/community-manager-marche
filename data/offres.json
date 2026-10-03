@@ -1,9 +1,39 @@
 {
-  "derniere_maj": "2026-10-02T10:50:40+00:00",
+  "derniere_maj": "2026-10-03T10:10:37+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
   "nombre_offres": 126,
   "offres": [
+    {
+      "id": "7627177",
+      "intitule": "Alternance Community Manager - Saint-Maur-des-Fossés (F/H)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "94 - Saint-Maur-des-Fossés",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-03",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7627177"
+    },
+    {
+      "id": "7627113",
+      "intitule": "Alternance CONTENT CREATOR & COMMUNITY MANAGER - Crépy-en-Valois (F/H)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "60 - Crépy-en-Valois",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-03",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7627113"
+    },
+    {
+      "id": "214SRHW",
+      "intitule": "Animateur / Animatrice (H/F)",
+      "entreprise": "LES TILLEULS",
+      "lieu": "26 - PARNANS",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 1030.0 Euros",
+      "date_publication": "2026-10-02",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214SRHW"
+    },
     {
       "id": "214SFWC",
       "intitule": "Community manager H/F",
@@ -25,6 +55,26 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RXHR"
     },
     {
+      "id": "7599974",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "62 - Noyelles-Godault",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-02",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7599974"
+    },
+    {
+      "id": "7599585",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "75 - Paris",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-02",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7599585"
+    },
+    {
       "id": "7588754",
       "intitule": "Alternance Community manager - Grigny (F/H)",
       "entreprise": "Entreprise non précisée",
@@ -43,16 +93,6 @@
       "salaire": null,
       "date_publication": "2026-10-02",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7587718"
-    },
-    {
-      "id": "7587093",
-      "intitule": "Animateur SSE (H/F)",
-      "entreprise": "Les Colettes Sourcing",
-      "lieu": "44 - Nantes",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7587093"
     },
     {
       "id": "7586931",
@@ -83,16 +123,6 @@
       "salaire": null,
       "date_publication": "2026-10-01",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7566713"
-    },
-    {
-      "id": "7566697",
-      "intitule": "Community Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "59 - Bousignies",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-01",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7566697"
     },
     {
       "id": "7554342",
@@ -395,16 +425,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7071595"
     },
     {
-      "id": "214DWNY",
-      "intitule": "Community Manager en alternance (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "95 - Saint-Leu-la-Forêt",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-21",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DWNY"
-    },
-    {
       "id": "214DRZT",
       "intitule": "ALTERNANT Community manager (H/F)",
       "entreprise": "PLOMB ADDICT",
@@ -703,16 +723,6 @@
       "salaire": null,
       "date_publication": "2026-09-09",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6740140"
-    },
-    {
-      "id": "213NTVW",
-      "intitule": "Community manager",
-      "entreprise": "CHAPITELA",
-      "lieu": "40 - DAX",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-08",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213NTVW"
     },
     {
       "id": "6707361",
@@ -1073,16 +1083,6 @@
       "salaire": null,
       "date_publication": "2026-08-26",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6304494"
-    },
-    {
-      "id": "212WZNQ",
-      "intitule": "Community manager",
-      "entreprise": "AU PAYS DES ANES",
-      "lieu": "42 - ANDREZIEUX BOUTHEON",
-      "contrat": "CDD - 6 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-25",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212WZNQ"
     },
     {
       "id": "5993930",
