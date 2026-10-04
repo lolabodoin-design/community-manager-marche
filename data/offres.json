@@ -1,9 +1,19 @@
 {
-  "derniere_maj": "2026-10-03T10:10:37+00:00",
+  "derniere_maj": "2026-10-04T10:51:06+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 126,
+  "nombre_offres": 125,
   "offres": [
+    {
+      "id": "7635723",
+      "intitule": "Community Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "49 - Beaucouzé",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-03",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7635723"
+    },
     {
       "id": "7627177",
       "intitule": "Alternance Community Manager - Saint-Maur-des-Fossés (F/H)",
@@ -295,16 +305,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214KXYF"
     },
     {
-      "id": "7400700",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "33 - Naujac-sur-Mer",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-25",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7400700"
-    },
-    {
       "id": "7398726",
       "intitule": "APPRENTI(E) COMMUNITY MANAGER - H/F",
       "entreprise": "Groupe CHOPARD",
@@ -483,16 +483,6 @@
       "salaire": null,
       "date_publication": "2026-09-19",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7032628"
-    },
-    {
-      "id": "7032609",
-      "intitule": "Alternance COMMUNITY MANAGER - Paris (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "75 - Paris",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-19",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7032609"
     },
     {
       "id": "7032581",
