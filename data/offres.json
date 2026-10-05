@@ -1,18 +1,78 @@
 {
-  "derniere_maj": "2026-10-04T10:51:06+00:00",
+  "derniere_maj": "2026-10-05T11:59:26+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 125,
+  "nombre_offres": 122,
   "offres": [
     {
-      "id": "7635723",
-      "intitule": "Community Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "49 - Beaucouzé",
-      "contrat": "CDI",
+      "id": "7665266",
+      "intitule": "Alternance CONTENT CREATOR & COMMUNITY MANAGER - Crépy-en-Valois (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "60 - Trumilly",
+      "contrat": "CDD - 12 Mois",
       "salaire": null,
-      "date_publication": "2026-10-03",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7635723"
+      "date_publication": "2026-10-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7665266"
+    },
+    {
+      "id": "7665194",
+      "intitule": "Alternance Community Manager - Saint-Maur-des-Fossés (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "94 - Saint-Maur-des-Fossés",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7665194"
+    },
+    {
+      "id": "7664918",
+      "intitule": "(ISFOI) Community Manager #ISF4038 (H/F)",
+      "entreprise": "ISFOI",
+      "lieu": "974 - Sainte-Marie",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7664918"
+    },
+    {
+      "id": "7664846",
+      "intitule": "(ISFOI) Community Manager #ISF4038 (H/F)",
+      "entreprise": "ISFOI",
+      "lieu": "974 - Saint-André",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7664846"
+    },
+    {
+      "id": "7664750",
+      "intitule": "6 COMMUNITY MANAGER   (Saint Denis) #TET14314 (H/F)",
+      "entreprise": "Tetranergy Business School Réunion",
+      "lieu": "974 - Saint-Denis",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7664750"
+    },
+    {
+      "id": "7664731",
+      "intitule": "6 COMMUNITY MANAGER   (Le Port et Saint Paul) #TET14371 (H/F)",
+      "entreprise": "Tetranergy Business School Réunion",
+      "lieu": "974 - Port",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7664731"
+    },
+    {
+      "id": "7664713",
+      "intitule": "6 COMMUNITY MANAGER   (Le Port et Saint Paul) #TET14371 (H/F)",
+      "entreprise": "Tetranergy Business School Réunion",
+      "lieu": "974 - Saint-Paul",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7664713"
     },
     {
       "id": "7627177",
@@ -33,26 +93,6 @@
       "salaire": null,
       "date_publication": "2026-10-03",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7627113"
-    },
-    {
-      "id": "214SRHW",
-      "intitule": "Animateur / Animatrice (H/F)",
-      "entreprise": "LES TILLEULS",
-      "lieu": "26 - PARNANS",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 1030.0 Euros",
-      "date_publication": "2026-10-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214SRHW"
-    },
-    {
-      "id": "214SFWC",
-      "intitule": "Community manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "91 - GUILLERVAL",
-      "contrat": "CDI",
-      "salaire": "Horaire de 12.31 Euros",
-      "date_publication": "2026-10-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214SFWC"
     },
     {
       "id": "214RXHR",
@@ -123,16 +163,6 @@
       "salaire": "Annuel de 26000.0 Euros à 29000.0 Euros",
       "date_publication": "2026-10-01",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214QXYC"
-    },
-    {
-      "id": "7566713",
-      "intitule": "Chargé(e) des Relations Partenaires - Toulouse - Groupe IMMO9 (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "31 - Haute-Garonne",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-01",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7566713"
     },
     {
       "id": "7554342",
@@ -253,16 +283,6 @@
       "salaire": "Mensuel de 505.0 Euros à 1867.0 Euros",
       "date_publication": "2026-09-28",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214MRQV"
-    },
-    {
-      "id": "214MBHG",
-      "intitule": "Community manager",
-      "entreprise": "USBCO",
-      "lieu": "62 - BOULOGNE SUR MER",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-28",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214MBHG"
     },
     {
       "id": "7465127",
@@ -406,7 +426,7 @@
     },
     {
       "id": "214FGWW",
-      "intitule": "Community manager",
+      "intitule": "Community manager (H/F)",
       "entreprise": "RUN MARKETING",
       "lieu": "974 - SAINT-PIERRE",
       "contrat": "CDD - 6 Mois",
@@ -785,16 +805,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LKDG"
     },
     {
-      "id": "213LCJJ",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "360 AGENCY",
-      "lieu": "92 - LEVALLOIS-PERRET",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Mensuel de 1136.0 Euros à 1867.02 Euros",
-      "date_publication": "2026-09-04",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LCJJ"
-    },
-    {
       "id": "6623766",
       "intitule": "Alternance Community manager Gaming / Multimédia - La Buissière (H/F)",
       "entreprise": "ISCOD",
@@ -1033,46 +1043,6 @@
       "salaire": null,
       "date_publication": "2026-08-26",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6306139"
-    },
-    {
-      "id": "6304736",
-      "intitule": "Alternance Community Manager . - Marseille (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "13 - Marseille 1er Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-26",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6304736"
-    },
-    {
-      "id": "6304731",
-      "intitule": "Alternance Community Manager vidéaste - Paris (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "75 - Paris 1er Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-26",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6304731"
-    },
-    {
-      "id": "6304704",
-      "intitule": "Alternance Community Manager - La Garde (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "83 - Garde",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-26",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6304704"
-    },
-    {
-      "id": "6304494",
-      "intitule": "Alternance Community et Content Manager - Boissy-Saint-Léger (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "94 - Boissy-Saint-Léger",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-26",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6304494"
     },
     {
       "id": "5993930",
