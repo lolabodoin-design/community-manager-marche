@@ -1,9 +1,49 @@
 {
-  "derniere_maj": "2026-10-05T11:59:26+00:00",
+  "derniere_maj": "2026-10-06T11:41:36+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 122,
+  "nombre_offres": 114,
   "offres": [
+    {
+      "id": "214VDQF",
+      "intitule": "COMMUNITY MANAGER (H/F)",
+      "entreprise": "HAT'S PRODUCTION",
+      "lieu": "13 - AUBAGNE",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214VDQF"
+    },
+    {
+      "id": "214TWBX",
+      "intitule": "Community Manager en alternance (H/F)",
+      "entreprise": "GROUPE ALTERNANCE ROCHEFORT",
+      "lieu": "17 - Montendre",
+      "contrat": "CDD - 24 Mois",
+      "salaire": "Mensuel de 505.0 Euros à 1867.0 Euros",
+      "date_publication": "2026-10-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214TWBX"
+    },
+    {
+      "id": "7673246",
+      "intitule": "Community Manager en alternance (H/F) - Pérénia",
+      "entreprise": "Pérénia",
+      "lieu": "62 - Sains-en-Gohelle",
+      "contrat": "CDD - 24 Mois",
+      "salaire": "Mensuel de 1200.0 Euros à 1900.0 Euros",
+      "date_publication": "2026-10-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7673246"
+    },
+    {
+      "id": "7673052",
+      "intitule": "Alternance - Community Management & Marketing, Animation des Réseaux Sociaux F/H - GDP OPERALIA",
+      "entreprise": "GDP OPERALIA",
+      "lieu": "67 - Strasbourg",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7673052"
+    },
     {
       "id": "7665266",
       "intitule": "Alternance CONTENT CREATOR & COMMUNITY MANAGER - Crépy-en-Valois (H/F)",
@@ -73,16 +113,6 @@
       "salaire": null,
       "date_publication": "2026-10-05",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7664713"
-    },
-    {
-      "id": "7627177",
-      "intitule": "Alternance Community Manager - Saint-Maur-des-Fossés (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "94 - Saint-Maur-des-Fossés",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-03",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7627177"
     },
     {
       "id": "7627113",
@@ -185,16 +215,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PVJH"
     },
     {
-      "id": "214PNCS",
-      "intitule": "COMMUNITY MANAGER H/F (H/F)",
-      "entreprise": "LE NOVELTY",
-      "lieu": "34 - MONTPELLIER",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 2101.0 Euros",
-      "date_publication": "2026-09-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PNCS"
-    },
-    {
       "id": "214PHZH",
       "intitule": "Community manager (H/F)",
       "entreprise": "INTERNATIONAL BURGER'S COMPANY",
@@ -245,16 +265,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PFBN"
     },
     {
-      "id": "214NMGP",
-      "intitule": "ALTERNANCE Community Manager (H/F)",
-      "entreprise": "AUTO ECOLE DES VALLEES",
-      "lieu": "94 - SAINT-MANDE",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Mensuel de 1121.0 Euros",
-      "date_publication": "2026-09-29",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214NMGP"
-    },
-    {
       "id": "214NHNW",
       "intitule": "COMMUNITY MANAGER (H/F)",
       "entreprise": "KREMLIN BEAUTY",
@@ -273,16 +283,6 @@
       "salaire": null,
       "date_publication": "2026-09-29",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7490441"
-    },
-    {
-      "id": "214MRQV",
-      "intitule": "Community Manager en alternance (H/F)",
-      "entreprise": "GROUPE ALTERNANCE ROCHEFORT",
-      "lieu": "17 - Montendre",
-      "contrat": "CDD - 24 Mois",
-      "salaire": "Mensuel de 505.0 Euros à 1867.0 Euros",
-      "date_publication": "2026-09-28",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214MRQV"
     },
     {
       "id": "7465127",
@@ -495,26 +495,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7032637"
     },
     {
-      "id": "7032628",
-      "intitule": "Alternance Community Manager - Besançon (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "25 - Besançon",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-19",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7032628"
-    },
-    {
-      "id": "7032581",
-      "intitule": "Alternance Alternance en Communication - Saint-Priest (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "23 - Saint-Priest",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-19",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7032581"
-    },
-    {
       "id": "6988138",
       "intitule": "Alternance community manager - Paris (F/H)",
       "entreprise": "Entreprise non précisée",
@@ -723,16 +703,6 @@
       "salaire": null,
       "date_publication": "2026-09-09",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6749253"
-    },
-    {
-      "id": "6740140",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "37 - Tours",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-09",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6740140"
     },
     {
       "id": "6707361",
@@ -995,36 +965,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6382011"
     },
     {
-      "id": "212ZGGR",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "MIKA SUSHI",
-      "lieu": "69 - Vaulx-en-Velin",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 1950.0 Euros à 2400.0 Euros - Selon expérience",
-      "date_publication": "2026-08-27",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212ZGGR"
-    },
-    {
-      "id": "6341935",
-      "intitule": "Alternance Community Manager immobilier - Nice (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "06 - Nice",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-27",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6341935"
-    },
-    {
-      "id": "6341775",
-      "intitule": "Alternance Community Manager - Sainte-Marie-des-Champs (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "76 - Seine-Maritime",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-27",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6341775"
-    },
-    {
       "id": "6327408",
       "intitule": "COMMUNITY MANAGER MULTI-SITES & CRÉATEUR DE CONTENU H/F",
       "entreprise": "Intermarché",
@@ -1063,16 +1003,6 @@
       "salaire": null,
       "date_publication": "2026-08-13",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5959813"
-    },
-    {
-      "id": "212KBNX",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "KEBAB FACTORY",
-      "lieu": "37 - TOURS",
-      "contrat": "CDD - 6 Mois",
-      "salaire": "Mensuel de 1868.0 Euros - selon expérience",
-      "date_publication": "2026-08-12",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212KBNX"
     },
     {
       "id": "5901934",
@@ -1183,16 +1113,6 @@
       "salaire": null,
       "date_publication": "2026-07-10",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4779659"
-    },
-    {
-      "id": "210SPCH",
-      "intitule": "Community Manager en Alternance (H/F)",
-      "entreprise": "MIDIPILE",
-      "lieu": "16 - HIERSAC",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-07-03",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210SPCH"
     },
     {
       "id": "210RSNH",
