@@ -1,18 +1,68 @@
 {
-  "derniere_maj": "2026-10-06T11:41:36+00:00",
+  "derniere_maj": "2026-10-07T11:28:30+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 114,
+  "nombre_offres": 113,
   "offres": [
     {
-      "id": "214VDQF",
-      "intitule": "COMMUNITY MANAGER (H/F)",
-      "entreprise": "HAT'S PRODUCTION",
-      "lieu": "13 - AUBAGNE",
+      "id": "214WMMM",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "78 - Versailles",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 1900.0 Euros à 2100.0 Euros",
+      "date_publication": "2026-10-06",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214WMMM"
+    },
+    {
+      "id": "7711442",
+      "intitule": "Chargé(e) des Relations Partenaires - Toulouse - Groupe IMMO9 (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "31 - Haute-Garonne",
       "contrat": "CDI",
       "salaire": null,
-      "date_publication": "2026-10-05",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214VDQF"
+      "date_publication": "2026-10-06",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7711442"
+    },
+    {
+      "id": "7711381",
+      "intitule": "Community Manager H/F CONFIRMEE",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "93 - Rosny-sous-Bois",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-06",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7711381"
+    },
+    {
+      "id": "7711332",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "75 - Paris",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-06",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7711332"
+    },
+    {
+      "id": "7711304",
+      "intitule": "Community Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "49 - Beaucouzé",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-06",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7711304"
+    },
+    {
+      "id": "7710168",
+      "intitule": "Alternante, alternant approvisionneur IT / Immobilier F/H - ESCP Business School",
+      "entreprise": "ESCP Business School",
+      "lieu": "75 - Paris 17e Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-06",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7710168"
     },
     {
       "id": "214TWBX",
@@ -33,16 +83,6 @@
       "salaire": "Mensuel de 1200.0 Euros à 1900.0 Euros",
       "date_publication": "2026-10-05",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7673246"
-    },
-    {
-      "id": "7673052",
-      "intitule": "Alternance - Community Management & Marketing, Animation des Réseaux Sociaux F/H - GDP OPERALIA",
-      "entreprise": "GDP OPERALIA",
-      "lieu": "67 - Strasbourg",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-05",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7673052"
     },
     {
       "id": "7665266",
@@ -495,16 +535,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7032637"
     },
     {
-      "id": "6988138",
-      "intitule": "Alternance community manager - Paris (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "75 - Paris",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-18",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6988138"
-    },
-    {
       "id": "6986710",
       "intitule": "Alternance community manager - Paris (H/F)",
       "entreprise": "ISCOD",
@@ -605,16 +635,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213VSCS"
     },
     {
-      "id": "6847904",
-      "intitule": "Alternance Community Manager - Miramas (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "13 - Miramas",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-12",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6847904"
-    },
-    {
       "id": "213TCLP",
       "intitule": "Community manager",
       "entreprise": "L'ATELIER DU PRO",
@@ -633,16 +653,6 @@
       "salaire": null,
       "date_publication": "2026-09-11",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6827320"
-    },
-    {
-      "id": "213RYXH",
-      "intitule": "Graphiste et Community manager (H/F)",
-      "entreprise": "MAIRIE GRIGNY-SUR-RHONE",
-      "lieu": "69 - GRIGNY",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-10",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213RYXH"
     },
     {
       "id": "213RYNM",
@@ -733,16 +743,6 @@
       "salaire": null,
       "date_publication": "2026-09-08",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6707347"
-    },
-    {
-      "id": "213LQMG",
-      "intitule": "Vendeur/ Community Manager en alternance (H/F)",
-      "entreprise": "MY BEST ALTERNANCE - MBA",
-      "lieu": "06 - CANNES",
-      "contrat": "CDD - 24 Mois",
-      "salaire": "Mensuel de 800.0 Euros à 1766.92 Euros",
-      "date_publication": "2026-09-06",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LQMG"
     },
     {
       "id": "6682582",
@@ -955,16 +955,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6444923"
     },
     {
-      "id": "6382011",
-      "intitule": "Alternance Community Manager et réseaux - Paris (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "75 - Paris 7e Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-28",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6382011"
-    },
-    {
       "id": "6327408",
       "intitule": "COMMUNITY MANAGER MULTI-SITES & CRÉATEUR DE CONTENU H/F",
       "entreprise": "Intermarché",
@@ -1095,14 +1085,14 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5503316"
     },
     {
-      "id": "211JVJB",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "LES EDITIONS CORSES",
-      "lieu": "2B - LUCCIANA",
+      "id": "211RNTH",
+      "intitule": "Assistant Manager (H/F)",
+      "entreprise": "MOULIN D'ELISE",
+      "lieu": "29 - PLOURIN LES MORLAIX",
       "contrat": "CDI",
-      "salaire": "Mensuel de 2200.0 Euros à 2600.0 Euros",
-      "date_publication": "2026-07-20",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211JVJB"
+      "salaire": null,
+      "date_publication": "2026-07-27",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211RNTH"
     },
     {
       "id": "4779659",
