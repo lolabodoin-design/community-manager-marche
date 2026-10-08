@@ -1,9 +1,69 @@
 {
-  "derniere_maj": "2026-10-07T11:28:30+00:00",
+  "derniere_maj": "2026-10-08T11:44:08+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 113,
+  "nombre_offres": 117,
   "offres": [
+    {
+      "id": "7770991",
+      "intitule": "Alternance Community manager - Marseille (F/H)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "13 - Marseille",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-08",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7770991"
+    },
+    {
+      "id": "7750912",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "13 - Saint-Victoret",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-08",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7750912"
+    },
+    {
+      "id": "7750893",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "13 - Châteauneuf-les-Martigues",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-08",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7750893"
+    },
+    {
+      "id": "7749896",
+      "intitule": "Community Manager E-commerce & Retail (H/F)",
+      "entreprise": "LECLERC VOYAGES",
+      "lieu": "59 - Bellaing",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-08",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7749896"
+    },
+    {
+      "id": "214YBFZ",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "FUTUR LIMITED CO",
+      "lieu": "75 - PARIS",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 2400.0 Euros",
+      "date_publication": "2026-10-07",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214YBFZ"
+    },
+    {
+      "id": "7747799",
+      "intitule": "Animateur H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "06 - Alpes-Maritimes",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-07",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7747799"
+    },
     {
       "id": "214WMMM",
       "intitule": "Community Manager (H/F)",
@@ -43,16 +103,6 @@
       "salaire": null,
       "date_publication": "2026-10-06",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7711332"
-    },
-    {
-      "id": "7711304",
-      "intitule": "Community Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "49 - Beaucouzé",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-06",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7711304"
     },
     {
       "id": "7710168",
@@ -745,16 +795,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6707347"
     },
     {
-      "id": "6682582",
-      "intitule": "Alternance - Community Manager - Bac+3 H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "35 - Acigné",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-06",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6682582"
-    },
-    {
       "id": "6667448",
       "intitule": "Alternance Junior Communication Manager - Morangis (F/H)",
       "entreprise": "Entreprise non précisée",
@@ -975,6 +1015,16 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6306139"
     },
     {
+      "id": "212WZNQ",
+      "intitule": "Community manager",
+      "entreprise": "AU PAYS DES ANES",
+      "lieu": "42 - ANDREZIEUX BOUTHEON",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-08-25",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212WZNQ"
+    },
+    {
       "id": "5993930",
       "intitule": "Alternance community et brand content - Marseille (F/H)",
       "entreprise": "Entreprise non précisée",
@@ -983,16 +1033,6 @@
       "salaire": null,
       "date_publication": "2026-08-14",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5993930"
-    },
-    {
-      "id": "5959813",
-      "intitule": "Alternance - Chargé de Communication & Développement de Communauté H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "35 - Cesson-Sévigné",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-13",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5959813"
     },
     {
       "id": "5901934",
