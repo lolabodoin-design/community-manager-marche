@@ -1,9 +1,59 @@
 {
-  "derniere_maj": "2026-10-08T11:44:08+00:00",
+  "derniere_maj": "2026-10-09T11:37:18+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 117,
+  "nombre_offres": 118,
   "offres": [
+    {
+      "id": "214ZRWP",
+      "intitule": "Community manager",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "11 - NARBONNE",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 1950.0 Euros",
+      "date_publication": "2026-10-09",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214ZRWP"
+    },
+    {
+      "id": "214ZLDZ",
+      "intitule": "Alternant(e) Community Manager & Webmaster (H/F)",
+      "entreprise": "EQUIPE CARAVANES",
+      "lieu": "02 - DAMMARD",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-09",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214ZLDZ"
+    },
+    {
+      "id": "214YTCC",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "EMMAUS GRAND SUD",
+      "lieu": "974 - ST PIERRE",
+      "contrat": "CDD Insertion - 12 Mois",
+      "salaire": "Mensuel de 1281.0 Euros à 1282.0 Euros",
+      "date_publication": "2026-10-08",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214YTCC"
+    },
+    {
+      "id": "7779237",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "69 - Albigny-sur-Saône",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-08",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7779237"
+    },
+    {
+      "id": "7779075",
+      "intitule": "Community Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "49 - Beaucouzé",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-08",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7779075"
+    },
     {
       "id": "7770991",
       "intitule": "Alternance Community manager - Marseille (F/H)",
@@ -305,6 +355,16 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PVJH"
     },
     {
+      "id": "214PNCS",
+      "intitule": "COMMUNITY MANAGER H/F (H/F)",
+      "entreprise": "LE NOVELTY",
+      "lieu": "34 - MONTPELLIER",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 2101.0 Euros",
+      "date_publication": "2026-09-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PNCS"
+    },
+    {
       "id": "214PHZH",
       "intitule": "Community manager (H/F)",
       "entreprise": "INTERNATIONAL BURGER'S COMPANY",
@@ -425,16 +485,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7398726"
     },
     {
-      "id": "7380029",
-      "intitule": "Expert Développeur React DSFR - Freelance (H/F)",
-      "entreprise": "Collective.work",
-      "lieu": "44 - Nantes",
-      "contrat": "Profession libérale",
-      "salaire": null,
-      "date_publication": "2026-09-25",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7380029"
-    },
-    {
       "id": "214JLHD",
       "intitule": "Community manager (H/F)",
       "entreprise": "SUSHI INVEST",
@@ -503,16 +553,6 @@
       "salaire": null,
       "date_publication": "2026-09-23",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7117848"
-    },
-    {
-      "id": "214GKZW",
-      "intitule": "Renfort community manager - accueil (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "73 - ORELLE",
-      "contrat": "CDD - 6 Mois",
-      "salaire": "Mensuel de 1964.0 Euros - avantage en nature : forfait saison 3 Vallées",
-      "date_publication": "2026-09-22",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214GKZW"
     },
     {
       "id": "214FGWW",
@@ -623,16 +663,6 @@
       "salaire": "Annuel de 489.0 Euros à 1801.0 Euros",
       "date_publication": "2026-09-17",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6944573"
-    },
-    {
-      "id": "213YNXN",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "BLUETAINER",
-      "lieu": "66 - PERPIGNAN",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-16",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213YNXN"
     },
     {
       "id": "6927940",
@@ -843,26 +873,6 @@
       "salaire": null,
       "date_publication": "2026-09-03",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6539958"
-    },
-    {
-      "id": "213GGWJ",
-      "intitule": "Chargé(e) de communication digitale & création de contenu H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "974 - ST LOUIS",
-      "contrat": "CDD - 6 Mois",
-      "salaire": "Mensuel de 2000.0 Euros",
-      "date_publication": "2026-09-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213GGWJ"
-    },
-    {
-      "id": "6533030",
-      "intitule": "Community Manager F/H - DESSANGE Paris 01 - rue du chevalier Saint Georges",
-      "entreprise": "DESSANGE Paris 01 - rue du chevalier Saint Georges",
-      "lieu": "75 - Paris 1er Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6533030"
     },
     {
       "id": "6517557",
