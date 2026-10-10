@@ -1,9 +1,39 @@
 {
-  "derniere_maj": "2026-10-09T11:37:18+00:00",
+  "derniere_maj": "2026-10-10T10:54:55+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 118,
+  "nombre_offres": 117,
   "offres": [
+    {
+      "id": "7833746",
+      "intitule": "Alternance Community Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "06 - Nice",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-10",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7833746"
+    },
+    {
+      "id": "7815134",
+      "intitule": "Community Manager E-commerce & Retail (H/F)",
+      "entreprise": "LECLERC VOYAGES",
+      "lieu": "44 - Pontchâteau",
+      "contrat": "CDD - 24 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-10",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7815134"
+    },
+    {
+      "id": "215BDDY",
+      "intitule": "Community Manager / Créateur de contenu - CDD (H/F)",
+      "entreprise": "2A COMMUNICATION",
+      "lieu": "44 - NANTES",
+      "contrat": "CDD - 2 Mois",
+      "salaire": "Mensuel de 2150.0 Euros",
+      "date_publication": "2026-10-09",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215BDDY"
+    },
     {
       "id": "214ZRWP",
       "intitule": "Community manager",
@@ -25,6 +55,26 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214ZLDZ"
     },
     {
+      "id": "7812948",
+      "intitule": "Community Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "75 - Paris",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-09",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7812948"
+    },
+    {
+      "id": "7811369",
+      "intitule": "community manager H/F - EC20653",
+      "entreprise": "Département de la Vendée",
+      "lieu": "85 - Roche-sur-Yon",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-09",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7811369"
+    },
+    {
       "id": "214YTCC",
       "intitule": "Community manager (H/F)",
       "entreprise": "EMMAUS GRAND SUD",
@@ -43,16 +93,6 @@
       "salaire": null,
       "date_publication": "2026-10-08",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7779237"
-    },
-    {
-      "id": "7779075",
-      "intitule": "Community Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "49 - Beaucouzé",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-08",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7779075"
     },
     {
       "id": "7770991",
@@ -123,26 +163,6 @@
       "salaire": "Mensuel de 1900.0 Euros à 2100.0 Euros",
       "date_publication": "2026-10-06",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214WMMM"
-    },
-    {
-      "id": "7711442",
-      "intitule": "Chargé(e) des Relations Partenaires - Toulouse - Groupe IMMO9 (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "31 - Haute-Garonne",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-06",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7711442"
-    },
-    {
-      "id": "7711381",
-      "intitule": "Community Manager H/F CONFIRMEE",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "93 - Rosny-sous-Bois",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-06",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7711381"
     },
     {
       "id": "7711332",
@@ -273,16 +293,6 @@
       "salaire": "Annuel de 28000.0 Euros",
       "date_publication": "2026-10-02",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RXHR"
-    },
-    {
-      "id": "7599974",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "62 - Noyelles-Godault",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7599974"
     },
     {
       "id": "7599585",
@@ -915,16 +925,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213DCPM"
     },
     {
-      "id": "6460543",
-      "intitule": "Alternance Community Manager - Le Plessis-Belleville (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "60 - Lagny-le-Sec",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-31",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6460543"
-    },
-    {
       "id": "6445051",
       "intitule": "Animateur / Animatrice de communauté virtuelle (H/F)",
       "entreprise": "INSTITUT NATIONAL DE RECHERCHE EN INFORM",
@@ -1033,16 +1033,6 @@
       "salaire": null,
       "date_publication": "2026-08-25",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/212WZNQ"
-    },
-    {
-      "id": "5993930",
-      "intitule": "Alternance community et brand content - Marseille (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "13 - Marseille",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-14",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5993930"
     },
     {
       "id": "5901934",
