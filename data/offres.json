@@ -1,18 +1,38 @@
 {
-  "derniere_maj": "2026-10-10T10:54:55+00:00",
+  "derniere_maj": "2026-10-11T11:09:18+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 117,
+  "nombre_offres": 113,
   "offres": [
     {
-      "id": "7833746",
-      "intitule": "Alternance Community Manager H/F",
+      "id": "7841943",
+      "intitule": "Community Manager H/F CONFIRMEE",
       "entreprise": "Entreprise non précisée",
-      "lieu": "06 - Nice",
-      "contrat": "CDD - 12 Mois",
+      "lieu": "93 - Rosny-sous-Bois",
+      "contrat": "CDI",
       "salaire": null,
       "date_publication": "2026-10-10",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7833746"
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7841943"
+    },
+    {
+      "id": "7841837",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "62 - Noyelles-Godault",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-10",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7841837"
+    },
+    {
+      "id": "7841809",
+      "intitule": "Community Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "49 - Beaucouzé",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-10",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7841809"
     },
     {
       "id": "7815134",
@@ -55,16 +75,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214ZLDZ"
     },
     {
-      "id": "7812948",
-      "intitule": "Community Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "75 - Paris",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-09",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7812948"
-    },
-    {
       "id": "7811369",
       "intitule": "community manager H/F - EC20653",
       "entreprise": "Département de la Vendée",
@@ -103,26 +113,6 @@
       "salaire": null,
       "date_publication": "2026-10-08",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7770991"
-    },
-    {
-      "id": "7750912",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "13 - Saint-Victoret",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-08",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7750912"
-    },
-    {
-      "id": "7750893",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "13 - Châteauneuf-les-Martigues",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-08",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7750893"
     },
     {
       "id": "7749896",
@@ -313,16 +303,6 @@
       "salaire": null,
       "date_publication": "2026-10-02",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7588754"
-    },
-    {
-      "id": "7587718",
-      "intitule": "ANIMAteur(trice)/ANIMATEUR H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "17 - Royan",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7587718"
     },
     {
       "id": "7586931",
@@ -745,16 +725,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6827320"
     },
     {
-      "id": "213RYNM",
-      "intitule": "COMMUNITY MANAGER - WEBMASTER (H/F)",
-      "entreprise": "COMMUNAUTE URBAINE D'ALENCON",
-      "lieu": "61 - ALENCON",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-10",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213RYNM"
-    },
-    {
       "id": "6806004",
       "intitule": "Community Manager F/H - OVERSTIMS",
       "entreprise": "OVERSTIMS",
@@ -1033,16 +1003,6 @@
       "salaire": null,
       "date_publication": "2026-08-25",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/212WZNQ"
-    },
-    {
-      "id": "5901934",
-      "intitule": "Alternance Community Manager - Arcueil (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "94 - Arcueil",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-11",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5901934"
     },
     {
       "id": "5886748",
