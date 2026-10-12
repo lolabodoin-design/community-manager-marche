@@ -1,9 +1,39 @@
 {
-  "derniere_maj": "2026-10-11T11:09:18+00:00",
+  "derniere_maj": "2026-10-12T12:40:06+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
   "nombre_offres": 113,
   "offres": [
+    {
+      "id": "215CFLQ",
+      "intitule": "Community Manager en alternance (H/F)",
+      "entreprise": "GROUPE ALTERNANCE ROCHEFORT",
+      "lieu": "17 - Montendre",
+      "contrat": "CDD - 24 Mois",
+      "salaire": "Mensuel de 505.0 Euros à 1867.0 Euros",
+      "date_publication": "2026-10-12",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CFLQ"
+    },
+    {
+      "id": "215CBXZ",
+      "intitule": "Community manager / Hôte d'accueil en salon de coiffure (H/F)",
+      "entreprise": "CAMILLE ALBANE",
+      "lieu": "06 - CANNES",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-12",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CBXZ"
+    },
+    {
+      "id": "7849897",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "75 - Paris",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-11",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7849897"
+    },
     {
       "id": "7841943",
       "intitule": "Community Manager H/F CONFIRMEE",
@@ -43,6 +73,16 @@
       "salaire": null,
       "date_publication": "2026-10-10",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7815134"
+    },
+    {
+      "id": "215BJMS",
+      "intitule": "Alternant(e) Community Manager (H/F)",
+      "entreprise": "CIPECMA",
+      "lieu": "17 - CHATELAILLON-PLAGE",
+      "contrat": "CDD - 24 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-09",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215BJMS"
     },
     {
       "id": "215BDDY",
@@ -125,16 +165,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7749896"
     },
     {
-      "id": "214YBFZ",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "FUTUR LIMITED CO",
-      "lieu": "75 - PARIS",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 2400.0 Euros",
-      "date_publication": "2026-10-07",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214YBFZ"
-    },
-    {
       "id": "7747799",
       "intitule": "Animateur H/F",
       "entreprise": "Entreprise non précisée",
@@ -173,16 +203,6 @@
       "salaire": null,
       "date_publication": "2026-10-06",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7710168"
-    },
-    {
-      "id": "214TWBX",
-      "intitule": "Community Manager en alternance (H/F)",
-      "entreprise": "GROUPE ALTERNANCE ROCHEFORT",
-      "lieu": "17 - Montendre",
-      "contrat": "CDD - 24 Mois",
-      "salaire": "Mensuel de 505.0 Euros à 1867.0 Euros",
-      "date_publication": "2026-10-05",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214TWBX"
     },
     {
       "id": "7673246",
@@ -275,6 +295,16 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7627113"
     },
     {
+      "id": "214SFWC",
+      "intitule": "Community manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "91 - GUILLERVAL",
+      "contrat": "CDI",
+      "salaire": "Horaire de 12.31 Euros",
+      "date_publication": "2026-10-02",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214SFWC"
+    },
+    {
       "id": "214RXHR",
       "intitule": "E-Reputation Associate (H/F)",
       "entreprise": "LA CADETTE",
@@ -343,16 +373,6 @@
       "salaire": null,
       "date_publication": "2026-09-30",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PVJH"
-    },
-    {
-      "id": "214PNCS",
-      "intitule": "COMMUNITY MANAGER H/F (H/F)",
-      "entreprise": "LE NOVELTY",
-      "lieu": "34 - MONTPELLIER",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 2101.0 Euros",
-      "date_publication": "2026-09-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PNCS"
     },
     {
       "id": "214PHZH",
@@ -725,16 +745,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6827320"
     },
     {
-      "id": "6806004",
-      "intitule": "Community Manager F/H - OVERSTIMS",
-      "entreprise": "OVERSTIMS",
-      "lieu": "56 - Plescop",
-      "contrat": "CDI",
-      "salaire": "Annuel de 23000.0 Euros à 27000.0 Euros",
-      "date_publication": "2026-09-10",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6806004"
-    },
-    {
       "id": "6797661",
       "intitule": "Alternance Community Manager & Content Creator - Paris (H/F)",
       "entreprise": "ISCOD",
@@ -855,16 +865,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6539958"
     },
     {
-      "id": "6517557",
-      "intitule": "Alternance Communication digitale & Community Management - Cagnes-sur-Mer (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "06 - Cagnes-sur-Mer",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6517557"
-    },
-    {
       "id": "6508220",
       "intitule": "Animateur / Animatrice de communauté virtuelle (H/F)",
       "entreprise": "VITTORIA",
@@ -873,16 +873,6 @@
       "salaire": null,
       "date_publication": "2026-09-02",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6508220"
-    },
-    {
-      "id": "6495551",
-      "intitule": "Alternance Community Manager - Issy-les-Moulineaux (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "92 - Issy-les-Moulineaux",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-01",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6495551"
     },
     {
       "id": "213DCPM",
@@ -1033,6 +1023,16 @@
       "salaire": null,
       "date_publication": "2026-08-08",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5835571"
+    },
+    {
+      "id": "212CKGW",
+      "intitule": "Chargé.e de communication senior - ESS / Impact social (H/F)",
+      "entreprise": "ARES",
+      "lieu": "93 - PANTIN",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 2905.0 Euros - Politique dynamique de développement des compétences et de mobilité infra-groupe",
+      "date_publication": "2026-08-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212CKGW"
     },
     {
       "id": "5718083",
