@@ -1,9 +1,29 @@
 {
-  "derniere_maj": "2026-10-12T12:40:06+00:00",
+  "derniere_maj": "2026-10-13T12:25:14+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 113,
+  "nombre_offres": 108,
   "offres": [
+    {
+      "id": "7890118",
+      "intitule": "ASSISTANT MARKETING / COMMUNITY MANAGER - H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "68 - Rixheim",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-13",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7890118"
+    },
+    {
+      "id": "7889494",
+      "intitule": "COMMUNITY MANAGER EN ALTERNANCE H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "65 - Juillan",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-13",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7889494"
+    },
     {
       "id": "215CFLQ",
       "intitule": "Community Manager en alternance (H/F)",
@@ -25,16 +45,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CBXZ"
     },
     {
-      "id": "7849897",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "75 - Paris",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-11",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7849897"
-    },
-    {
       "id": "7841943",
       "intitule": "Community Manager H/F CONFIRMEE",
       "entreprise": "Entreprise non précisée",
@@ -53,16 +63,6 @@
       "salaire": null,
       "date_publication": "2026-10-10",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7841837"
-    },
-    {
-      "id": "7841809",
-      "intitule": "Community Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "49 - Beaucouzé",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-10",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7841809"
     },
     {
       "id": "7815134",
@@ -165,16 +165,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7749896"
     },
     {
-      "id": "7747799",
-      "intitule": "Animateur H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "06 - Alpes-Maritimes",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-07",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7747799"
-    },
-    {
       "id": "214WMMM",
       "intitule": "Community Manager (H/F)",
       "entreprise": "Entreprise non précisée",
@@ -183,26 +173,6 @@
       "salaire": "Mensuel de 1900.0 Euros à 2100.0 Euros",
       "date_publication": "2026-10-06",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214WMMM"
-    },
-    {
-      "id": "7711332",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "75 - Paris",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-06",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7711332"
-    },
-    {
-      "id": "7710168",
-      "intitule": "Alternante, alternant approvisionneur IT / Immobilier F/H - ESCP Business School",
-      "entreprise": "ESCP Business School",
-      "lieu": "75 - Paris 17e Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-06",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7710168"
     },
     {
       "id": "7673246",
@@ -313,16 +283,6 @@
       "salaire": "Annuel de 28000.0 Euros",
       "date_publication": "2026-10-02",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RXHR"
-    },
-    {
-      "id": "7599585",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "75 - Paris",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7599585"
     },
     {
       "id": "7588754",
@@ -983,16 +943,6 @@
       "salaire": null,
       "date_publication": "2026-08-26",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6306139"
-    },
-    {
-      "id": "212WZNQ",
-      "intitule": "Community manager",
-      "entreprise": "AU PAYS DES ANES",
-      "lieu": "42 - ANDREZIEUX BOUTHEON",
-      "contrat": "CDD - 6 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-25",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212WZNQ"
     },
     {
       "id": "5886748",
