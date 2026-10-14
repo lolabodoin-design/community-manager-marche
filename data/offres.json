@@ -1,18 +1,68 @@
 {
-  "derniere_maj": "2026-10-13T12:25:14+00:00",
+  "derniere_maj": "2026-10-14T09:53:02+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 108,
+  "nombre_offres": 109,
   "offres": [
     {
-      "id": "7890118",
-      "intitule": "ASSISTANT MARKETING / COMMUNITY MANAGER - H/F",
+      "id": "7907785",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "Intermarché",
+      "lieu": "39 - Dole",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-14",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7907785"
+    },
+    {
+      "id": "7903166",
+      "intitule": "Community Manager en Alternance H/F",
+      "entreprise": "Mercato de l'emploi",
+      "lieu": "65 - Juillan",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-14",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7903166"
+    },
+    {
+      "id": "7897019",
+      "intitule": "Animateur H/F",
       "entreprise": "Entreprise non précisée",
-      "lieu": "68 - Rixheim",
+      "lieu": "06 - Alpes-Maritimes",
       "contrat": "CDI",
       "salaire": null,
       "date_publication": "2026-10-13",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7890118"
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7897019"
+    },
+    {
+      "id": "7896832",
+      "intitule": "Community Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "49 - Beaucouzé",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-13",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7896832"
+    },
+    {
+      "id": "7896636",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "93 - Seine-Saint-Denis",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-13",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7896636"
+    },
+    {
+      "id": "7892519",
+      "intitule": "Orange Wholesale - Stagiaire Community Manager (H/F)",
+      "entreprise": "Orange SA",
+      "lieu": "92 - Issy-les-Moulineaux",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-13",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7892519"
     },
     {
       "id": "7889494",
@@ -265,16 +315,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7627113"
     },
     {
-      "id": "214SFWC",
-      "intitule": "Community manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "91 - GUILLERVAL",
-      "contrat": "CDI",
-      "salaire": "Horaire de 12.31 Euros",
-      "date_publication": "2026-10-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214SFWC"
-    },
-    {
       "id": "214RXHR",
       "intitule": "E-Reputation Associate (H/F)",
       "entreprise": "LA CADETTE",
@@ -415,16 +455,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7465127"
     },
     {
-      "id": "7431020",
-      "intitule": "COMMUNITY MANAGER - H/F",
-      "entreprise": "Société des trois vallées",
-      "lieu": "73 - Courchevel",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-26",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7431020"
-    },
-    {
       "id": "7427717",
       "intitule": "Alternance - Community manager (H/F)",
       "entreprise": "E2SE Business School",
@@ -443,16 +473,6 @@
       "salaire": null,
       "date_publication": "2026-09-25",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214KXYF"
-    },
-    {
-      "id": "7398726",
-      "intitule": "APPRENTI(E) COMMUNITY MANAGER - H/F",
-      "entreprise": "Groupe CHOPARD",
-      "lieu": "25 - Besançon",
-      "contrat": "CDD - 24 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-25",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7398726"
     },
     {
       "id": "214JLHD",
@@ -793,16 +813,6 @@
       "salaire": "Mensuel de 1900.0 Euros à 2300.0 Euros",
       "date_publication": "2026-09-04",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213LKDG"
-    },
-    {
-      "id": "6623766",
-      "intitule": "Alternance Community manager Gaming / Multimédia - La Buissière (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "38 - Saint-Maximin",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-04",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6623766"
     },
     {
       "id": "6576277",
