@@ -1,9 +1,79 @@
 {
-  "derniere_maj": "2026-10-14T09:53:02+00:00",
+  "derniere_maj": "2026-10-15T09:34:07+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 109,
+  "nombre_offres": 106,
   "offres": [
+    {
+      "id": "7956716",
+      "intitule": "Alternance Community manager - Montauban (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "82 - Montauban",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-15",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7956716"
+    },
+    {
+      "id": "7934811",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "Mercato de l'emploi",
+      "lieu": "75 - Paris 1er Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": "Annuel de 36500.0 Euros à 47000.0 Euros",
+      "date_publication": "2026-10-15",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7934811"
+    },
+    {
+      "id": "7934056",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "LE MERCATO DE L EMPLOI",
+      "lieu": "75 - Paris 9e Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": "Annuel de 36500.0 Euros à 47000.0 Euros - De 36500 à 47000 € (Euros) par an",
+      "date_publication": "2026-10-15",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7934056"
+    },
+    {
+      "id": "215FTWK",
+      "intitule": "Community manager",
+      "entreprise": "LEON GROSSE",
+      "lieu": "78 - VERSAILLES",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-14",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215FTWK"
+    },
+    {
+      "id": "7930000",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "75 - Paris",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-14",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7930000"
+    },
+    {
+      "id": "7929572",
+      "intitule": "Chargé de relations clients (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "69 - Irigny",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-14",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7929572"
+    },
+    {
+      "id": "7926520",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "39 - Dole",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-14",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7926520"
+    },
     {
       "id": "7907785",
       "intitule": "Community Manager (H/F)",
@@ -13,16 +83,6 @@
       "salaire": null,
       "date_publication": "2026-10-14",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7907785"
-    },
-    {
-      "id": "7903166",
-      "intitule": "Community Manager en Alternance H/F",
-      "entreprise": "Mercato de l'emploi",
-      "lieu": "65 - Juillan",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-14",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7903166"
     },
     {
       "id": "7897019",
@@ -145,16 +205,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215BDDY"
     },
     {
-      "id": "214ZRWP",
-      "intitule": "Community manager",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "11 - NARBONNE",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 1950.0 Euros",
-      "date_publication": "2026-10-09",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214ZRWP"
-    },
-    {
       "id": "214ZLDZ",
       "intitule": "Alternant(e) Community Manager & Webmaster (H/F)",
       "entreprise": "EQUIPE CARAVANES",
@@ -223,16 +273,6 @@
       "salaire": "Mensuel de 1900.0 Euros à 2100.0 Euros",
       "date_publication": "2026-10-06",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214WMMM"
-    },
-    {
-      "id": "7673246",
-      "intitule": "Community Manager en alternance (H/F) - Pérénia",
-      "entreprise": "Pérénia",
-      "lieu": "62 - Sains-en-Gohelle",
-      "contrat": "CDD - 24 Mois",
-      "salaire": "Mensuel de 1200.0 Euros à 1900.0 Euros",
-      "date_publication": "2026-10-05",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7673246"
     },
     {
       "id": "7665266",
@@ -650,7 +690,7 @@
       "entreprise": "Entreprise non précisée",
       "lieu": "59 - Lille",
       "contrat": "CDD - 12 Mois",
-      "salaire": "Annuel de 489.0 Euros à 1801.0 Euros",
+      "salaire": "Annuel de 489.0 Euros à 1801.8 Euros",
       "date_publication": "2026-09-17",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6944573"
     },
@@ -695,16 +735,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6895797"
     },
     {
-      "id": "213VSCS",
-      "intitule": "Responsable Customer Success & Communauté (H/F)",
-      "entreprise": "LIBERTY RIDER",
-      "lieu": "31 - Toulouse",
-      "contrat": "CDI",
-      "salaire": "Annuel de 34000.0 Euros à 38000.0 Euros",
-      "date_publication": "2026-09-14",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213VSCS"
-    },
-    {
       "id": "213TCLP",
       "intitule": "Community manager",
       "entreprise": "L'ATELIER DU PRO",
@@ -735,16 +765,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6797661"
     },
     {
-      "id": "6782074",
-      "intitule": "Animateur / Animatrice de communauté virtuelle (H/F)",
-      "entreprise": "NANI 7",
-      "lieu": "75 - Paris 19e Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-10",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6782074"
-    },
-    {
       "id": "6782061",
       "intitule": "Assistant / Assistante community manager (H/F)",
       "entreprise": "ITIC PARIS",
@@ -765,16 +785,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6749253"
     },
     {
-      "id": "6707361",
-      "intitule": "Animateur / Animatrice de communauté virtuelle (H/F)",
-      "entreprise": "HOME SWEET",
-      "lieu": "93 - Aubervilliers",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-08",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6707361"
-    },
-    {
       "id": "6707351",
       "intitule": "Assistant / Assistante community manager (H/F)",
       "entreprise": "H AUTO NETTOYAGE",
@@ -783,16 +793,6 @@
       "salaire": null,
       "date_publication": "2026-09-08",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6707351"
-    },
-    {
-      "id": "6707347",
-      "intitule": "Animateur / Animatrice web (H/F)",
-      "entreprise": "ACUITY-EAC",
-      "lieu": "75 - Paris 12e Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-08",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6707347"
     },
     {
       "id": "6667448",
@@ -833,16 +833,6 @@
       "salaire": null,
       "date_publication": "2026-09-03",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6539958"
-    },
-    {
-      "id": "6508220",
-      "intitule": "Animateur / Animatrice de communauté virtuelle (H/F)",
-      "entreprise": "VITTORIA",
-      "lieu": "69 - Corbas",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6508220"
     },
     {
       "id": "213DCPM",
@@ -995,16 +985,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/212CKGW"
     },
     {
-      "id": "5718083",
-      "intitule": "Assistant / Assistante community manager (H/F)",
-      "entreprise": "MY PROPERTY",
-      "lieu": "78 - Houilles",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-05",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5718083"
-    },
-    {
       "id": "5659836",
       "intitule": "STAGE EN COMMUNICATION (2 MOIS) - H/F",
       "entreprise": "Entreprise non précisée",
@@ -1033,16 +1013,6 @@
       "salaire": null,
       "date_publication": "2026-07-30",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5570863"
-    },
-    {
-      "id": "5503316",
-      "intitule": "Assistant / Assistante community manager (H/F)",
-      "entreprise": "DRINK TEAM",
-      "lieu": "56 - Hennebont",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-07-28",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5503316"
     },
     {
       "id": "211RNTH",
