@@ -1,9 +1,19 @@
 {
-  "derniere_maj": "2026-10-16T09:26:47+00:00",
+  "derniere_maj": "2026-10-17T08:57:55+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 104,
+  "nombre_offres": 102,
   "offres": [
+    {
+      "id": "215HRTW",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "LIGUE ATHLETISME REGIONALE GRAND EST",
+      "lieu": "54 - TOMBLAINE",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-16",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215HRTW"
+    },
     {
       "id": "8007157",
       "intitule": "Community Manager H/F - CDI - Mode",
@@ -545,16 +555,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RXHR"
     },
     {
-      "id": "7588754",
-      "intitule": "Alternance Community manager - Grigny (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "62 - Grigny",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7588754"
-    },
-    {
       "id": "7586931",
       "intitule": "Alternance Community manager - Grigny (H/F)",
       "entreprise": "ISCOD",
@@ -583,16 +583,6 @@
       "salaire": null,
       "date_publication": "2026-10-01",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7554342"
-    },
-    {
-      "id": "214PVJH",
-      "intitule": "Community manager en apprentissage (H/F)",
-      "entreprise": "MYBS 54",
-      "lieu": "54 - ESSEY LES NANCY",
-      "contrat": "CDD - 24 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PVJH"
     },
     {
       "id": "7515050",
@@ -743,16 +733,6 @@
       "salaire": null,
       "date_publication": "2026-09-22",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7071595"
-    },
-    {
-      "id": "214DRZT",
-      "intitule": "ALTERNANT Community manager (H/F)",
-      "entreprise": "PLOMB ADDICT",
-      "lieu": "40 - JOSSE",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-21",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214DRZT"
     },
     {
       "id": "7053788",
