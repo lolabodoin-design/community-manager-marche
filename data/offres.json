@@ -1,8 +1,8 @@
 {
-  "derniere_maj": "2026-10-17T08:57:55+00:00",
+  "derniere_maj": "2026-10-18T09:17:28+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 102,
+  "nombre_offres": 104,
   "offres": [
     {
       "id": "215HRTW",
@@ -585,6 +585,16 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7554342"
     },
     {
+      "id": "214PNCS",
+      "intitule": "COMMUNITY MANAGER H/F (H/F)",
+      "entreprise": "LE NOVELTY",
+      "lieu": "34 - MONTPELLIER",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 2101.0 Euros",
+      "date_publication": "2026-09-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PNCS"
+    },
+    {
       "id": "7515050",
       "intitule": "Alternance Community manager en immobilier - Paris (H/F)",
       "entreprise": "ISCOD",
@@ -995,14 +1005,14 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4779659"
     },
     {
-      "id": "210RSNH",
-      "intitule": "Marketing Community Manager / Alternance / St-Pierre (H/F)",
-      "entreprise": "STAND UP FORMATION SUD",
-      "lieu": "974 - Saint-Pierre",
-      "contrat": "CDD - 15 Mois",
-      "salaire": null,
-      "date_publication": "2026-07-03",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210RSNH"
+      "id": "210PMRT",
+      "intitule": "COMMUNITY MANAGER FREELANCE (H/F)",
+      "entreprise": "KONAN MARC-MICHAEL/FRESH ALIVE",
+      "lieu": "78 - MEZY SUR SEINE",
+      "contrat": "CDD - 3 Mois",
+      "salaire": "Mensuel de 1870.0 Euros sur 12 mois",
+      "date_publication": "2026-07-01",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210PMRT"
     },
     {
       "id": "3971398",
@@ -1023,6 +1033,16 @@
       "salaire": null,
       "date_publication": "2026-06-06",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/3539810"
+    },
+    {
+      "id": "207NGMX",
+      "intitule": "Community Manager en alternance (H/F)",
+      "entreprise": "VECTEUR PLUS",
+      "lieu": "44 - BOUGUENAIS",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-04-27",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/207NGMX"
     }
   ]
 }
