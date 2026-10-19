@@ -1,9 +1,49 @@
 {
-  "derniere_maj": "2026-10-18T09:17:28+00:00",
+  "derniere_maj": "2026-10-19T10:27:17+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 104,
+  "nombre_offres": 101,
   "offres": [
+    {
+      "id": "8064133",
+      "intitule": "Alternance Alternant Community Manager / Marketing Digital - Carros (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "06 - Bézaudun-les-Alpes",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-19",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8064133"
+    },
+    {
+      "id": "8032979",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "56 - Vannes",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-18",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8032979"
+    },
+    {
+      "id": "8030653",
+      "intitule": "community manager créateur contenu digital H/F - EC22406",
+      "entreprise": "Ville de Troyes",
+      "lieu": "10 - Troyes",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-18",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8030653"
+    },
+    {
+      "id": "8022597",
+      "intitule": "Alternance Alternant Community Manager / Marketing Digital - Carros (F/H)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "06 - Carros",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-18",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8022597"
+    },
     {
       "id": "215HRTW",
       "intitule": "Community Manager (H/F)",
@@ -63,16 +103,6 @@
       "salaire": null,
       "date_publication": "2026-10-16",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988719"
-    },
-    {
-      "id": "7988688",
-      "intitule": "Assistant / Assistante community manager (H/F)",
-      "entreprise": "GREEN CONCEPT CARAIBES",
-      "lieu": "972 - Trois-Îlets",
-      "contrat": "CDD - 24 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-16",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988688"
     },
     {
       "id": "7988631",
@@ -275,16 +305,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215FTWK"
     },
     {
-      "id": "7930000",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "75 - Paris",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-14",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7930000"
-    },
-    {
       "id": "7929572",
       "intitule": "Chargé de relations clients (H/F)",
       "entreprise": "Entreprise non précisée",
@@ -313,26 +333,6 @@
       "salaire": null,
       "date_publication": "2026-10-14",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7907785"
-    },
-    {
-      "id": "7897019",
-      "intitule": "Animateur H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "06 - Alpes-Maritimes",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-13",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7897019"
-    },
-    {
-      "id": "7896636",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "93 - Seine-Saint-Denis",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-13",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7896636"
     },
     {
       "id": "7892519",
@@ -915,26 +915,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6576277"
     },
     {
-      "id": "213DCPM",
-      "intitule": "Accueil / Community manager (H/F)",
-      "entreprise": "LE TABURLE",
-      "lieu": "38 - HUEZ",
-      "contrat": "Saisonnier - 4 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-31",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213DCPM"
-    },
-    {
-      "id": "6445012",
-      "intitule": "Responsable de la communauté en ligne (H/F)",
-      "entreprise": "NOVIA",
-      "lieu": "34 - Montpellier",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-08-31",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6445012"
-    },
-    {
       "id": "6327408",
       "intitule": "COMMUNITY MANAGER MULTI-SITES & CRÉATEUR DE CONTENU H/F",
       "entreprise": "Intermarché",
@@ -1003,16 +983,6 @@
       "salaire": null,
       "date_publication": "2026-07-10",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4779659"
-    },
-    {
-      "id": "210PMRT",
-      "intitule": "COMMUNITY MANAGER FREELANCE (H/F)",
-      "entreprise": "KONAN MARC-MICHAEL/FRESH ALIVE",
-      "lieu": "78 - MEZY SUR SEINE",
-      "contrat": "CDD - 3 Mois",
-      "salaire": "Mensuel de 1870.0 Euros sur 12 mois",
-      "date_publication": "2026-07-01",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210PMRT"
     },
     {
       "id": "3971398",
