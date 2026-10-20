@@ -1,9 +1,49 @@
 {
-  "derniere_maj": "2026-10-19T10:27:17+00:00",
+  "derniere_maj": "2026-10-20T09:46:00+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 101,
+  "nombre_offres": 98,
   "offres": [
+    {
+      "id": "215KYBG",
+      "intitule": "Community Manager en alternance (H/F)",
+      "entreprise": "GROUPE ALTERNANCE ROCHEFORT",
+      "lieu": "17 - Montendre",
+      "contrat": "CDD - 24 Mois",
+      "salaire": "Mensuel de 505.0 Euros à 1867.0 Euros",
+      "date_publication": "2026-10-20",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215KYBG"
+    },
+    {
+      "id": "215KTKT",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "34 - VENDARGUES",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-20",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215KTKT"
+    },
+    {
+      "id": "8071369",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "75 - Paris",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-19",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8071369"
+    },
+    {
+      "id": "8071174",
+      "intitule": "Animateur(trice) Live TikTok et Instagram (H/F) CDI",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "95 - Groslay",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-19",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8071174"
+    },
     {
       "id": "8064133",
       "intitule": "Alternance Alternant Community Manager / Marketing Digital - Carros (H/F)",
@@ -275,26 +315,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7956716"
     },
     {
-      "id": "7934811",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "Mercato de l'emploi",
-      "lieu": "75 - Paris 1er Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Annuel de 36500.0 Euros à 47000.0 Euros",
-      "date_publication": "2026-10-15",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7934811"
-    },
-    {
-      "id": "7934056",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "LE MERCATO DE L EMPLOI",
-      "lieu": "75 - Paris 9e Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Annuel de 36500.0 Euros à 47000.0 Euros - De 36500 à 47000 € (Euros) par an",
-      "date_publication": "2026-10-15",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7934056"
-    },
-    {
       "id": "215FTWK",
       "intitule": "Community manager",
       "entreprise": "LEON GROSSE",
@@ -303,16 +323,6 @@
       "salaire": null,
       "date_publication": "2026-10-14",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215FTWK"
-    },
-    {
-      "id": "7929572",
-      "intitule": "Chargé de relations clients (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "69 - Irigny",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-14",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7929572"
     },
     {
       "id": "7926520",
@@ -353,16 +363,6 @@
       "salaire": null,
       "date_publication": "2026-10-13",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7889494"
-    },
-    {
-      "id": "215CFLQ",
-      "intitule": "Community Manager en alternance (H/F)",
-      "entreprise": "GROUPE ALTERNANCE ROCHEFORT",
-      "lieu": "17 - Montendre",
-      "contrat": "CDD - 24 Mois",
-      "salaire": "Mensuel de 505.0 Euros à 1867.0 Euros",
-      "date_publication": "2026-10-12",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CFLQ"
     },
     {
       "id": "215CBXZ",
@@ -565,6 +565,16 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7586931"
     },
     {
+      "id": "214RFPP",
+      "intitule": "- Assistant(e) de production/Community manager (H/F)",
+      "entreprise": "LOVE IS IN THE AIR",
+      "lieu": "75 - PARIS",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 1280.24 Euros",
+      "date_publication": "2026-10-01",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RFPP"
+    },
+    {
       "id": "214QXYC",
       "intitule": "Chargé de veille (H/F)",
       "entreprise": "Entreprise non précisée",
@@ -583,16 +593,6 @@
       "salaire": null,
       "date_publication": "2026-10-01",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7554342"
-    },
-    {
-      "id": "214PNCS",
-      "intitule": "COMMUNITY MANAGER H/F (H/F)",
-      "entreprise": "LE NOVELTY",
-      "lieu": "34 - MONTPELLIER",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 2101.0 Euros",
-      "date_publication": "2026-09-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PNCS"
     },
     {
       "id": "7515050",
@@ -735,16 +735,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7117848"
     },
     {
-      "id": "7071595",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "NONSTOP CONSULTING SAS",
-      "lieu": "Auvergne-Rhône-Alpes",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-22",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7071595"
-    },
-    {
       "id": "7053788",
       "intitule": "Alternance COMMUNITY MANAGER - Paris (H/F)",
       "entreprise": "ISCOD",
@@ -885,16 +875,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6827320"
     },
     {
-      "id": "6797661",
-      "intitule": "Alternance Community Manager & Content Creator - Paris (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "75 - Paris 1er Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-10",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6797661"
-    },
-    {
       "id": "6667448",
       "intitule": "Alternance Junior Communication Manager - Morangis (F/H)",
       "entreprise": "Entreprise non précisée",
@@ -953,16 +933,6 @@
       "salaire": null,
       "date_publication": "2026-08-01",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5659836"
-    },
-    {
-      "id": "5634257",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "31 - Union",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-08-01",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/5634257"
     },
     {
       "id": "211RNTH",
