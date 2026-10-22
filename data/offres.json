@@ -1,9 +1,69 @@
 {
-  "derniere_maj": "2026-10-21T09:47:16+00:00",
+  "derniere_maj": "2026-10-22T09:47:41+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 98,
+  "nombre_offres": 102,
   "offres": [
+    {
+      "id": "215NHMD",
+      "intitule": "Community manager",
+      "entreprise": "LE CHALE BLEU",
+      "lieu": "06 - NICE",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-22",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215NHMD"
+    },
+    {
+      "id": "215NFVN",
+      "intitule": "Community Manager en apprentissage (H/F)",
+      "entreprise": "ECO ALTERNATIV",
+      "lieu": "59 - SECLIN",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-22",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215NFVN"
+    },
+    {
+      "id": "8161277",
+      "intitule": "(ISFOI) Community Manager #ISF4038 (H/F)",
+      "entreprise": "ISFOI",
+      "lieu": "974 - Saint-André",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-22",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8161277"
+    },
+    {
+      "id": "8161168",
+      "intitule": "Alternance Assistant Community Manager - Toulon (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "83 - Toulon",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-22",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8161168"
+    },
+    {
+      "id": "8141980",
+      "intitule": "Gestionnaire de communauté en ligne (H/F)",
+      "entreprise": "BNP Paribas Mission Handicap ",
+      "lieu": "28 - Montreuil",
+      "contrat": "Intérim - 36 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-22",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8141980"
+    },
+    {
+      "id": "8136134",
+      "intitule": "Animateur(trice) Live TikTok et Instagram (H/F) CDI",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "95 - Groslay",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-21",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8136134"
+    },
     {
       "id": "215LKHT",
       "intitule": "Community manager (H/F)",
@@ -43,16 +103,6 @@
       "salaire": null,
       "date_publication": "2026-10-20",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215KTKT"
-    },
-    {
-      "id": "8107156",
-      "intitule": "Community Builder (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "69 - Lyon",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-20",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8107156"
     },
     {
       "id": "8106824",
@@ -203,16 +253,6 @@
       "salaire": null,
       "date_publication": "2026-10-16",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988531"
-    },
-    {
-      "id": "7988484",
-      "intitule": "Webmaster animateur / Webmaster animatrice (H/F)",
-      "entreprise": "ARGFG",
-      "lieu": "34 - Montpellier",
-      "contrat": "CDD - 24 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-16",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988484"
     },
     {
       "id": "7988462",
