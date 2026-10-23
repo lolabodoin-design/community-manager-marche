@@ -1,9 +1,59 @@
 {
-  "derniere_maj": "2026-10-22T09:47:41+00:00",
+  "derniere_maj": "2026-10-23T09:42:38+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 102,
+  "nombre_offres": 105,
   "offres": [
+    {
+      "id": "215PPPB",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "INTERNATIONAL BURGER'S COMPANY",
+      "lieu": "69 - VENISSIEUX",
+      "contrat": "CDI",
+      "salaire": "Annuel de 22800.0 Euros à 25000.0 Euros",
+      "date_publication": "2026-10-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215PPPB"
+    },
+    {
+      "id": "8193711",
+      "intitule": "Alternance Community Manager - Lyon (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "69 - Lyon 8e Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8193711"
+    },
+    {
+      "id": "8193675",
+      "intitule": "Alternance Community manager. - Paris (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "75 - Paris 8e Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8193675"
+    },
+    {
+      "id": "8192913",
+      "intitule": "Expérimentateur / Expérimentatrice en agriculture (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "17 - Rochelle",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8192913"
+    },
+    {
+      "id": "8172855",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "Mercato de l'emploi",
+      "lieu": "75 - Paris 1er Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": "Annuel de 36500.0 Euros à 47000.0 Euros",
+      "date_publication": "2026-10-23",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8172855"
+    },
     {
       "id": "215NHMD",
       "intitule": "Community manager",
@@ -23,6 +73,26 @@
       "salaire": null,
       "date_publication": "2026-10-22",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215NFVN"
+    },
+    {
+      "id": "8168990",
+      "intitule": "Community Builder (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "69 - Lyon",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-22",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8168990"
+    },
+    {
+      "id": "8165817",
+      "intitule": "Alternance Community manager (H/F) - Paris (75)",
+      "entreprise": "ICADEMIE",
+      "lieu": "75 - Paris 5e Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": "Mensuel de 800.0 Euros à 1900.0 Euros",
+      "date_publication": "2026-10-22",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8165817"
     },
     {
       "id": "8161277",
@@ -115,16 +185,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8106824"
     },
     {
-      "id": "8071369",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "75 - Paris",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-19",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8071369"
-    },
-    {
       "id": "8064133",
       "intitule": "Alternance Alternant Community Manager / Marketing Digital - Carros (H/F)",
       "entreprise": "ISCOD",
@@ -133,16 +193,6 @@
       "salaire": null,
       "date_publication": "2026-10-19",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8064133"
-    },
-    {
-      "id": "8032979",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "56 - Vannes",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-18",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8032979"
     },
     {
       "id": "8030653",
@@ -315,16 +365,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988345"
     },
     {
-      "id": "7982419",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "56 - Lanester",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-15",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7982419"
-    },
-    {
       "id": "7977312",
       "intitule": "Community Manager en alternance (H/F) - Pérénia",
       "entreprise": "Pérénia",
@@ -473,16 +513,6 @@
       "salaire": null,
       "date_publication": "2026-10-09",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7811369"
-    },
-    {
-      "id": "7779237",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "69 - Albigny-sur-Saône",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-08",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7779237"
     },
     {
       "id": "7770991",
