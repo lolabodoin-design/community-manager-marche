@@ -1,9 +1,29 @@
 {
-  "derniere_maj": "2026-10-26T10:42:51+00:00",
+  "derniere_maj": "2026-10-27T10:09:44+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 92,
+  "nombre_offres": 87,
   "offres": [
+    {
+      "id": "215RFML",
+      "intitule": "COMMUNITY MANAGER (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "13 - Marseille 8e Arrondissement",
+      "contrat": "CDI",
+      "salaire": "Horaire de 12.31 Euros",
+      "date_publication": "2026-10-26",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RFML"
+    },
+    {
+      "id": "215RFGK",
+      "intitule": "Community Manager en alternance (H/F)",
+      "entreprise": "GROUPE ALTERNANCE ROCHEFORT",
+      "lieu": "17 - Montendre",
+      "contrat": "CDD - 24 Mois",
+      "salaire": "Mensuel de 505.0 Euros à 1867.0 Euros",
+      "date_publication": "2026-10-26",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RFGK"
+    },
     {
       "id": "8259004",
       "intitule": "Mascotte (H/F)",
@@ -73,16 +93,6 @@
       "salaire": "Annuel de 22800.0 Euros à 25000.0 Euros",
       "date_publication": "2026-10-23",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215PPPB"
-    },
-    {
-      "id": "8225868",
-      "intitule": "Community Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "94 - Orly",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-23",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8225868"
     },
     {
       "id": "8207657",
@@ -165,16 +175,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215NFVN"
     },
     {
-      "id": "8168990",
-      "intitule": "Community Builder (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "69 - Lyon",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-22",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8168990"
-    },
-    {
       "id": "8165817",
       "intitule": "Alternance Community manager (H/F) - Paris (75)",
       "entreprise": "ICADEMIE",
@@ -225,24 +225,14 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215LKHT"
     },
     {
-      "id": "215LFQF",
-      "intitule": "Animateur - animatrice (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "38 - LUZINAY",
-      "contrat": "CDD - 24 Mois",
-      "salaire": null,
+      "id": "215KZYW",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "FABANIMATION SARL",
+      "lieu": "93 - Aubervilliers",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 1868.0 Euros",
       "date_publication": "2026-10-20",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215LFQF"
-    },
-    {
-      "id": "215KYBG",
-      "intitule": "Community Manager en alternance (H/F)",
-      "entreprise": "GROUPE ALTERNANCE ROCHEFORT",
-      "lieu": "17 - Montendre",
-      "contrat": "CDD - 24 Mois",
-      "salaire": "Mensuel de 505.0 Euros à 1867.0 Euros",
-      "date_publication": "2026-10-20",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215KYBG"
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215KZYW"
     },
     {
       "id": "215KTKT",
@@ -293,16 +283,6 @@
       "salaire": null,
       "date_publication": "2026-10-18",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8022597"
-    },
-    {
-      "id": "215HRTW",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "LIGUE ATHLETISME REGIONALE GRAND EST",
-      "lieu": "54 - TOMBLAINE",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-16",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215HRTW"
     },
     {
       "id": "8007157",
@@ -435,16 +415,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7964014"
     },
     {
-      "id": "7961847",
-      "intitule": "Alternance Community et Content Manager - Boissy-Saint-Léger (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "94 - Boissy-Saint-Léger",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-15",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7961847"
-    },
-    {
       "id": "7956716",
       "intitule": "Alternance Community manager - Montauban (H/F)",
       "entreprise": "ISCOD",
@@ -535,16 +505,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7811369"
     },
     {
-      "id": "214WMMM",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "78 - Versailles",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 1900.0 Euros à 2100.0 Euros",
-      "date_publication": "2026-10-06",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214WMMM"
-    },
-    {
       "id": "7665266",
       "intitule": "Alternance CONTENT CREATOR & COMMUNITY MANAGER - Crépy-en-Valois (H/F)",
       "entreprise": "ISCOD",
@@ -627,7 +587,7 @@
     {
       "id": "214RXHR",
       "intitule": "E-Reputation Associate (H/F)",
-      "entreprise": "LA CADETTE",
+      "entreprise": "Entreprise non précisée",
       "lieu": "75 - PARIS",
       "contrat": "CDI",
       "salaire": "Annuel de 28000.0 Euros",
@@ -683,16 +643,6 @@
       "salaire": null,
       "date_publication": "2026-09-29",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PFBN"
-    },
-    {
-      "id": "214NHNW",
-      "intitule": "COMMUNITY MANAGER (H/F)",
-      "entreprise": "KREMLIN BEAUTY",
-      "lieu": "94 - LE KREMLIN BICETRE",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-29",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214NHNW"
     },
     {
       "id": "7490441",
