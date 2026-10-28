@@ -1,9 +1,69 @@
 {
-  "derniere_maj": "2026-10-27T10:09:44+00:00",
+  "derniere_maj": "2026-10-28T10:55:50+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 87,
+  "nombre_offres": 86,
   "offres": [
+    {
+      "id": "8333039",
+      "intitule": "Gestionnaire de communauté en ligne (H/F)",
+      "entreprise": "GOZA",
+      "lieu": "33 - Bordeaux",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-28",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8333039"
+    },
+    {
+      "id": "8333037",
+      "intitule": "Assistant / Assistante community manager (H/F)",
+      "entreprise": "OREGON PRODUCTIONS",
+      "lieu": "83 - Brignoles",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-28",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8333037"
+    },
+    {
+      "id": "8327542",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "ADECCO",
+      "lieu": "75 - Paris 9e Arrondissement",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-28",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8327542"
+    },
+    {
+      "id": "8309132",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "ATH Formation",
+      "lieu": "92 - Hauts-de-Seine",
+      "contrat": "CDD - 12 Mois",
+      "salaire": "Mensuel de 800.0 Euros à 1400.0 Euros",
+      "date_publication": "2026-10-28",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8309132"
+    },
+    {
+      "id": "8303895",
+      "intitule": "Community Builder (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "69 - Lyon",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-27",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8303895"
+    },
+    {
+      "id": "8297403",
+      "intitule": "Alternance Community Manager - Arcueil (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "94 - Arcueil",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-27",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8297403"
+    },
     {
       "id": "215RFML",
       "intitule": "COMMUNITY MANAGER (H/F)",
@@ -65,26 +125,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8252268"
     },
     {
-      "id": "8226627",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "LE MERCATO DE L EMPLOI",
-      "lieu": "75 - Paris 9e Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Annuel de 36500.0 Euros à 47000.0 Euros - De 36500 à 47000 € (Euros) par an",
-      "date_publication": "2026-10-24",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8226627"
-    },
-    {
-      "id": "215QBZX",
-      "intitule": "Community manager",
-      "entreprise": "MN DIGITAL",
-      "lieu": "28 - NOGENT LE ROTROU",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 2050.0 Euros",
-      "date_publication": "2026-10-23",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215QBZX"
-    },
-    {
       "id": "215PPPB",
       "intitule": "Community manager (H/F)",
       "entreprise": "INTERNATIONAL BURGER'S COMPANY",
@@ -143,16 +183,6 @@
       "salaire": null,
       "date_publication": "2026-10-23",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8192913"
-    },
-    {
-      "id": "8172855",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "Mercato de l'emploi",
-      "lieu": "75 - Paris 1er Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Annuel de 36500.0 Euros à 47000.0 Euros",
-      "date_publication": "2026-10-23",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8172855"
     },
     {
       "id": "215NHMD",
@@ -385,16 +415,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988345"
     },
     {
-      "id": "7977312",
-      "intitule": "Community Manager en alternance (H/F) - Pérénia",
-      "entreprise": "Pérénia",
-      "lieu": "62 - Sains-en-Gohelle",
-      "contrat": "CDD - 24 Mois",
-      "salaire": "Mensuel de 1200.0 Euros à 1900.0 Euros",
-      "date_publication": "2026-10-15",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7977312"
-    },
-    {
       "id": "7966324",
       "intitule": "Expert poste de travail virtuel F/H",
       "entreprise": "Entreprise non précisée",
@@ -615,26 +635,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214QXYC"
     },
     {
-      "id": "7554342",
-      "intitule": "Alternance Community Manager & Marketing digital - Paris (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "75 - Paris 16e Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-01",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7554342"
-    },
-    {
-      "id": "7498070",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "JEUNE AFRIQUE MEDIA GROUP",
-      "lieu": "75 - Paris 16e Arrondissement",
-      "contrat": "CDI",
-      "salaire": "Annuel de 40000.0 Euros à 40000.0 Euros",
-      "date_publication": "2026-09-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7498070"
-    },
-    {
       "id": "214PFBN",
       "intitule": "COMMUNITY MANAGER (H/F)",
       "entreprise": "O'MY EMPLOI",
@@ -725,19 +725,9 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7053013"
     },
     {
-      "id": "6963933",
-      "intitule": "Alternance Community manager - Basse-Terre (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "971 - Basse-Terre",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-17",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6963933"
-    },
-    {
       "id": "6944573",
       "intitule": "Community manager (H/F)",
-      "entreprise": "Entreprise non précisée",
+      "entreprise": "One business School",
       "lieu": "59 - Lille",
       "contrat": "CDD - 12 Mois",
       "salaire": "Annuel de 489.0 Euros à 1801.8 Euros",
