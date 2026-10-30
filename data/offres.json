@@ -1,9 +1,79 @@
 {
-  "derniere_maj": "2026-10-29T11:14:00+00:00",
+  "derniere_maj": "2026-10-30T11:08:19+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 85,
+  "nombre_offres": 87,
   "offres": [
+    {
+      "id": "8415663",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "92 - Levallois-Perret",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8415663"
+    },
+    {
+      "id": "8415378",
+      "intitule": "Chargé / Chargée de communication (H/F)",
+      "entreprise": "On ne recrute pas",
+      "lieu": "78 - Maurecourt",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 7200.0 Euros à 7200.0 Euros",
+      "date_publication": "2026-10-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8415378"
+    },
+    {
+      "id": "8415322",
+      "intitule": "Chargé / Chargée de communication (H/F)",
+      "entreprise": "On ne recrute pas",
+      "lieu": "75 - Paris",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 7200.0 Euros à 7200.0 Euros",
+      "date_publication": "2026-10-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8415322"
+    },
+    {
+      "id": "8415306",
+      "intitule": "Chargé / Chargée de communication (H/F)",
+      "entreprise": "On ne recrute pas",
+      "lieu": "78 - Vernouillet",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 7200.0 Euros à 7200.0 Euros",
+      "date_publication": "2026-10-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8415306"
+    },
+    {
+      "id": "8415204",
+      "intitule": "Chargé / Chargée de communication (H/F)",
+      "entreprise": "On ne recrute pas",
+      "lieu": "78 - Saint-Nom-la-Bretèche",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 7200.0 Euros à 7200.0 Euros",
+      "date_publication": "2026-10-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8415204"
+    },
+    {
+      "id": "8415185",
+      "intitule": "Chargé / Chargée de communication (H/F)",
+      "entreprise": "On ne recrute pas",
+      "lieu": "78 - Clayes-sous-Bois",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 7200.0 Euros à 7200.0 Euros",
+      "date_publication": "2026-10-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8415185"
+    },
+    {
+      "id": "8415163",
+      "intitule": "Chargé / Chargée de communication (H/F)",
+      "entreprise": "On ne recrute pas",
+      "lieu": "78 - Bougival",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 7200.0 Euros à 7200.0 Euros",
+      "date_publication": "2026-10-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8415163"
+    },
     {
       "id": "215VHGG",
       "intitule": "Community manager",
@@ -13,6 +83,16 @@
       "salaire": null,
       "date_publication": "2026-10-29",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215VHGG"
+    },
+    {
+      "id": "8403019",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "03 - Vichy",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-29",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8403019"
     },
     {
       "id": "215TMGB",
@@ -43,16 +123,6 @@
       "salaire": null,
       "date_publication": "2026-10-28",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8354754"
-    },
-    {
-      "id": "8333039",
-      "intitule": "Gestionnaire de communauté en ligne (H/F)",
-      "entreprise": "GOZA",
-      "lieu": "33 - Bordeaux",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-28",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8333039"
     },
     {
       "id": "8333037",
@@ -115,16 +185,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RFGK"
     },
     {
-      "id": "8259004",
-      "intitule": "Mascotte (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "13 - Aureille",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-25",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8259004"
-    },
-    {
       "id": "8252337",
       "intitule": "Animateur(trice) Live TikTok et Instagram (H/F) CDI",
       "entreprise": "Entreprise non précisée",
@@ -133,16 +193,6 @@
       "salaire": null,
       "date_publication": "2026-10-24",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8252337"
-    },
-    {
-      "id": "8252268",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "44 - Loire-Atlantique",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-24",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8252268"
     },
     {
       "id": "215PPPB",
@@ -495,6 +545,16 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CBXZ"
     },
     {
+      "id": "215BJMS",
+      "intitule": "Alternant(e) Community Manager (H/F)",
+      "entreprise": "CIPECMA",
+      "lieu": "17 - CHATELAILLON-PLAGE",
+      "contrat": "CDD - 24 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-09",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215BJMS"
+    },
+    {
       "id": "214ZLDZ",
       "intitule": "Alternant(e) Community Manager & Webmaster (H/F)",
       "entreprise": "EQUIPE CARAVANES",
@@ -613,26 +673,6 @@
       "salaire": "Mensuel de 1280.24 Euros",
       "date_publication": "2026-10-01",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RFPP"
-    },
-    {
-      "id": "214QXYC",
-      "intitule": "Chargé de veille (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "69 - Lyon 2e Arrondissement",
-      "contrat": "CDI",
-      "salaire": "Annuel de 26000.0 Euros à 29000.0 Euros",
-      "date_publication": "2026-10-01",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214QXYC"
-    },
-    {
-      "id": "214PFBN",
-      "intitule": "COMMUNITY MANAGER (H/F)",
-      "entreprise": "O'MY EMPLOI",
-      "lieu": "971 - Les Abymes",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-29",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PFBN"
     },
     {
       "id": "7490441",
@@ -795,16 +835,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6306139"
     },
     {
-      "id": "212CKGW",
-      "intitule": "Chargé.e de communication senior - ESS / Impact social (H/F)",
-      "entreprise": "ARES",
-      "lieu": "93 - PANTIN",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 2905.0 Euros - Politique dynamique de développement des compétences et de mobilité infra-groupe",
-      "date_publication": "2026-08-05",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212CKGW"
-    },
-    {
       "id": "5659836",
       "intitule": "STAGE EN COMMUNICATION (2 MOIS) - H/F",
       "entreprise": "Entreprise non précisée",
@@ -813,16 +843,6 @@
       "salaire": null,
       "date_publication": "2026-08-01",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5659836"
-    },
-    {
-      "id": "210PMRT",
-      "intitule": "COMMUNITY MANAGER FREELANCE (H/F)",
-      "entreprise": "KONAN MARC-MICHAEL/FRESH ALIVE",
-      "lieu": "78 - MEZY SUR SEINE",
-      "contrat": "CDD - 3 Mois",
-      "salaire": "Mensuel de 1870.0 Euros sur 12 mois",
-      "date_publication": "2026-07-01",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/210PMRT"
     },
     {
       "id": "3971398",
