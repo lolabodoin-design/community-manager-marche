@@ -1,9 +1,39 @@
 {
-  "derniere_maj": "2026-10-31T10:41:33+00:00",
+  "derniere_maj": "2026-11-01T11:37:13+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 85,
+  "nombre_offres": 77,
   "offres": [
+    {
+      "id": "8457930",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "92 - Levallois-Perret",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-01",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8457930"
+    },
+    {
+      "id": "215XBQQ",
+      "intitule": "Chargé de communication et création de contenu - alternance (H/F)",
+      "entreprise": "HAZI PRO",
+      "lieu": "93 - ST DENIS",
+      "contrat": "CDD - 24 Mois",
+      "salaire": null,
+      "date_publication": "2026-10-31",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215XBQQ"
+    },
+    {
+      "id": "8452736",
+      "intitule": "Animateur(trice) Live TikTok et Instagram (H/F) CDI",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "95 - Groslay",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-10-31",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8452736"
+    },
     {
       "id": "8443784",
       "intitule": "Chargé / Chargée de communication (H/F)",
@@ -33,66 +63,6 @@
       "salaire": null,
       "date_publication": "2026-10-30",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8425785"
-    },
-    {
-      "id": "8424300",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "Fondation Perce Neige",
-      "lieu": "92 - Levallois-Perret",
-      "contrat": "CDD - 6 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8424300"
-    },
-    {
-      "id": "8424083",
-      "intitule": "Coordinateur de prospection, communication et animation de communauté - Portail de jeux Ikigai (H/F)",
-      "entreprise": "Ikigai - Games for Citizens",
-      "lieu": "75 - Paris",
-      "contrat": "CDI",
-      "salaire": "Annuel de 30000.0 Euros à 40000.0 Euros",
-      "date_publication": "2026-10-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8424083"
-    },
-    {
-      "id": "8424075",
-      "intitule": "Apprenti-e Community Manager (H/F)",
-      "entreprise": "l'Ecole des cuistots migrateurs",
-      "lieu": "93 - Montreuil",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8424075"
-    },
-    {
-      "id": "8424008",
-      "intitule": "Responsable communication et communauté (H/F)",
-      "entreprise": "Association Moteur!",
-      "lieu": "75 - Paris",
-      "contrat": "CDI",
-      "salaire": "Annuel de 28000.0 Euros à 30000.0 Euros",
-      "date_publication": "2026-10-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8424008"
-    },
-    {
-      "id": "8423931",
-      "intitule": "Responsable animation et mobilisation de communautés  (H/F)",
-      "entreprise": "Label Vie",
-      "lieu": "75 - Paris",
-      "contrat": "CDI",
-      "salaire": "Annuel de 30000.0 Euros à 32000.0 Euros",
-      "date_publication": "2026-10-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8423931"
-    },
-    {
-      "id": "8423756",
-      "intitule": "Head of community and communication (H/F)",
-      "entreprise": "WESPRINT",
-      "lieu": "37 - Tours",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 2400.0 Euros à 2600.0 Euros",
-      "date_publication": "2026-10-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8423756"
     },
     {
       "id": "8415378",
@@ -465,16 +435,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988441"
     },
     {
-      "id": "7988380",
-      "intitule": "Animateur / Animatrice de communauté virtuelle (H/F)",
-      "entreprise": "VITTORIA",
-      "lieu": "69 - Corbas",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-16",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988380"
-    },
-    {
       "id": "7988345",
       "intitule": "Assistant / Assistante community manager (H/F)",
       "entreprise": "ITIC PARIS",
@@ -515,16 +475,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7956716"
     },
     {
-      "id": "7926520",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "39 - Dole",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-14",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7926520"
-    },
-    {
       "id": "7892519",
       "intitule": "Orange Wholesale - Stagiaire Community Manager (H/F)",
       "entreprise": "Orange SA",
@@ -533,16 +483,6 @@
       "salaire": null,
       "date_publication": "2026-10-13",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7892519"
-    },
-    {
-      "id": "7889494",
-      "intitule": "COMMUNITY MANAGER EN ALTERNANCE H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "65 - Juillan",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-13",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7889494"
     },
     {
       "id": "215CBXZ",
@@ -695,16 +635,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7465127"
     },
     {
-      "id": "7135278",
-      "intitule": "COMMUNITY MANAGER (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "21 - Fontaine-lès-Dijon",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-09-23",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7135278"
-    },
-    {
       "id": "7135114",
       "intitule": "Alternance Assistant Community Manager - Paris (F/H)",
       "entreprise": "Entreprise non précisée",
@@ -843,16 +773,6 @@
       "salaire": null,
       "date_publication": "2026-06-06",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/3539810"
-    },
-    {
-      "id": "206QSTX",
-      "intitule": "Assistant(e) commercial(e) et réseaux sociaux (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "973 - CAYENNE",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 1867.02 Euros - + avantage nature (carte carburant)",
-      "date_publication": "2026-04-09",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/206QSTX"
     }
   ]
 }
