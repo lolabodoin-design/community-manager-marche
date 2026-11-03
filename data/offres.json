@@ -1,28 +1,78 @@
 {
-  "derniere_maj": "2026-11-02T13:00:22+00:00",
+  "derniere_maj": "2026-11-03T12:34:12+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 78,
+  "nombre_offres": 73,
   "offres": [
     {
-      "id": "215XNRC",
-      "intitule": "Game Master escape game - 20 heures/semaine (H/F)",
-      "entreprise": "A MAZE IN",
-      "lieu": "67 - STRASBOURG",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 1067.0 Euros",
-      "date_publication": "2026-11-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215XNRC"
+      "id": "8514652",
+      "intitule": "Alternance Community manager h/f - Paris (F/H)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "75 - Paris",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-03",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8514652"
     },
     {
-      "id": "215XHNG",
-      "intitule": "Community Manager en alternance (H/F)",
-      "entreprise": "GROUPE ALTERNANCE ROCHEFORT",
-      "lieu": "17 - Montendre",
-      "contrat": "CDD - 24 Mois",
-      "salaire": "Mensuel de 505.0 Euros à 1867.0 Euros",
+      "id": "8511133",
+      "intitule": "Alternance Community manager - Saint-Jean-d'Illac (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "33 - Martignas-sur-Jalle",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-03",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8511133"
+    },
+    {
+      "id": "8511053",
+      "intitule": "Alternance Gestionnaire de communauté - Bordeaux (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "33 - Bordeaux",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-03",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8511053"
+    },
+    {
+      "id": "8511041",
+      "intitule": "Alternance Community manager - Paris (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "75 - Paris 17e Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-03",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8511041"
+    },
+    {
+      "id": "8510929",
+      "intitule": "Alternance Community manager - Pontault-Combault (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "77 - Pontault-Combault",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-03",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8510929"
+    },
+    {
+      "id": "215YDNQ",
+      "intitule": "Formateur / Formatrice en réseaux sociaux et e-réputation (H/F)",
+      "entreprise": "SARL LABORATOIRE L & M",
+      "lieu": "44 - Nantes",
+      "contrat": "Profession libérale - 2 Jour(s)",
+      "salaire": null,
       "date_publication": "2026-11-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215XHNG"
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YDNQ"
+    },
+    {
+      "id": "215XXPH",
+      "intitule": "Chargé des réseaux sociaux et contenus numériques (H/F)",
+      "entreprise": "MAIRIE",
+      "lieu": "84 - ORANGE",
+      "contrat": "CDD - 6 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-02",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215XXPH"
     },
     {
       "id": "8459675",
@@ -65,26 +115,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215XBQQ"
     },
     {
-      "id": "8443784",
-      "intitule": "Chargé / Chargée de communication (H/F)",
-      "entreprise": "On ne recrute pas",
-      "lieu": "93 - Villemomble",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 7200.0 Euros à 7200.0 Euros",
-      "date_publication": "2026-10-31",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8443784"
-    },
-    {
-      "id": "8443756",
-      "intitule": "Chargé / Chargée de communication (H/F)",
-      "entreprise": "On ne recrute pas",
-      "lieu": "95 - Cormeilles-en-Parisis",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 7200.0 Euros à 7200.0 Euros",
-      "date_publication": "2026-10-31",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8443756"
-    },
-    {
       "id": "8425785",
       "intitule": "Mascotte (H/F)",
       "entreprise": "Entreprise non précisée",
@@ -93,26 +123,6 @@
       "salaire": null,
       "date_publication": "2026-10-30",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8425785"
-    },
-    {
-      "id": "8415378",
-      "intitule": "Chargé / Chargée de communication (H/F)",
-      "entreprise": "On ne recrute pas",
-      "lieu": "78 - Maurecourt",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 7200.0 Euros à 7200.0 Euros",
-      "date_publication": "2026-10-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8415378"
-    },
-    {
-      "id": "8415185",
-      "intitule": "Chargé / Chargée de communication (H/F)",
-      "entreprise": "On ne recrute pas",
-      "lieu": "78 - Clayes-sous-Bois",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 7200.0 Euros à 7200.0 Euros",
-      "date_publication": "2026-10-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8415185"
     },
     {
       "id": "215VHGG",
@@ -153,16 +163,6 @@
       "salaire": null,
       "date_publication": "2026-10-28",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8333037"
-    },
-    {
-      "id": "8327542",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "ADECCO",
-      "lieu": "75 - Paris 9e Arrondissement",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-28",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8327542"
     },
     {
       "id": "8309132",
@@ -255,16 +255,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8192913"
     },
     {
-      "id": "215NHMD",
-      "intitule": "Community manager",
-      "entreprise": "LE CHALE BLEU",
-      "lieu": "06 - NICE",
-      "contrat": "CDD - 6 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-22",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215NHMD"
-    },
-    {
       "id": "215NFVN",
       "intitule": "Community Manager en apprentissage (H/F)",
       "entreprise": "ECO ALTERNATIV",
@@ -293,16 +283,6 @@
       "salaire": null,
       "date_publication": "2026-10-22",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8161277"
-    },
-    {
-      "id": "8161168",
-      "intitule": "Alternance Assistant Community Manager - Toulon (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "83 - Toulon",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-22",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8161168"
     },
     {
       "id": "8141980",
@@ -383,16 +363,6 @@
       "salaire": "Mensuel de 2000.0 Euros à 2300.0 Euros",
       "date_publication": "2026-10-16",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8007157"
-    },
-    {
-      "id": "7988828",
-      "intitule": "Animateur / Animatrice de communauté virtuelle (H/F)",
-      "entreprise": "QANTUM",
-      "lieu": "75 - Paris 8e Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-16",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988828"
     },
     {
       "id": "7988805",
@@ -533,16 +503,6 @@
       "salaire": null,
       "date_publication": "2026-10-09",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7811369"
-    },
-    {
-      "id": "214YBFZ",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "FUTUR LIMITED CO",
-      "lieu": "75 - PARIS",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 2400.0 Euros",
-      "date_publication": "2026-10-07",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214YBFZ"
     },
     {
       "id": "7665266",
@@ -703,16 +663,6 @@
       "salaire": null,
       "date_publication": "2026-09-15",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6897462"
-    },
-    {
-      "id": "6827320",
-      "intitule": "Alternance Community Manager - Antibes (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "06 - Antibes",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-11",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6827320"
     },
     {
       "id": "6667448",
