@@ -1,9 +1,29 @@
 {
-  "derniere_maj": "2026-11-04T12:43:54+00:00",
+  "derniere_maj": "2026-11-05T12:53:53+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 77,
+  "nombre_offres": 78,
   "offres": [
+    {
+      "id": "216CDZZ",
+      "intitule": "Responsable du pôle Community Management (H/F) - CDI (H/F)",
+      "entreprise": "COM'SCORING",
+      "lieu": "49 - INGRANDES LE FRESNE SUR LOIRE",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 2400.0 Euros à 2600.0 Euros",
+      "date_publication": "2026-11-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216CDZZ"
+    },
+    {
+      "id": "8553887",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "59 - Nord",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-11-04",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8553887"
+    },
     {
       "id": "8528453",
       "intitule": "Community manager pour le Club Landoy et ViveS média (F/H)",
@@ -305,14 +325,14 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8193675"
     },
     {
-      "id": "8192913",
-      "intitule": "Expérimentateur / Expérimentatrice en agriculture (H/F)",
-      "entreprise": "CNRS",
-      "lieu": "17 - Rochelle",
+      "id": "215NHMD",
+      "intitule": "Community manager",
+      "entreprise": "LE CHALE BLEU",
+      "lieu": "06 - NICE",
       "contrat": "CDD - 6 Mois",
       "salaire": null,
-      "date_publication": "2026-10-23",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8192913"
+      "date_publication": "2026-10-22",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215NHMD"
     },
     {
       "id": "215NFVN",
@@ -363,16 +383,6 @@
       "salaire": null,
       "date_publication": "2026-10-20",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215LKHT"
-    },
-    {
-      "id": "215KZYW",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "FABANIMATION SARL",
-      "lieu": "93 - Aubervilliers",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 1868.0 Euros",
-      "date_publication": "2026-10-20",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215KZYW"
     },
     {
       "id": "215KTKT",
@@ -645,6 +655,16 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RFPP"
     },
     {
+      "id": "214PHZH",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "INTERNATIONAL BURGER'S COMPANY",
+      "lieu": "69 - VENISSIEUX",
+      "contrat": "CDI",
+      "salaire": "Annuel de 22800.0 Euros à 25000.0 Euros",
+      "date_publication": "2026-09-30",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PHZH"
+    },
+    {
       "id": "7465127",
       "intitule": "animateur / médiateur proximité #ALT14988 (H/F)",
       "entreprise": "ALTERNATIVE CONSEIL FORMATION",
@@ -703,16 +723,6 @@
       "salaire": null,
       "date_publication": "2026-09-15",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6897462"
-    },
-    {
-      "id": "6667448",
-      "intitule": "Alternance Junior Communication Manager - Morangis (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "51 - Morangis",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-05",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6667448"
     },
     {
       "id": "6327408",
