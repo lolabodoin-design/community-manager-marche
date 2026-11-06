@@ -1,9 +1,29 @@
 {
-  "derniere_maj": "2026-11-05T12:53:53+00:00",
+  "derniere_maj": "2026-11-06T12:40:05+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 78,
+  "nombre_offres": 74,
   "offres": [
+    {
+      "id": "216CYGF",
+      "intitule": "COMMUNITY MANAGER (H/F)",
+      "entreprise": "ALTESSE TOILETTAGE",
+      "lieu": "974 - Sainte-Marie",
+      "contrat": "CDD - 3 Mois",
+      "salaire": "Mensuel de 1867.02 Euros",
+      "date_publication": "2026-11-06",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216CYGF"
+    },
+    {
+      "id": "216CRTV",
+      "intitule": "Chargé de Contenus (F/H) (H/F)",
+      "entreprise": "PARTHENA CONSULTANT",
+      "lieu": "92 - BOULOGNE BILLANCOURT",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216CRTV"
+    },
     {
       "id": "216CDZZ",
       "intitule": "Responsable du pôle Community Management (H/F) - CDI (H/F)",
@@ -13,6 +33,16 @@
       "salaire": "Mensuel de 2400.0 Euros à 2600.0 Euros",
       "date_publication": "2026-11-05",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/216CDZZ"
+    },
+    {
+      "id": "8578767",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "69 - Vaulx-en-Velin",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-11-05",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8578767"
     },
     {
       "id": "8553887",
@@ -43,26 +73,6 @@
       "salaire": null,
       "date_publication": "2026-11-03",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YVMZ"
-    },
-    {
-      "id": "8520657",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "Fondation Perce Neige",
-      "lieu": "92 - Levallois-Perret",
-      "contrat": "CDD - 6 Mois",
-      "salaire": null,
-      "date_publication": "2026-11-03",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8520657"
-    },
-    {
-      "id": "8520421",
-      "intitule": "Coordinateur de prospection, communication et animation de communauté - Portail de jeux Ikigai (H/F)",
-      "entreprise": "Ikigai - Games for Citizens",
-      "lieu": "75 - Paris",
-      "contrat": "CDI",
-      "salaire": "Annuel de 30000.0 Euros à 40000.0 Euros",
-      "date_publication": "2026-11-03",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8520421"
     },
     {
       "id": "8520400",
@@ -195,16 +205,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215XBQQ"
     },
     {
-      "id": "8425785",
-      "intitule": "Mascotte (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "13 - Aureille",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8425785"
-    },
-    {
       "id": "215VHGG",
       "intitule": "Community manager",
       "entreprise": "I LOVE CHABLIS",
@@ -325,16 +325,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8193675"
     },
     {
-      "id": "215NHMD",
-      "intitule": "Community manager",
-      "entreprise": "LE CHALE BLEU",
-      "lieu": "06 - NICE",
-      "contrat": "CDD - 6 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-22",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215NHMD"
-    },
-    {
       "id": "215NFVN",
       "intitule": "Community Manager en apprentissage (H/F)",
       "entreprise": "ECO ALTERNATIV",
@@ -343,16 +333,6 @@
       "salaire": null,
       "date_publication": "2026-10-22",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215NFVN"
-    },
-    {
-      "id": "8165817",
-      "intitule": "Alternance Community manager (H/F) - Paris (75)",
-      "entreprise": "ICADEMIE",
-      "lieu": "75 - Paris 5e Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": "Mensuel de 800.0 Euros à 1900.0 Euros",
-      "date_publication": "2026-10-22",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8165817"
     },
     {
       "id": "8161277",
@@ -635,16 +615,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7627113"
     },
     {
-      "id": "214RXHR",
-      "intitule": "E-Reputation Associate (H/F)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "75 - PARIS",
-      "contrat": "CDI",
-      "salaire": "Annuel de 28000.0 Euros",
-      "date_publication": "2026-10-02",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RXHR"
-    },
-    {
       "id": "214RFPP",
       "intitule": "- Assistant(e) de production/Community manager (H/F)",
       "entreprise": "LOVE IS IN THE AIR",
@@ -663,16 +633,6 @@
       "salaire": "Annuel de 22800.0 Euros à 25000.0 Euros",
       "date_publication": "2026-09-30",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PHZH"
-    },
-    {
-      "id": "7465127",
-      "intitule": "animateur / médiateur proximité #ALT14988 (H/F)",
-      "entreprise": "ALTERNATIVE CONSEIL FORMATION",
-      "lieu": "974 - Saint-Louis",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-28",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7465127"
     },
     {
       "id": "7135114",
