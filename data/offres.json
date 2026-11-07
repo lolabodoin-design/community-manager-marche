@@ -1,5 +1,5 @@
 {
-  "derniere_maj": "2026-11-06T12:40:05+00:00",
+  "derniere_maj": "2026-11-07T11:26:52+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
   "nombre_offres": 74,
@@ -63,16 +63,6 @@
       "salaire": null,
       "date_publication": "2026-11-04",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8528453"
-    },
-    {
-      "id": "215YVMZ",
-      "intitule": "Community Manager / Chargé-e de communication (H/F)",
-      "entreprise": "TOULOUSE CULTURE CLUB",
-      "lieu": "31 - TOULOUSE",
-      "contrat": "Profession libérale",
-      "salaire": null,
-      "date_publication": "2026-11-03",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YVMZ"
     },
     {
       "id": "8520400",
@@ -363,6 +353,16 @@
       "salaire": null,
       "date_publication": "2026-10-20",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215LKHT"
+    },
+    {
+      "id": "215KZYW",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "FABANIMATION SARL",
+      "lieu": "93 - Aubervilliers",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 1868.0 Euros",
+      "date_publication": "2026-10-20",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215KZYW"
     },
     {
       "id": "215KTKT",
