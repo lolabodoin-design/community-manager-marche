@@ -1,9 +1,49 @@
 {
-  "derniere_maj": "2026-11-08T11:38:41+00:00",
+  "derniere_maj": "2026-11-09T13:32:57+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 74,
+  "nombre_offres": 70,
   "offres": [
+    {
+      "id": "8674309",
+      "intitule": "Alternance communication digitale et Community Manager - Paris (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "75 - Paris 18e Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-09",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8674309"
+    },
+    {
+      "id": "8649686",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "13 - Bouches-du-Rhône",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-11-07",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8649686"
+    },
+    {
+      "id": "8649591",
+      "intitule": "Animateur(trice) de site e-commerce (H/F)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "85 - Vendée",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-11-07",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8649591"
+    },
+    {
+      "id": "8641556",
+      "intitule": "Alternance Community Manager et évènementiel - Montpellier (F/H)",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "34 - Montpellier",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-07",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8641556"
+    },
     {
       "id": "216CYGF",
       "intitule": "COMMUNITY MANAGER (H/F)",
@@ -55,16 +95,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8553887"
     },
     {
-      "id": "8528453",
-      "intitule": "Community manager pour le Club Landoy et ViveS média (F/H)",
-      "entreprise": "BAYARD SA",
-      "lieu": "92 - Malakoff",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-11-04",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8528453"
-    },
-    {
       "id": "8520400",
       "intitule": "Responsable communication et communauté (H/F)",
       "entreprise": "Association Moteur!",
@@ -103,16 +133,6 @@
       "salaire": null,
       "date_publication": "2026-11-03",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8514652"
-    },
-    {
-      "id": "8511133",
-      "intitule": "Alternance Community manager - Saint-Jean-d'Illac (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "33 - Martignas-sur-Jalle",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-11-03",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8511133"
     },
     {
       "id": "8511053",
@@ -265,16 +285,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215RFML"
     },
     {
-      "id": "215PPPB",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "INTERNATIONAL BURGER'S COMPANY",
-      "lieu": "69 - VENISSIEUX",
-      "contrat": "CDI",
-      "salaire": "Annuel de 22800.0 Euros à 25000.0 Euros",
-      "date_publication": "2026-10-23",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215PPPB"
-    },
-    {
       "id": "8207657",
       "intitule": "Alternance Community Manager - Lyon (F/H)",
       "entreprise": "Entreprise non précisée",
@@ -385,16 +395,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8064133"
     },
     {
-      "id": "8030653",
-      "intitule": "community manager créateur contenu digital H/F - EC22406",
-      "entreprise": "Ville de Troyes",
-      "lieu": "10 - Troyes",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-10-18",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8030653"
-    },
-    {
       "id": "8022597",
       "intitule": "Alternance Alternant Community Manager / Marketing Digital - Carros (F/H)",
       "entreprise": "Entreprise non précisée",
@@ -445,16 +445,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988544"
     },
     {
-      "id": "7988454",
-      "intitule": "Assistant / Assistante community manager (H/F)",
-      "entreprise": "ESID",
-      "lieu": "83 - Fréjus",
-      "contrat": "CDD - 18 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-16",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988454"
-    },
-    {
       "id": "7988441",
       "intitule": "Animateur / Animatrice de forum sur internet (H/F)",
       "entreprise": "ILEC NICE",
@@ -463,16 +453,6 @@
       "salaire": null,
       "date_publication": "2026-10-16",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988441"
-    },
-    {
-      "id": "7988345",
-      "intitule": "Assistant / Assistante community manager (H/F)",
-      "entreprise": "ITIC PARIS",
-      "lieu": "75 - Paris 18e Arrondissement",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-16",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988345"
     },
     {
       "id": "7966324",
@@ -533,16 +513,6 @@
       "salaire": null,
       "date_publication": "2026-10-09",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7811369"
-    },
-    {
-      "id": "214YBFZ",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "FUTUR LIMITED CO",
-      "lieu": "75 - PARIS",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 2400.0 Euros",
-      "date_publication": "2026-10-07",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214YBFZ"
     },
     {
       "id": "7665266",
@@ -623,16 +593,6 @@
       "salaire": "Mensuel de 1280.24 Euros",
       "date_publication": "2026-10-01",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RFPP"
-    },
-    {
-      "id": "214PHZH",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "INTERNATIONAL BURGER'S COMPANY",
-      "lieu": "69 - VENISSIEUX",
-      "contrat": "CDI",
-      "salaire": "Annuel de 22800.0 Euros à 25000.0 Euros",
-      "date_publication": "2026-09-30",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214PHZH"
     },
     {
       "id": "7135114",
