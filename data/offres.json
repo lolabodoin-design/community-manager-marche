@@ -1,9 +1,79 @@
 {
-  "derniere_maj": "2026-11-09T13:32:57+00:00",
+  "derniere_maj": "2026-11-10T13:12:07+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 70,
+  "nombre_offres": 71,
   "offres": [
+    {
+      "id": "216GQWZ",
+      "intitule": "Community manager (H/F)",
+      "entreprise": "BONJOUR PARIS",
+      "lieu": "75 - PARIS",
+      "contrat": "CDI",
+      "salaire": "Mensuel de 1500.0 Euros",
+      "date_publication": "2026-11-10",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GQWZ"
+    },
+    {
+      "id": "8712185",
+      "intitule": "Alternance Community Manager - Entre-Vignes (H/F)",
+      "entreprise": "ISCOD",
+      "lieu": "34 - Lunel",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-10",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8712185"
+    },
+    {
+      "id": "8711588",
+      "intitule": "COMMUNITY MANAGEUR- SE (Onet le château) #TET14178 (H/F)",
+      "entreprise": "Tetranergy Business School Rodez",
+      "lieu": "12 - Onet-le-Château",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-10",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8711588"
+    },
+    {
+      "id": "8710871",
+      "intitule": "Référent(e) technique applicatif Web - Freelance (H/F)",
+      "entreprise": "Collective.work",
+      "lieu": "16 - Angoulême",
+      "contrat": "Profession libérale",
+      "salaire": null,
+      "date_publication": "2026-11-10",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8710871"
+    },
+    {
+      "id": "8689792",
+      "intitule": "Alternance - Créateur(trice) de Sites Web  (H/F)",
+      "entreprise": "SCHOLIA",
+      "lieu": "75 - Paris 13e Arrondissement",
+      "contrat": "CDD - 24 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-10",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8689792"
+    },
+    {
+      "id": "216FVVN",
+      "intitule": "COMMUNITY MANAGER - ANGLAIS (H/F)",
+      "entreprise": "EVS INTERIM",
+      "lieu": "93 - BAGNOLET",
+      "contrat": "Intérim - 1 Mois",
+      "salaire": "Horaire de 13.9 Euros à 13.91 Euros",
+      "date_publication": "2026-11-09",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216FVVN"
+    },
+    {
+      "id": "8678811",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "75 - Paris",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-11-09",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8678811"
+    },
     {
       "id": "8674309",
       "intitule": "Alternance communication digitale et Community Manager - Paris (H/F)",
@@ -85,14 +155,14 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8578767"
     },
     {
-      "id": "8553887",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "59 - Nord",
-      "contrat": "CDI",
+      "id": "215YVMZ",
+      "intitule": "Community Manager / Chargé-e de communication (H/F)",
+      "entreprise": "TOULOUSE CULTURE CLUB",
+      "lieu": "31 - TOULOUSE",
+      "contrat": "Profession libérale",
       "salaire": null,
-      "date_publication": "2026-11-04",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8553887"
+      "date_publication": "2026-11-03",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YVMZ"
     },
     {
       "id": "8520400",
@@ -183,16 +253,6 @@
       "salaire": null,
       "date_publication": "2026-11-02",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215XXPH"
-    },
-    {
-      "id": "8459675",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "03 - Vichy",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-11-01",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8459675"
     },
     {
       "id": "8459491",
@@ -325,16 +385,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8193675"
     },
     {
-      "id": "215NFVN",
-      "intitule": "Community Manager en apprentissage (H/F)",
-      "entreprise": "ECO ALTERNATIV",
-      "lieu": "59 - SECLIN",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-22",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215NFVN"
-    },
-    {
       "id": "8161277",
       "intitule": "(ISFOI) Community Manager #ISF4038 (H/F)",
       "entreprise": "ISFOI",
@@ -365,16 +415,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215LKHT"
     },
     {
-      "id": "215KZYW",
-      "intitule": "Community Manager (H/F)",
-      "entreprise": "FABANIMATION SARL",
-      "lieu": "93 - Aubervilliers",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 1868.0 Euros",
-      "date_publication": "2026-10-20",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215KZYW"
-    },
-    {
       "id": "215KTKT",
       "intitule": "Community manager (H/F)",
       "entreprise": "Entreprise non précisée",
@@ -383,26 +423,6 @@
       "salaire": null,
       "date_publication": "2026-10-20",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215KTKT"
-    },
-    {
-      "id": "8064133",
-      "intitule": "Alternance Alternant Community Manager / Marketing Digital - Carros (H/F)",
-      "entreprise": "ISCOD",
-      "lieu": "06 - Bézaudun-les-Alpes",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-19",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8064133"
-    },
-    {
-      "id": "8022597",
-      "intitule": "Alternance Alternant Community Manager / Marketing Digital - Carros (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "06 - Carros",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-18",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8022597"
     },
     {
       "id": "8007157",
@@ -633,16 +653,6 @@
       "salaire": null,
       "date_publication": "2026-09-15",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6897558"
-    },
-    {
-      "id": "6897462",
-      "intitule": "Alternance Community Manager en agence - Paris (F/H)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "75 - Paris",
-      "contrat": "CDD - 12 Mois",
-      "salaire": null,
-      "date_publication": "2026-09-15",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6897462"
     },
     {
       "id": "6327408",
