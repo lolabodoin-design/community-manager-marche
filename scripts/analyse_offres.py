@@ -445,15 +445,16 @@ def main() -> None:
     cache = None
     if ent and ent.get("entreprises"):
         visibles = set(emp)
-        liste = ent["entreprises"]
+        # on ne garde que les entreprises dont le siège est dans le Puy-de-Dôme (code postal 63xxx)
+        liste = [e for e in ent["entreprises"] if str(e.get("code_postal") or "").startswith("63")]
         tr = Counter(e.get("effectif_groupe") for e in liste)
         for e in liste:
             e["publie_une_offre"] = cle_entreprise(e["nom"]) in visibles
         n_pub = sum(1 for e in liste if e["publie_une_offre"])
-        cibles = [e for e in liste if (e.get("effectif_rang") or 0) >= 4]  # 10 salariés et plus
+        cibles = [e for e in liste if (e.get("effectif_rang") or 0) >= 2]  # 3 salariés et plus (peu de grosses structures dans le 63)
         cibles.sort(key=lambda e: (-(e.get("effectif_rang") or 0), e["nom"]))
         cache = {
-            "source": ent.get("source"), "date": ent.get("date"), "filtre": ent.get("filtre"),
+            "source": ent.get("source"), "date": ent.get("date"), "filtre": (ent.get("filtre") or "") + " · siège dans le 63",
             "total": len(liste),
             "par_naf": dict(Counter(e["naf_libelle"] for e in liste).most_common()),
             "par_effectif": {k: tr.get(k, 0) for k in ["0 salarié ou non renseigné", "1 à 9", "10 à 49", "50 à 249", "250 et plus"]},
