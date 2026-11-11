@@ -1,0 +1,1149 @@
+{
+ "meta": {
+  "date_donnees": "2026-11-11T16:35:57+00:00",
+  "date_analyse": "2026-11-11T16:36:22+00:00",
+  "canal": "API France Travail — Offres d'emploi v2",
+  "requetes": [
+   {
+    "label": "code ROME E1101",
+    "params": {
+     "codeROME": "E1101"
+    },
+    "ok": true,
+    "recuperees": 69,
+    "total_api": 69
+   },
+   {
+    "label": "mots-clés « community manager »",
+    "params": {
+     "motsCles": "community manager"
+    },
+    "ok": true,
+    "recuperees": 124,
+    "total_api": 124
+   }
+  ],
+  "code_rome": "E1101",
+  "rome_libelle": "Community manager",
+  "nombre_offres": 124,
+  "offres_avec_texte": 124,
+  "date_plus_ancienne": "2026-06-06",
+  "date_plus_recente": "2026-11-11"
+ },
+ "volume": {
+  "total": 124,
+  "par_requete": {
+   "code ROME E1101": 69,
+   "mots-clés « community manager »": 124
+  },
+  "par_mois": {
+   "2026-06": 2,
+   "2026-07": 1,
+   "2026-08": 6,
+   "2026-09": 7,
+   "2026-10": 51,
+   "2026-11": 57
+  },
+  "publiees_7_jours": 43,
+  "publiees_30_jours": 97
+ },
+ "geographie": {
+  "zones": [
+   {
+    "zone": "Puy-de-Dôme (63)",
+    "n": 0,
+    "pct": 0.0
+   },
+   {
+    "zone": "Auvergne-Rhône-Alpes hors Puy-de-Dôme (ou département non précisé)",
+    "n": 13,
+    "pct": 10.5
+   },
+   {
+    "zone": "Autres régions de métropole",
+    "n": 101,
+    "pct": 81.5
+   },
+   {
+    "zone": "Outre-mer",
+    "n": 9,
+    "pct": 7.3
+   },
+   {
+    "zone": "Localisation non précisée (France entière / non renseignée)",
+    "n": 1,
+    "pct": 0.8
+   }
+  ],
+  "clermont_ferrand": 0,
+  "puy_de_dome": 0,
+  "regions": [
+   {
+    "region": "Île-de-France",
+    "n": 52,
+    "pct": 41.9
+   },
+   {
+    "region": "Auvergne-Rhône-Alpes",
+    "n": 13,
+    "pct": 10.5
+   },
+   {
+    "region": "Occitanie",
+    "n": 10,
+    "pct": 8.1
+   },
+   {
+    "region": "Hauts-de-France",
+    "n": 10,
+    "pct": 8.1
+   },
+   {
+    "region": "Outre-mer",
+    "n": 9,
+    "pct": 7.3
+   },
+   {
+    "region": "Provence-Alpes-Côte d'Azur",
+    "n": 6,
+    "pct": 4.8
+   },
+   {
+    "region": "Centre-Val de Loire",
+    "n": 5,
+    "pct": 4.0
+   },
+   {
+    "region": "Nouvelle-Aquitaine",
+    "n": 5,
+    "pct": 4.0
+   }
+  ],
+  "departements": [
+   {
+    "departement": "75",
+    "n": 37
+   },
+   {
+    "departement": "69",
+    "n": 9
+   },
+   {
+    "departement": "974",
+    "n": 8
+   },
+   {
+    "departement": "59",
+    "n": 5
+   },
+   {
+    "departement": "92",
+    "n": 5
+   },
+   {
+    "departement": "34",
+    "n": 4
+   },
+   {
+    "departement": "93",
+    "n": 4
+   },
+   {
+    "departement": "60",
+    "n": 3
+   }
+  ]
+ },
+ "teletravail": {
+  "mentionne": 10,
+  "complet": 0,
+  "pct_mentionne": 8.1,
+  "pct_complet": 0.0
+ },
+ "contrats": [
+  {
+   "contrat": "CDI",
+   "n": 52,
+   "pct": 41.9
+  },
+  {
+   "contrat": "Alternance",
+   "n": 47,
+   "pct": 37.9
+  },
+  {
+   "contrat": "Indépendant / freelance",
+   "n": 10,
+   "pct": 8.1
+  },
+  {
+   "contrat": "CDD",
+   "n": 10,
+   "pct": 8.1
+  },
+  {
+   "contrat": "Intérim",
+   "n": 3,
+   "pct": 2.4
+  },
+  {
+   "contrat": "Stage",
+   "n": 2,
+   "pct": 1.6
+  }
+ ],
+ "salaires": {
+  "renseigne": 22,
+  "part_renseignee": 17.7,
+  "par_contrat": {
+   "CDI": {
+    "n": 14,
+    "mediane": 2542,
+    "min": 1867,
+    "max": 5833,
+    "q1": 2288,
+    "q3": 3646
+   },
+   "CDD": {
+    "n": 6,
+    "mediane": 2084,
+    "min": 1867,
+    "max": 4333
+   },
+   "Intérim": {
+    "n": 1,
+    "mediane": 2109,
+    "min": 2108,
+    "max": 2110
+   },
+   "Alternance": {
+    "n": 1,
+    "mediane": 1100,
+    "min": 800,
+    "max": 1400
+   }
+  },
+  "hors_alternance": {
+   "n": 21,
+   "mediane": 2500,
+   "min": 1867,
+   "max": 5833,
+   "q1": 2079,
+   "q3": 3375
+  },
+  "repere_externe": {
+   "source": "France Travail, MétierScope (fiche Community manager), 1er trimestre 2026",
+   "salaire_min": 1802,
+   "salaire_max": 2512,
+   "offres_12_mois": 4100
+  },
+  "unite": "salaire brut mensuel en euros (annuel ÷ durée en mois, horaire × 151,67 h)"
+ },
+ "intitules": [
+  {
+   "intitule": "Community manager (H/F)",
+   "n": 9,
+   "pct": 7.3
+  },
+  {
+   "intitule": "Alternance Community manager h/f - Paris (F/H)",
+   "n": 5,
+   "pct": 4.0
+  },
+  {
+   "intitule": "Assistant / Assistante community manager (H/F)",
+   "n": 4,
+   "pct": 3.2
+  },
+  {
+   "intitule": "Manager H/F",
+   "n": 4,
+   "pct": 3.2
+  },
+  {
+   "intitule": "Social media manager (H/F)",
+   "n": 4,
+   "pct": 3.2
+  },
+  {
+   "intitule": "Social media manager - Responsable des médias sociaux - (H/F)",
+   "n": 3,
+   "pct": 2.4
+  },
+  {
+   "intitule": "(ISFOI) Community Manager #ISF4038 (H/F)",
+   "n": 3,
+   "pct": 2.4
+  },
+  {
+   "intitule": "Alternance Community Manager - Entre-Vignes (H/F)",
+   "n": 2,
+   "pct": 1.6
+  },
+  {
+   "intitule": "Community Manager / Chargé(e) de communication digitale (H/F)",
+   "n": 2,
+   "pct": 1.6
+  },
+  {
+   "intitule": "Alternance Chargé(e) de Communication Digitale & Community Management - Paris (F/H)",
+   "n": 2,
+   "pct": 1.6
+  }
+ ],
+ "competences": {
+  "outils": [
+   {
+    "terme": "Vidéo / montage / Reels",
+    "categorie": "Compétences métier",
+    "n": 65,
+    "pct": 52.4,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Création de contenu",
+    "categorie": "Compétences métier",
+    "n": 59,
+    "pct": 47.6,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Veille",
+    "categorie": "Compétences métier",
+    "n": 54,
+    "pct": 43.5,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Reporting / KPI / analyse",
+    "categorie": "Compétences métier",
+    "n": 52,
+    "pct": 41.9,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Rédaction / copywriting",
+    "categorie": "Compétences métier",
+    "n": 49,
+    "pct": 39.5,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Instagram",
+    "categorie": "Réseaux et plateformes",
+    "n": 44,
+    "pct": 35.5,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Événementiel",
+    "categorie": "Compétences métier",
+    "n": 41,
+    "pct": 33.1,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Influence / partenariats",
+    "categorie": "Compétences métier",
+    "n": 39,
+    "pct": 31.5,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "TikTok",
+    "categorie": "Réseaux et plateformes",
+    "n": 38,
+    "pct": 30.6,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Créativité",
+    "categorie": "Compétences métier",
+    "n": 38,
+    "pct": 30.6,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Stratégie social media",
+    "categorie": "Compétences métier",
+    "n": 37,
+    "pct": 29.8,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Pack Office (Excel, PowerPoint)",
+    "categorie": "CRM, CMS et gestion",
+    "n": 36,
+    "pct": 29.0,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Calendrier / ligne éditoriale",
+    "categorie": "Compétences métier",
+    "n": 35,
+    "pct": 28.2,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Facebook",
+    "categorie": "Réseaux et plateformes",
+    "n": 34,
+    "pct": 27.4,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Gestion de projet / coordination",
+    "categorie": "Compétences métier",
+    "n": 28,
+    "pct": 22.6,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Modération / e-réputation",
+    "categorie": "Compétences métier",
+    "n": 26,
+    "pct": 21.0,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "LinkedIn",
+    "categorie": "Réseaux et plateformes",
+    "n": 25,
+    "pct": 20.2,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Relation client / SAV",
+    "categorie": "Compétences métier",
+    "n": 22,
+    "pct": 17.7,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Canva",
+    "categorie": "Création visuelle et vidéo",
+    "n": 21,
+    "pct": 16.9,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Premiere Pro / After Effects / Final Cut",
+    "categorie": "Création visuelle et vidéo",
+    "n": 19,
+    "pct": 15.3,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Anglais",
+    "categorie": "Compétences métier",
+    "n": 19,
+    "pct": 15.3,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "CapCut",
+    "categorie": "Création visuelle et vidéo",
+    "n": 17,
+    "pct": 13.7,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Suite Adobe (Photoshop, Illustrator…)",
+    "categorie": "Création visuelle et vidéo",
+    "n": 17,
+    "pct": 13.7,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Emailing / newsletters",
+    "categorie": "Publicité et analytics",
+    "n": 15,
+    "pct": 12.1,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Meta Ads / publicité sociale",
+    "categorie": "Publicité et analytics",
+    "n": 10,
+    "pct": 8.1,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "YouTube",
+    "categorie": "Réseaux et plateformes",
+    "n": 10,
+    "pct": 8.1,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Meta Business Suite",
+    "categorie": "Réseaux et plateformes",
+    "n": 8,
+    "pct": 6.5,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "SEO",
+    "categorie": "Publicité et analytics",
+    "n": 8,
+    "pct": 6.5,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "IA / IA générative",
+    "categorie": "IA et automatisation",
+    "n": 8,
+    "pct": 6.5,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Google Ads / SEA",
+    "categorie": "Publicité et analytics",
+    "n": 5,
+    "pct": 4.0,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "WordPress / Shopify / CMS",
+    "categorie": "CRM, CMS et gestion",
+    "n": 5,
+    "pct": 4.0,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Google Analytics / GA4",
+    "categorie": "Publicité et analytics",
+    "n": 4,
+    "pct": 3.2,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Automatisation / no-code",
+    "categorie": "IA et automatisation",
+    "n": 4,
+    "pct": 3.2,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Pinterest",
+    "categorie": "Réseaux et plateformes",
+    "n": 3,
+    "pct": 2.4,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "ChatGPT et outils d'IA",
+    "categorie": "IA et automatisation",
+    "n": 3,
+    "pct": 2.4,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "HubSpot / CRM",
+    "categorie": "CRM, CMS et gestion",
+    "n": 3,
+    "pct": 2.4,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Notion / Trello / Asana",
+    "categorie": "CRM, CMS et gestion",
+    "n": 3,
+    "pct": 2.4,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Agorapulse / Metricool / Sprout",
+    "categorie": "Planification et veille",
+    "n": 2,
+    "pct": 1.6,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Twitter / X",
+    "categorie": "Réseaux et plateformes",
+    "n": 2,
+    "pct": 1.6,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Snapchat",
+    "categorie": "Réseaux et plateformes",
+    "n": 1,
+    "pct": 0.8,
+    "vu_en_formation": null
+   },
+   {
+    "terme": "Outils de veille / social listening",
+    "categorie": "Planification et veille",
+    "n": 1,
+    "pct": 0.8,
+    "vu_en_formation": null
+   }
+  ],
+  "formation_renseignee": false,
+  "a_acquerir": [],
+  "api_competences": [
+   {
+    "libelle": "Animer un réseau, une communauté",
+    "n": 16,
+    "pct": 12.9
+   },
+   {
+    "libelle": "Analyser des échanges communautaires en ligne",
+    "n": 16,
+    "pct": 12.9
+   },
+   {
+    "libelle": "Veiller à la cohérence de l'image de l'entreprise sur l'ensemble des déclinaisons de la communication et des supports (éditorial, Web, Intranet, événements, médias, réseaux sociaux)",
+    "n": 10,
+    "pct": 8.1
+   },
+   {
+    "libelle": "Définir une stratégie de communication",
+    "n": 10,
+    "pct": 8.1
+   },
+   {
+    "libelle": "Analyser les tendances des réseaux sociaux",
+    "n": 7,
+    "pct": 5.6
+   },
+   {
+    "libelle": "Optimiser la visibilité des publications sur les réseaux sociaux",
+    "n": 4,
+    "pct": 3.2
+   },
+   {
+    "libelle": "Créer du contenu attractif pour les réseaux sociaux",
+    "n": 4,
+    "pct": 3.2
+   },
+   {
+    "libelle": "Mettre en oeuvre des actions de communication",
+    "n": 3,
+    "pct": 2.4
+   },
+   {
+    "libelle": "Concevoir des supports de communication et d'image",
+    "n": 3,
+    "pct": 2.4
+   },
+   {
+    "libelle": "Communiquer efficacement avec les équipes et la direction",
+    "n": 3,
+    "pct": 2.4
+   },
+   {
+    "libelle": "Engager et interagir avec la communauté en ligne",
+    "n": 3,
+    "pct": 2.4
+   },
+   {
+    "libelle": "Respecter les délais de publication",
+    "n": 3,
+    "pct": 2.4
+   }
+  ],
+  "api_qualites": [
+   {
+    "libelle": "Etre force de proposition",
+    "n": 10,
+    "pct": 8.1
+   },
+   {
+    "libelle": "Faire preuve de créativité, d'inventivité",
+    "n": 8,
+    "pct": 6.5
+   },
+   {
+    "libelle": "Faire preuve de réactivité",
+    "n": 7,
+    "pct": 5.6
+   },
+   {
+    "libelle": "Faire preuve de rigueur et de précision",
+    "n": 5,
+    "pct": 4.0
+   },
+   {
+    "libelle": "Faire preuve d'autonomie",
+    "n": 4,
+    "pct": 3.2
+   },
+   {
+    "libelle": "Avoir l'esprit d'équipe",
+    "n": 4,
+    "pct": 3.2
+   },
+   {
+    "libelle": "Organiser son travail selon les priorités et les objectifs",
+    "n": 3,
+    "pct": 2.4
+   },
+   {
+    "libelle": "Faire preuve de sens des responsabilités",
+    "n": 2,
+    "pct": 1.6
+   },
+   {
+    "libelle": "Avoir le sens du service",
+    "n": 1,
+    "pct": 0.8
+   }
+  ],
+  "methode": "Un terme est compté une fois par offre où il apparaît (intitulé, description, compétences et qualités renseignées). Le rapprochement avec la formation se fait par mots-clés (data/formation.json)."
+ },
+ "mouvement": {
+  "recent_vs_ancien": {
+   "n_recent": 97,
+   "n_ancien": 27,
+   "seuil": "2026-10-12",
+   "lignes": [
+    {
+     "terme": "Canva",
+     "pct_recent": 20.6,
+     "pct_ancien": 3.7,
+     "ecart": 16.9,
+     "n": 21
+    },
+    {
+     "terme": "Meta Ads / publicité sociale",
+     "pct_recent": 10.3,
+     "pct_ancien": 0.0,
+     "ecart": 10.3,
+     "n": 10
+    },
+    {
+     "terme": "IA / IA générative",
+     "pct_recent": 8.2,
+     "pct_ancien": 0.0,
+     "ecart": 8.2,
+     "n": 8
+    },
+    {
+     "terme": "Reporting / KPI / analyse",
+     "pct_recent": 43.3,
+     "pct_ancien": 37.0,
+     "ecart": 6.3,
+     "n": 52
+    },
+    {
+     "terme": "Automatisation / no-code",
+     "pct_recent": 4.1,
+     "pct_ancien": 0.0,
+     "ecart": 4.1,
+     "n": 4
+    },
+    {
+     "terme": "Rédaction / copywriting",
+     "pct_recent": 40.2,
+     "pct_ancien": 37.0,
+     "ecart": 3.2,
+     "n": 49
+    },
+    {
+     "terme": "ChatGPT et outils d'IA",
+     "pct_recent": 3.1,
+     "pct_ancien": 0.0,
+     "ecart": 3.1,
+     "n": 3
+    },
+    {
+     "terme": "Pack Office (Excel, PowerPoint)",
+     "pct_recent": 28.9,
+     "pct_ancien": 29.6,
+     "ecart": -0.7,
+     "n": 36
+    },
+    {
+     "terme": "Stratégie social media",
+     "pct_recent": 28.9,
+     "pct_ancien": 33.3,
+     "ecart": -4.4,
+     "n": 37
+    },
+    {
+     "terme": "Création de contenu",
+     "pct_recent": 46.4,
+     "pct_ancien": 51.9,
+     "ecart": -5.5,
+     "n": 59
+    },
+    {
+     "terme": "Influence / partenariats",
+     "pct_recent": 29.9,
+     "pct_ancien": 37.0,
+     "ecart": -7.1,
+     "n": 39
+    },
+    {
+     "terme": "Vidéo / montage / Reels",
+     "pct_recent": 50.5,
+     "pct_ancien": 59.3,
+     "ecart": -8.8,
+     "n": 65
+    },
+    {
+     "terme": "Événementiel",
+     "pct_recent": 30.9,
+     "pct_ancien": 40.7,
+     "ecart": -9.8,
+     "n": 41
+    },
+    {
+     "terme": "Veille",
+     "pct_recent": 41.2,
+     "pct_ancien": 51.9,
+     "ecart": -10.7,
+     "n": 54
+    },
+    {
+     "terme": "Créativité",
+     "pct_recent": 27.8,
+     "pct_ancien": 40.7,
+     "ecart": -12.9,
+     "n": 38
+    },
+    {
+     "terme": "TikTok",
+     "pct_recent": 25.8,
+     "pct_ancien": 48.1,
+     "ecart": -22.3,
+     "n": 38
+    },
+    {
+     "terme": "Instagram",
+     "pct_recent": 29.9,
+     "pct_ancien": 55.6,
+     "ecart": -25.7,
+     "n": 44
+    }
+   ],
+   "avertissement": "Comparaison indicative : échantillons modestes, et une offre ancienne encore ouverte n'est pas représentative de toutes les offres passées."
+  },
+  "vs_releve_precedent": null,
+  "nb_releves": 1
+ },
+ "acteurs": {
+  "recruteurs": [
+   {
+    "entreprise": "ISCOD",
+    "n": 13,
+    "type": "Intermédiaire (recrutement, école, formation)",
+    "lieux": [
+     "33 - Bordeaux",
+     "34 - Lunel",
+     "60 - Trumilly"
+    ]
+   },
+   {
+    "entreprise": "Collective.work",
+    "n": 7,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "16 - Angoulême",
+     "59 - Lille",
+     "69 - Lyon"
+    ]
+   },
+   {
+    "entreprise": "ISFOI",
+    "n": 3,
+    "type": "Intermédiaire (recrutement, école, formation)",
+    "lieux": [
+     "974 - Saint-André",
+     "974 - Sainte-Marie"
+    ]
+   },
+   {
+    "entreprise": "Tetranergy Business School Réunion",
+    "n": 3,
+    "type": "Intermédiaire (recrutement, école, formation)",
+    "lieux": [
+     "974 - Port",
+     "974 - Saint-Denis",
+     "974 - Saint-Paul"
+    ]
+   },
+   {
+    "entreprise": "JEUNE AFRIQUE MEDIA GROUP",
+    "n": 2,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "75 - Paris 16e Arrondissement"
+    ]
+   },
+   {
+    "entreprise": "Michael Page",
+    "n": 2,
+    "type": "Intermédiaire (recrutement, école, formation)",
+    "lieux": [
+     "75 - Paris 9e Arrondissement"
+    ]
+   },
+   {
+    "entreprise": "Olivier Mery",
+    "n": 2,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "69 - Lyon 1er Arrondissement",
+     "77 - Montévrain"
+    ]
+   },
+   {
+    "entreprise": "So Bang",
+    "n": 2,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "75 - Paris"
+    ]
+   },
+   {
+    "entreprise": "AG Executive",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "75 - Paris 17e Arrondissement"
+    ]
+   },
+   {
+    "entreprise": "AGENCY CAR FRANCE",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "78 - COIGNIERES"
+    ]
+   },
+   {
+    "entreprise": "ALTESSE TOILETTAGE",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "974 - Sainte-Marie"
+    ]
+   },
+   {
+    "entreprise": "ATH Formation",
+    "n": 1,
+    "type": "Intermédiaire (recrutement, école, formation)",
+    "lieux": [
+     "92 - Hauts-de-Seine"
+    ]
+   },
+   {
+    "entreprise": "BNP Paribas Mission Handicap ",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "28 - Montreuil"
+    ]
+   },
+   {
+    "entreprise": "CARGO",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "31 - TOULOUSE"
+    ]
+   },
+   {
+    "entreprise": "Citeo",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "75 - Paris"
+    ]
+   },
+   {
+    "entreprise": "Coallia",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "14 - Caen"
+    ]
+   },
+   {
+    "entreprise": "COM'SCORING",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "49 - INGRANDES LE FRESNE SUR LOIRE"
+    ]
+   },
+   {
+    "entreprise": "Département de la Vendée",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "85 - Roche-sur-Yon"
+    ]
+   },
+   {
+    "entreprise": "DIECE",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "91 - Savigny-sur-Orge"
+    ]
+   },
+   {
+    "entreprise": "DIGITAL INDIAN OCEAN",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "974 - La Possession"
+    ]
+   },
+   {
+    "entreprise": "DIRECTION GENERALE",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "75 - PARIS"
+    ]
+   },
+   {
+    "entreprise": "E.B.S.",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "47 - Virazeil"
+    ]
+   },
+   {
+    "entreprise": "E2SE Business School",
+    "n": 1,
+    "type": "Intermédiaire (recrutement, école, formation)",
+    "lieux": [
+     "14 - Caen"
+    ]
+   },
+   {
+    "entreprise": "Eole",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "68 - MULHOUSE"
+    ]
+   },
+   {
+    "entreprise": "EQUIPE CARAVANES",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "02 - DAMMARD"
+    ]
+   }
+  ],
+  "n_recruteurs": 64,
+  "sans_employeur": 34,
+  "marche_cache": {
+   "source": "API Recherche d'entreprises (data.gouv.fr) — base Sirene",
+   "date": "2026-11-11T16:36:22+00:00",
+   "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z",
+   "total": 393,
+   "par_naf": {
+    "Conseil en relations publiques et communication": 230,
+    "Agences de publicité": 142,
+    "Régie publicitaire de médias": 21
+   },
+   "par_effectif": {
+    "0 salarié ou non renseigné": 327,
+    "1 à 9": 60,
+    "10 à 49": 4,
+    "50 à 249": 0,
+    "250 et plus": 2
+   },
+   "par_commune": [
+    [
+     "CLERMONT-FERRAND",
+     114
+    ],
+    [
+     "RIOM",
+     17
+    ],
+    [
+     "CHAMALIERES",
+     12
+    ],
+    [
+     "ISSOIRE",
+     12
+    ],
+    [
+     "PARIS",
+     11
+    ],
+    [
+     "COURNON-D'AUVERGNE",
+     8
+    ],
+    [
+     "PONT-DU-CHATEAU",
+     6
+    ],
+    [
+     "ROYAT",
+     6
+    ]
+   ],
+   "publient_une_offre": 0,
+   "part_visible": 0.0,
+   "cibles": [
+    {
+     "nom": "JCDECAUX FRANCE",
+     "commune": "NEUILLY-SUR-SEINE",
+     "naf": "Régie publicitaire de médias",
+     "effectif": "2 000 à 4 999",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "CITYZ MEDIA",
+     "commune": "BOULOGNE-BILLANCOURT",
+     "naf": "Régie publicitaire de médias",
+     "effectif": "500 à 999",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "QUI PLUS EST",
+     "commune": "CHAMALIERES",
+     "naf": "Conseil en relations publiques et communication",
+     "effectif": "20 à 49",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "M.M.MANAGEMENT",
+     "commune": "OBJAT",
+     "naf": "Agences de publicité",
+     "effectif": "10 à 19",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "OCTA'COM",
+     "commune": "ANDREZIEUX-BOUTHEON",
+     "naf": "Agences de publicité",
+     "effectif": "10 à 19",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "OPTILIA",
+     "commune": "BRUGES",
+     "naf": "Conseil en relations publiques et communication",
+     "effectif": "10 à 19",
+     "publie_une_offre": false
+    }
+   ],
+   "exclus_opposition_diffusion": 203
+  }
+ },
+ "limites": [
+  "Photographie du 11/11/2026 : seules les offres déposées à France Travail (et ses partenaires) et encore ouvertes sont visibles. Ce n'est ni le total annuel (MétierScope annonce ~4100 offres sur 12 mois) ni l'ensemble du marché : beaucoup de recrutements ne passent jamais par une annonce.",
+  "Le salaire n'est affiché que dans 17.7 % des offres ; les moyennes ne reflètent que les employeurs qui le publient. Les salaires d'alternance suivent une grille légale et sont séparés.",
+  "Une même offre peut être republiée plusieurs fois, ou par plusieurs agences : les volumes peuvent être gonflés.",
+  "Compétences, outils et télétravail sont détectés par mots-clés dans le texte des annonces : une mention n'est pas une exigence, et un outil non cité peut quand même être utilisé.",
+  "34 offres (27.4 %) n'indiquent pas l'employeur (annonces anonymisées).",
+  "Le classement « intermédiaire / employeur direct » est automatique (mots du nom) et à vérifier."
+ ]
+}
