@@ -1,18 +1,38 @@
 {
-  "derniere_maj": "2026-11-10T13:12:07+00:00",
+  "derniere_maj": "2026-11-11T12:21:05+00:00",
   "requete": "community manager",
   "code_rome": "E1101",
-  "nombre_offres": 71,
+  "nombre_offres": 69,
   "offres": [
     {
-      "id": "216GQWZ",
-      "intitule": "Community manager (H/F)",
-      "entreprise": "BONJOUR PARIS",
-      "lieu": "75 - PARIS",
+      "id": "8726866",
+      "intitule": "Assistant / Assistante community manager (H/F)",
+      "entreprise": "LEMAIRE",
+      "lieu": "75 - Paris 14e Arrondissement",
+      "contrat": "CDD - 12 Mois",
+      "salaire": null,
+      "date_publication": "2026-11-11",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8726866"
+    },
+    {
+      "id": "216HFPM",
+      "intitule": "Community Manager (H/F)",
+      "entreprise": "MN DIGITAL",
+      "lieu": "28 - NOGENT LE ROTROU - Télétravail",
       "contrat": "CDI",
-      "salaire": "Mensuel de 1500.0 Euros",
+      "salaire": "Mensuel de 2050.0 Euros",
       "date_publication": "2026-11-10",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GQWZ"
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216HFPM"
+    },
+    {
+      "id": "8720817",
+      "intitule": "Manager H/F",
+      "entreprise": "Entreprise non précisée",
+      "lieu": "03 - Vichy",
+      "contrat": "CDI",
+      "salaire": null,
+      "date_publication": "2026-11-10",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8720817"
     },
     {
       "id": "8712185",
@@ -85,16 +105,6 @@
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8674309"
     },
     {
-      "id": "8649686",
-      "intitule": "Manager H/F",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "13 - Bouches-du-Rhône",
-      "contrat": "CDI",
-      "salaire": null,
-      "date_publication": "2026-11-07",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8649686"
-    },
-    {
       "id": "8649591",
       "intitule": "Animateur(trice) de site e-commerce (H/F)",
       "entreprise": "Entreprise non précisée",
@@ -163,16 +173,6 @@
       "salaire": null,
       "date_publication": "2026-11-03",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YVMZ"
-    },
-    {
-      "id": "8520400",
-      "intitule": "Responsable communication et communauté (H/F)",
-      "entreprise": "Association Moteur!",
-      "lieu": "75 - Paris",
-      "contrat": "CDI",
-      "salaire": "Annuel de 28000.0 Euros à 30000.0 Euros",
-      "date_publication": "2026-11-03",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8520400"
     },
     {
       "id": "8520253",
@@ -293,16 +293,6 @@
       "salaire": null,
       "date_publication": "2026-10-28",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215TMGB"
-    },
-    {
-      "id": "8354754",
-      "intitule": "Stagiaire communication (H/F) - Novembre à décembre (2 mois)",
-      "entreprise": "Entreprise non précisée",
-      "lieu": "33 - Bordeaux",
-      "contrat": "Intérim - 1 Mois",
-      "salaire": null,
-      "date_publication": "2026-10-28",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8354754"
     },
     {
       "id": "8333037",
@@ -603,16 +593,6 @@
       "salaire": null,
       "date_publication": "2026-10-03",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7627113"
-    },
-    {
-      "id": "214RFPP",
-      "intitule": "- Assistant(e) de production/Community manager (H/F)",
-      "entreprise": "LOVE IS IN THE AIR",
-      "lieu": "75 - PARIS",
-      "contrat": "CDI",
-      "salaire": "Mensuel de 1280.24 Euros",
-      "date_publication": "2026-10-01",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RFPP"
     },
     {
       "id": "7135114",
