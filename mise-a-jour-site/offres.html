@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Offres en direct — Community manager</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="nav-wrap">
+  <nav class="nav">
+    <a href="index.html" class="brand"><span class="brand-dot"></span>Community manager, compté</a>
+    <div class="nav-links">
+      <a href="index.html">← Retour à l'analyse</a>
+      <a href="offres.html" class="is-active">Offres en direct</a>
+    </div>
+  </nav>
+</div>
+
+<header class="hero">
+  <div class="hero-inner" style="padding-bottom:4.5rem">
+    <p class="eyebrow">Veille automatique · France Travail</p>
+    <h1 style="font-size:clamp(2.2rem,6vw,3.6rem)">Offres <span>en direct</span></h1>
+    <p class="hero-lead">Les offres de community manager collectées chaque matin sur l'API France Travail. Filtrez par contrat,
+      zone ou télétravail.</p>
+    <div class="chips" id="hero-chips"></div>
+  </div>
+  <div class="hero-wave"></div>
+</header>
+
+<main>
+  <section class="block" style="padding-top:2rem">
+    <div class="toolbar">
+      <input type="search" id="q" placeholder="Rechercher un intitulé, une entreprise, une ville…" aria-label="Rechercher">
+      <select id="f-contrat" aria-label="Contrat"><option value="">Tous les contrats</option></select>
+      <select id="f-zone" aria-label="Zone"><option value="">Toutes les zones</option></select>
+      <label><input type="checkbox" id="f-tt"> Télétravail</label>
+    </div>
+    <p class="count" id="count" aria-live="polite"></p>
+    <div class="offres" id="liste"></div>
+    <p class="empty" id="vide" hidden>Aucune offre ne correspond à ces filtres.</p>
+  </section>
+</main>
+
+<footer>
+  <div class="foot">
+    <span>Séminaires métiers — M2 Marketing Opérationnel &amp; Digital — IAE Clermont Auvergne · UCA · 2026-2027</span>
+    <span>Source : API France Travail — Offres d'emploi v2</span>
+  </div>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
