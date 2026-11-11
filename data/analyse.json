@@ -1,7 +1,7 @@
 {
  "meta": {
-  "date_donnees": "2026-11-11T16:35:57+00:00",
-  "date_analyse": "2026-11-11T16:36:22+00:00",
+  "date_donnees": "2026-11-11T16:51:37+00:00",
+  "date_analyse": "2026-11-11T16:52:00+00:00",
   "canal": "API France Travail — Offres d'emploi v2",
   "requetes": [
    {
@@ -585,12 +585,12 @@
   "a_acquerir": [],
   "api_competences": [
    {
-    "libelle": "Animer un réseau, une communauté",
+    "libelle": "Analyser des échanges communautaires en ligne",
     "n": 16,
     "pct": 12.9
    },
    {
-    "libelle": "Analyser des échanges communautaires en ligne",
+    "libelle": "Animer un réseau, une communauté",
     "n": 16,
     "pct": 12.9
    },
@@ -610,22 +610,17 @@
     "pct": 5.6
    },
    {
-    "libelle": "Optimiser la visibilité des publications sur les réseaux sociaux",
-    "n": 4,
-    "pct": 3.2
-   },
-   {
     "libelle": "Créer du contenu attractif pour les réseaux sociaux",
     "n": 4,
     "pct": 3.2
    },
    {
-    "libelle": "Mettre en oeuvre des actions de communication",
-    "n": 3,
-    "pct": 2.4
+    "libelle": "Optimiser la visibilité des publications sur les réseaux sociaux",
+    "n": 4,
+    "pct": 3.2
    },
    {
-    "libelle": "Concevoir des supports de communication et d'image",
+    "libelle": "Mettre en oeuvre des actions de communication",
     "n": 3,
     "pct": 2.4
    },
@@ -641,6 +636,11 @@
    },
    {
     "libelle": "Respecter les délais de publication",
+    "n": 3,
+    "pct": 2.4
+   },
+   {
+    "libelle": "Concevoir des supports de communication et d'image",
     "n": 3,
     "pct": 2.4
    }
@@ -1040,20 +1040,20 @@
   "sans_employeur": 34,
   "marche_cache": {
    "source": "API Recherche d'entreprises (data.gouv.fr) — base Sirene",
-   "date": "2026-11-11T16:36:22+00:00",
-   "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z",
-   "total": 393,
+   "date": "2026-11-11T16:52:00+00:00",
+   "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z · siège dans le 63",
+   "total": 331,
    "par_naf": {
-    "Conseil en relations publiques et communication": 230,
-    "Agences de publicité": 142,
-    "Régie publicitaire de médias": 21
+    "Conseil en relations publiques et communication": 196,
+    "Agences de publicité": 119,
+    "Régie publicitaire de médias": 16
    },
    "par_effectif": {
-    "0 salarié ou non renseigné": 327,
-    "1 à 9": 60,
-    "10 à 49": 4,
+    "0 salarié ou non renseigné": 276,
+    "1 à 9": 54,
+    "10 à 49": 1,
     "50 à 249": 0,
-    "250 et plus": 2
+    "250 et plus": 0
    },
    "par_commune": [
     [
@@ -1073,10 +1073,6 @@
      12
     ],
     [
-     "PARIS",
-     11
-    ],
-    [
      "COURNON-D'AUVERGNE",
      8
     ],
@@ -1087,25 +1083,15 @@
     [
      "ROYAT",
      6
+    ],
+    [
+     "AUBIERE",
+     5
     ]
    ],
    "publient_une_offre": 0,
    "part_visible": 0.0,
    "cibles": [
-    {
-     "nom": "JCDECAUX FRANCE",
-     "commune": "NEUILLY-SUR-SEINE",
-     "naf": "Régie publicitaire de médias",
-     "effectif": "2 000 à 4 999",
-     "publie_une_offre": false
-    },
-    {
-     "nom": "CITYZ MEDIA",
-     "commune": "BOULOGNE-BILLANCOURT",
-     "naf": "Régie publicitaire de médias",
-     "effectif": "500 à 999",
-     "publie_une_offre": false
-    },
     {
      "nom": "QUI PLUS EST",
      "commune": "CHAMALIERES",
@@ -1114,24 +1100,178 @@
      "publie_une_offre": false
     },
     {
-     "nom": "M.M.MANAGEMENT",
-     "commune": "OBJAT",
-     "naf": "Agences de publicité",
-     "effectif": "10 à 19",
-     "publie_une_offre": false
-    },
-    {
-     "nom": "OCTA'COM",
-     "commune": "ANDREZIEUX-BOUTHEON",
-     "naf": "Agences de publicité",
-     "effectif": "10 à 19",
-     "publie_une_offre": false
-    },
-    {
-     "nom": "OPTILIA",
-     "commune": "BRUGES",
+     "nom": "CLAP AGENCY",
+     "commune": "CLERMONT-FERRAND",
      "naf": "Conseil en relations publiques et communication",
-     "effectif": "10 à 19",
+     "effectif": "6 à 9",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "DANYLAK ET PY PUBLICITE PEINTE",
+     "commune": "CLERMONT-FERRAND",
+     "naf": "Agences de publicité",
+     "effectif": "6 à 9",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "NECA-MONTAGE ET AFFICHAGE EN PUBLICITE",
+     "commune": "AUBIERE",
+     "naf": "Agences de publicité",
+     "effectif": "6 à 9",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "OCTOPUS COMMUNICATION",
+     "commune": "CLERMONT-FERRAND",
+     "naf": "Conseil en relations publiques et communication",
+     "effectif": "6 à 9",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "OPPIDUM COMMUNICATION",
+     "commune": "ISSOIRE",
+     "naf": "Agences de publicité",
+     "effectif": "6 à 9",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "SOCIETE DE PUBLICITE CASTELPONTINE ET ENSEIGNES",
+     "commune": "PONT-DU-CHATEAU",
+     "naf": "Agences de publicité",
+     "effectif": "6 à 9",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "TEKATE PRODUCTION",
+     "commune": "COURNON-D'AUVERGNE",
+     "naf": "Agences de publicité",
+     "effectif": "6 à 9",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "VICE VERSA",
+     "commune": "ROMAGNAT",
+     "naf": "Conseil en relations publiques et communication",
+     "effectif": "6 à 9",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "AGENCE CHARLIE",
+     "commune": "CHAMALIERES",
+     "naf": "Agences de publicité",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "AGM COMMUNICATION",
+     "commune": "CLERMONT-FERRAND",
+     "naf": "Agences de publicité",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "CENTRE FRANCE COMMUNICATIONS",
+     "commune": "CLERMONT-FERRAND",
+     "naf": "Conseil en relations publiques et communication",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "COELTO SERVICES",
+     "commune": "BEAUMONT",
+     "naf": "Conseil en relations publiques et communication",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "COM'COMMERCE",
+     "commune": "CLERMONT-FERRAND",
+     "naf": "Agences de publicité",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "COM'IN",
+     "commune": "CLERMONT-FERRAND",
+     "naf": "Agences de publicité",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "COMMUN ACOR",
+     "commune": "LA MONNERIE-LE-MONTEL",
+     "naf": "Régie publicitaire de médias",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "DA PIEDADE",
+     "commune": "BLANZAT",
+     "naf": "Agences de publicité",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "MEDIAFIX",
+     "commune": "CLERMONT-FERRAND",
+     "naf": "Agences de publicité",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "PHOEBUS COMMUNICATION",
+     "commune": "BEAUMONT",
+     "naf": "Conseil en relations publiques et communication",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "ROMUALD ROUSSAFFA (ROMUALD'HESIFS)",
+     "commune": "ARLANC",
+     "naf": "Agences de publicité",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "SARL MAGMA CREA",
+     "commune": "CLERMONT-FERRAND",
+     "naf": "Agences de publicité",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "SETT COM DEVELOPPEMENT",
+     "commune": "ROYAT",
+     "naf": "Conseil en relations publiques et communication",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "SOC EDIT TOURISME THERM SETT COMMUNIC",
+     "commune": "ROYAT",
+     "naf": "Agences de publicité",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "STUDIO C",
+     "commune": "RIOM",
+     "naf": "Agences de publicité",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "TOURING INFO SERVICE MASSIF CENTRAL",
+     "commune": "CLERMONT-FERRAND",
+     "naf": "Régie publicitaire de médias",
+     "effectif": "3 à 5",
+     "publie_une_offre": false
+    },
+    {
+     "nom": "TURBULENCES",
+     "commune": "CLERMONT-FERRAND",
+     "naf": "Agences de publicité",
+     "effectif": "3 à 5",
      "publie_une_offre": false
     }
    ],
