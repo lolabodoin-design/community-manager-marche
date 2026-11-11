@@ -250,7 +250,7 @@ async function pageAccueil() {
   }
   const lk = $("linkedin"), li = c && c.linkedin;
   lk.append(el("strong", { text: "À la main, sur LinkedIn : " }),
-    li && li.profils_reperes ? `${li.profils_reperes} profils repérés dans ces entreprises. ` : "repérage des personnes qui portent ce titre dans les entreprises ci-dessus. ",
+    li && li.profils_reperes ? `${li.profils_reperes} profils de community managers repérés. ` : "repérage des personnes qui portent ce titre dans les entreprises ci-dessus. ",
     li ? li.note : "");
 
   // plan et position

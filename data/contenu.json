@@ -36,14 +36,14 @@
     ]
   },
   "linkedin": {
-    "profils_reperes": null,
-    "note": "Repérage fait à la main sur LinkedIn. Aucun nom ni coordonnée n'est publié sur ce site (règle RGPD du README)."
+    "profils_reperes": 10,
+    "note": "Repérage fait à la main le 11/11/2026 (recherche « community manager » à Clermont-Ferrand, première page de résultats), sans outil automatique. 9 profils sur 10 sont localisés à Clermont-Ferrand et ses environs. Par type de structure : 5 en agence ou à leur compte, 3 en entreprise, 1 en école, 1 bénévole. Une des entreprises de la liste « à explorer » ci-dessus emploie l'un d'eux sans publier d'annonce : le marché caché existe bien. Aucun nom ni coordonnée n'est publié (règle RGPD du README)."
   },
   "plan": [
     {
       "date": "D'ici le 30/11/2026",
       "action": "Repérer à la main sur LinkedIn 15 community managers ou social media managers de Clermont-Ferrand et du Puy-de-Dôme, et 10 entreprises de la liste « marché caché » du site, pour voir qui recrute et avec quels intitulés.",
-      "preuve": "Le nombre de profils et d'entreprises repérés, mis à jour sur cette page. Aucun nom n'est publié."
+      "preuve": "Le nombre de profils et d'entreprises repérés, mis à jour sur cette page : 10 profils sur 15 visés repérés dès le 11/11/2026. Aucun nom n'est publié."
     },
     {
       "date": "Du 01/12/2026 au 20/12/2026",
