@@ -1,0 +1,49 @@
+{
+  "evolution": {
+    "source": {
+      "titre": "Apec — L'impact de l'IA sur les compétences des métiers du commercial et du marketing",
+      "url": "https://www.apec.fr/tendances-emploi-cadre/evolution-des-metiers-et-competences/quel-impact-de-l-ia-sur-les-competences-des-metiers-du-commercial-et-du-marketing-.html",
+      "date": "Page publiée le 03/09/2026, d'après une étude de mars 2026",
+      "points": [
+        "En 2025, les métiers commercial-marketing représentent 13 % des offres cadre mentionnant l'IA sur apec.fr (derrière l'informatique), alors que ces offres ne forment que 2 % des offres de la fonction : l'IA est encore peu présente dans les annonces.",
+        "L'IA automatise de nombreuses tâches ; la valeur ajoutée se déplace vers l'analyse, la personnalisation et la stratégie de relation client.",
+        "Côté marketing, les compétences techniques citées sont le no-code / low-code, l'IA générative et les agents intégrés aux outils, les campagnes personnalisées et le marketing automation.",
+        "Les besoins de formation portent surtout sur des compétences transversales liées à l'IA générative, comme savoir rédiger des consignes (prompts)."
+      ],
+      "limite": "Cette étude concerne les cadres et ne traite pas explicitement du community management : à lire comme un signal sur le marketing en général, pas comme un chiffre sur ce métier."
+    },
+    "professionnels": [
+      {
+        "profil": "Directeur de la performance, agence digitale (Clermont-Ferrand)",
+        "date": "24/09/2026",
+        "statut": "a_completer",
+        "points": []
+      },
+      {
+        "profil": "Global Digital Marketing & Performance Manager, laboratoire pharmaceutique",
+        "date": "14/10/2026 et 17/12/2026",
+        "statut": "a_completer",
+        "points": []
+      },
+      {
+        "profil": "Responsable communication, groupe de distribution automobile (Clermont-Ferrand)",
+        "date": "17/02/2027",
+        "statut": "a_venir",
+        "points": []
+      }
+    ]
+  },
+  "linkedin": {
+    "profils_reperes": null,
+    "note": "Repérage fait à la main sur LinkedIn. Aucun nom ni coordonnée n'est publié sur ce site (règle RGPD du README)."
+  },
+  "plan": [
+    {"date": "", "action": "", "preuve": ""},
+    {"date": "", "action": "", "preuve": ""},
+    {"date": "", "action": "", "preuve": ""}
+  ],
+  "position": {
+    "conclusion": "",
+    "ce_que_je_cherche": ""
+  }
+}
