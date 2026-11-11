@@ -1,5 +1,5 @@
 {
- "date": "2026-11-11T17:03:35+00:00",
+ "date": "2026-11-11T17:45:03+00:00",
  "source": "API Recherche d'entreprises (data.gouv.fr) — base Sirene",
  "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z",
  "exclus_opposition": 203,

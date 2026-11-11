@@ -1,7 +1,7 @@
 {
  "meta": {
-  "date_donnees": "2026-11-11T17:03:16+00:00",
-  "date_analyse": "2026-11-11T17:03:35+00:00",
+  "date_donnees": "2026-11-11T17:44:43+00:00",
+  "date_analyse": "2026-11-11T17:45:03+00:00",
   "canal": "API France Travail — Offres d'emploi v2",
   "requetes": [
    {
@@ -652,12 +652,12 @@
     "pct": 12.9
    },
    {
-    "libelle": "Définir une stratégie de communication",
+    "libelle": "Veiller à la cohérence de l'image de l'entreprise sur l'ensemble des déclinaisons de la communication et des supports (éditorial, Web, Intranet, événements, médias, réseaux sociaux)",
     "n": 10,
     "pct": 8.1
    },
    {
-    "libelle": "Veiller à la cohérence de l'image de l'entreprise sur l'ensemble des déclinaisons de la communication et des supports (éditorial, Web, Intranet, événements, médias, réseaux sociaux)",
+    "libelle": "Définir une stratégie de communication",
     "n": 10,
     "pct": 8.1
    },
@@ -667,17 +667,22 @@
     "pct": 5.6
    },
    {
-    "libelle": "Créer du contenu attractif pour les réseaux sociaux",
-    "n": 4,
-    "pct": 3.2
-   },
-   {
     "libelle": "Optimiser la visibilité des publications sur les réseaux sociaux",
     "n": 4,
     "pct": 3.2
    },
    {
+    "libelle": "Créer du contenu attractif pour les réseaux sociaux",
+    "n": 4,
+    "pct": 3.2
+   },
+   {
     "libelle": "Mettre en oeuvre des actions de communication",
+    "n": 3,
+    "pct": 2.4
+   },
+   {
+    "libelle": "Concevoir des supports de communication et d'image",
     "n": 3,
     "pct": 2.4
    },
@@ -688,11 +693,6 @@
    },
    {
     "libelle": "Engager et interagir avec la communauté en ligne",
-    "n": 3,
-    "pct": 2.4
-   },
-   {
-    "libelle": "Concevoir des supports de communication et d'image",
     "n": 3,
     "pct": 2.4
    },
@@ -1097,7 +1097,7 @@
   "sans_employeur": 34,
   "marche_cache": {
    "source": "API Recherche d'entreprises (data.gouv.fr) — base Sirene",
-   "date": "2026-11-11T17:03:35+00:00",
+   "date": "2026-11-11T17:45:03+00:00",
    "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z · siège dans le 63",
    "total": 331,
    "par_naf": {
