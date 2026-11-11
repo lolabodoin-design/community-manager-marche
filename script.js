@@ -221,8 +221,9 @@ async function pageAccueil() {
     const corps = p.points && p.points.length
       ? el("ul", { class: "quote-list" }, p.points.map((x) => el("li", { text: x })))
       : todo(p.statut === "a_venir" ? "À venir" : "À compléter",
-        p.statut === "a_venir" ? "journée pas encore passée." : "notez ici ce que cette journée a changé dans votre lecture du métier (data/contenu.json).");
-    pros.append(el("div", { class: "card pro" }, el("div", { class: "pro-date", text: p.date }), el("h3", { text: p.profil }), corps));
+        p.statut === "a_venir" ? "journée pas encore passée." : "ce que cette personne a dit de l'évolution du métier (data/contenu.json, champ points).");
+    const metier = p.metier ? el("p", { class: "src" }, el("strong", { text: "Son métier, d'après son profil professionnel public : " }), p.metier) : null;
+    pros.append(el("div", { class: "card pro" }, el("div", { class: "pro-date", text: p.date }), el("h3", { text: p.profil }), metier, corps));
   });
 
   // acteurs
