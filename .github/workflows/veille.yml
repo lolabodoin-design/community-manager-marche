@@ -23,20 +23,28 @@ jobs:
       - name: Installer les dépendances
         run: pip install -r requirements.txt
 
-      - name: Lancer la collecte des offres
+      - name: 1. Collecter les offres (API France Travail)
         env:
           FRANCE_TRAVAIL_CLIENT_ID: ${{ secrets.FRANCE_TRAVAIL_CLIENT_ID }}
           FRANCE_TRAVAIL_CLIENT_SECRET: ${{ secrets.FRANCE_TRAVAIL_CLIENT_SECRET }}
         run: python scripts/fetch_offres.py
 
-      - name: Enregistrer les données si elles ont changé
+      - name: 2. Collecter les entreprises du 63 (API Recherche d'entreprises)
+        continue-on-error: true
+        run: python scripts/fetch_entreprises.py
+
+      - name: 3. Analyser (chiffres, outils, acteurs)
+        run: python scripts/analyse_offres.py
+
+      - name: 4. Enregistrer les données datées
         run: |
           git config user.name "veille-bot"
           git config user.email "veille-bot@users.noreply.github.com"
-          if ! git diff --quiet -- data/offres.json; then
-            git add data/offres.json
-            git commit -m "Veille automatique : mise à jour des offres ($(date -u +%Y-%m-%d))"
-            git push
-          else
+          git add data/*.json
+          if git diff --cached --quiet; then
             echo "Rien de nouveau, pas de commit."
+          else
+            git commit -m "Veille automatique : données du $(date -u +%Y-%m-%d)"
+            git pull --rebase
+            git push
           fi
