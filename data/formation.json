@@ -1,4 +1,13 @@
 {
-  "note": "Liste à compléter par l'étudiante : outils et compétences réellement vus en formation (M2 MOD ou avant). Le site s'en sert pour marquer ce qui est « déjà vu » ou « à acquérir ». Écrire les termes comme dans les annonces : Canva, Instagram, Google Analytics, Reporting, Rédaction...",
-  "termes_vus_en_formation": []
+  "note": "Outils et compétences réellement vus ou pratiqués par l'étudiante (cours de stratégie réseaux sociaux, stage de Master 1 chez Booster Media avec création de contenu Instagram et TikTok, projets de cours). Le site s'en sert pour marquer ce qui est « déjà vu » ou « à acquérir » dans les annonces. Liste à compléter.",
+  "termes_vus_en_formation": [
+    "Canva",
+    "Instagram",
+    "TikTok",
+    "Création de contenu",
+    "Stratégie social media",
+    "Google Analytics",
+    "Reporting",
+    "Pack Office"
+  ]
 }

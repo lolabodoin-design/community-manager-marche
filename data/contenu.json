@@ -38,12 +38,24 @@
     "note": "Repérage fait à la main sur LinkedIn. Aucun nom ni coordonnée n'est publié sur ce site (règle RGPD du README)."
   },
   "plan": [
-    {"date": "", "action": "", "preuve": ""},
-    {"date": "", "action": "", "preuve": ""},
-    {"date": "", "action": "", "preuve": ""}
+    {
+      "date": "D'ici le 30/11/2026",
+      "action": "Repérer à la main sur LinkedIn 15 community managers ou social media managers de Clermont-Ferrand et du Puy-de-Dôme, et 10 entreprises de la liste « marché caché » du site, pour voir qui recrute et avec quels intitulés.",
+      "preuve": "Le nombre de profils et d'entreprises repérés, mis à jour sur cette page. Aucun nom n'est publié."
+    },
+    {
+      "date": "Du 01/12/2026 au 20/12/2026",
+      "action": "Produire et publier 3 vidéos courtes (Reels et TikTok) sur le compte Instagram de Booster Media, avec l'accord de l'entreprise. Les annonces demandent la vidéo et le montage dans plus d'une offre sur deux (52 % des 124 offres de la collecte du 11/11/2026).",
+      "preuve": "Les 3 contenus et leurs statistiques (vues, enregistrements, partages) relevées le 10/01/2027, en captures datées ajoutées au site."
+    },
+    {
+      "date": "D'ici le 31/01/2027",
+      "action": "Envoyer 10 candidatures spontanées à des entreprises du Puy-de-Dôme qui ne publient pas d'annonce, en citant ma preuve.",
+      "preuve": "Le nombre de messages envoyés et de réponses reçues, sans nommer personne."
+    }
   ],
   "position": {
-    "conclusion": "",
-    "ce_que_je_cherche": ""
+    "conclusion": "Le community management existe bien comme métier, mais il se lit mal dans les annonces locales. Sur 124 offres France Travail relevées le 11/11/2026, aucune n'est dans le Puy-de-Dôme, 38 % sont des alternances et 8 % du freelance ; seules 18 % affichent un salaire, avec une médiane d'environ 2 500 € brut mensuel hors alternance. Ce que les annonces demandent le plus (vidéo courte, création de contenu, veille, reporting) recoupe en partie ce que j'ai déjà pratiqué, avec un manque net sur le montage vidéo. À Clermont, le marché passe donc moins par les annonces que par le réseau : sur 331 entreprises de publicité et de communication du 63, aucune ne publiait d'offre de ce métier ce jour-là.",
+    "ce_que_je_cherche": "Un poste de community manager ou de social media manager où je crée du contenu vidéo et où je suis jugée sur des résultats mesurés, idéalement en Auvergne-Rhône-Alpes. Cette année, je vais d'abord combler l'écart sur la vidéo courte et le montage, prouver mon niveau avec des statistiques réelles, puis aller vers les entreprises du 63 sans attendre une annonce. Les signaux de hausse (Canva, publicité sociale, IA générative) restent à confirmer sur de petits échantillons."
   }
 }
