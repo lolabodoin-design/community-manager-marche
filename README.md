@@ -25,7 +25,7 @@ d'emploi publiées en France, et se met à jour chaque matin.
 |---|---|---|
 | Collecte des offres (API France Travail « Offres d'emploi v2 » : requête code ROME `E1101` + requête mots-clés « community manager ») | `scripts/fetch_offres.py` | `data/offres.json` |
 | Collecte des entreprises du 63 (API Recherche d'entreprises, codes NAF 73.11Z, 73.12Z, 70.21Z) | `scripts/fetch_entreprises.py` | `data/entreprises_63.json` |
-| Calculs : volumes, géographie, contrats, salaires, outils, compétences, mouvement, recruteurs, marché caché | `scripts/analyse_offres.py` | `data/analyse.json`, `data/offres_site.json`, `data/historique.json` |
+| Calculs : volumes, géographie, contrats, salaires, outils, compétences, mouvement, recruteurs, marché caché | `scripts/analyse_offres.py` | `data/analyse.json`, `data/offres_site.json`, `data/historique.json`, et les **CSV datés** `data/csv/offres_AAAA-MM-JJ.csv` et `data/csv/termes_AAAA-MM-JJ.csv` |
 
 La GitHub Action `.github/workflows/veille.yml` enchaîne ces trois scripts chaque jour à 5 h UTC
 (ou à la demande via « Run workflow ») et enregistre les fichiers de `data/` dans le dépôt : l'historique
@@ -39,6 +39,7 @@ Textes rédigés par l'étudiante (position, plan, notes sur les professionnels,
 ```
 index.html, offres.html, style.css, script.js   le site (statique, GitHub Pages)
 data/                                           données collectées, calculées et rédigées
+data/csv/                                       un export CSV daté par jour (offres, termes)
 scripts/                                        collecte et analyse (Python)
 .github/workflows/veille.yml                    automatisation quotidienne
 GUIDE_DEMARRAGE.md                              création du dépôt, de la clé API, publication

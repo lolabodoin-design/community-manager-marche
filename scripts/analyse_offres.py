@@ -10,6 +10,7 @@ data/historique.json (sert à voir les mots qui montent d'un relevé à l'autre)
 Tout est recalculé à chaque exécution : aucun chiffre n'est écrit à la main.
 """
 
+import csv
 import json
 import re
 import statistics
@@ -26,6 +27,7 @@ F_FORMATION = DATA / "formation.json"
 F_HISTO = DATA / "historique.json"
 F_OUT = DATA / "analyse.json"
 F_OFFRES_SITE = DATA / "offres_site.json"
+DIR_CSV = DATA / "csv"
 
 # Repère externe affiché à titre de comparaison (cité avec sa source sur le site).
 REPERE_METIERSCOPE = {
@@ -537,7 +539,27 @@ def main() -> None:
         })
     F_OFFRES_SITE.write_text(json.dumps({"date_donnees": maj, "offres": liste}, ensure_ascii=False,
                                         separators=(",", ":")), encoding="utf-8")
-    print(f"Analyse écrite : {n} offres, {len(outils)} termes détectés, {len(recruteurs)} employeurs.")
+
+    # --- exports CSV datés (un fichier par jour : on garde l'historique des relevés)
+    DIR_CSV.mkdir(exist_ok=True)
+    jour = date_maj.isoformat()
+    with open(DIR_CSV / f"offres_{jour}.csv", "w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["date_releve", "canal", "id", "intitule", "entreprise", "lieu", "zone", "contrat",
+                    "salaire_affiche", "salaire_mensuel_min", "salaire_mensuel_max", "teletravail_mentionne",
+                    "date_publication", "url"])
+        for o in liste:
+            sm = o["salaire_mensuel"] or ["", ""]
+            w.writerow([jour, "API France Travail - Offres d'emploi v2", o["id"], o["intitule"], o["entreprise"],
+                        o["lieu"], o["zone"], o["contrat"], o["salaire"] or "", sm[0], sm[1],
+                        "oui" if o["teletravail"] else "non", o["date"], o["url"]])
+    with open(DIR_CSV / f"termes_{jour}.csv", "w", encoding="utf-8", newline="") as f:
+        w = csv.writer(f)
+        w.writerow(["date_releve", "terme", "categorie", "nombre_offres", "part_des_offres_pct", "vu_en_formation"])
+        for x in outils:
+            vf = x.get("vu_en_formation")
+            w.writerow([jour, x["terme"], x["categorie"], x["n"], x["pct"], "" if vf is None else ("oui" if vf else "non")])
+    print(f"Analyse écrite : {n} offres, {len(outils)} termes détectés, {len(recruteurs)} employeurs. CSV datés : data/csv/*_{jour}.csv")
 
 
 if __name__ == "__main__":

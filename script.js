@@ -96,6 +96,7 @@ async function pageAccueil() {
     el("span", { class: "chip", text: `Code ROME ${m.code_rome}` }));
 
   // indicateurs clés
+  $("kpis").insertAdjacentElement("afterend", el("p", { class: "src kpi-src", text: `Chiffres clés calculés sur la dernière collecte. ${srcLine(m)}.` }));
   const alt = a.contrats.find((x) => x.contrat === "Alternance");
   const sal = a.salaires.hors_alternance;
   const kpi = (value, label, note) => el("div", { class: "kpi" },
@@ -105,8 +106,8 @@ async function pageAccueil() {
     kpi(fmt(n), "offres ouvertes collectées", `dont ${fmt(a.volume.publiees_7_jours)} publiées ces 7 derniers jours`),
     kpi(fmtPct(a.geographie.zones[0].pct), "dans le Puy-de-Dôme", `${fmt(a.geographie.puy_de_dome)} offre(s), dont ${fmt(a.geographie.clermont_ferrand)} à Clermont-Ferrand`),
     kpi(alt ? fmtPct(alt.pct) : "—", "en alternance", alt ? `${fmt(alt.n)} offres` : "aucune offre d'alternance détectée"),
-    kpi(sal.n ? eur(sal.mediane) : "—", "salaire brut mensuel médian (hors alternance)",
-      sal.n ? `sur ${fmt(sal.n)} offres chiffrées (${fmtPct(a.salaires.part_renseignee)} des offres)` : "salaire rarement affiché"));
+    kpi(sal.n ? eur(sal.mediane) : "—", "salaire brut mensuel affiché, médiane (hors alternance)",
+      sal.n ? `sur ${fmt(sal.n)} offres chiffrées (${fmtPct(a.salaires.part_renseignee)} des offres)` : "salaire rarement affiché dans les annonces"));
 
   // le métier
   const rome = $("rome");
@@ -123,10 +124,10 @@ async function pageAccueil() {
   renderBars($("geo"), a.geographie.zones.map((z) => ({
     label: z.zone.replace(" (ou département non précisé)", ""), value: z.n, display: fmtPct(z.pct), small: `· ${z.n}` })));
   // contrats
-  $("src-contrats").textContent = "Catégorie déduite du type de contrat, de la nature du contrat et de l'intitulé (alternance, stage).";
+  $("src-contrats").textContent = `${srcLine(m)}. Catégorie déduite du type de contrat, de la nature du contrat et de l'intitulé (alternance, stage).`;
   renderBars($("contrats"), a.contrats.map((x) => ({ label: x.contrat, value: x.n, display: fmtPct(x.pct), small: `· ${x.n}` })), { cls: "alt" });
   // salaires
-  $("src-salaires").textContent = `${a.salaires.unite}. Calculé sur les ${fmt(a.salaires.renseigne)} offres qui affichent un salaire (${fmtPct(a.salaires.part_renseignee)}).`;
+  $("src-salaires").textContent = `${srcLine(m)}. ${a.salaires.unite}. Calculé sur les ${fmt(a.salaires.renseigne)} offres qui affichent un salaire (${fmtPct(a.salaires.part_renseignee)}).`;
   const lignes = [];
   const ligne = (nom, s) => lignes.push([nom, String(s.n), s.n ? eur(s.mediane) : "—",
     s.n ? (s.q1 ? `${eur(s.q1)} – ${eur(s.q3)}` : "trop peu d'offres") : "—", s.n ? `${eur(s.min)} – ${eur(s.max)}` : "—"]);
@@ -140,7 +141,7 @@ async function pageAccueil() {
     `${rep.source}, annonce que 80 % des offres proposent entre ${eur(rep.salaire_min)} et ${eur(rep.salaire_max)} brut par mois. `,
     sal.n ? `Notre médiane (${eur(sal.mediane)}, ${sal.n} offres) s'en approche ou s'en écarte selon l'échantillon : à lire avec prudence quand n est petit.` : ""));
   // mois
-  $("src-mois").textContent = "Date de publication des offres actuellement ouvertes (pas un flux annuel).";
+  $("src-mois").textContent = `${srcLine(m)}. Date de publication des offres actuellement ouvertes (pas un flux annuel).`;
   const mois = Object.entries(a.volume.par_mois).slice(-8);
   renderBars($("mois"), mois.map(([k, v]) => ({ label: fmtMois(k), value: v, display: String(v) })), { cls: "ok" });
   // limites
@@ -228,7 +229,7 @@ async function pageAccueil() {
 
   // acteurs
   const ac = a.acteurs;
-  $("src-recruteurs").textContent = `${ac.n_recruteurs} employeurs identifiés ; ${ac.sans_employeur} offres sans employeur indiqué. Classement automatique, à vérifier.`;
+  $("src-recruteurs").textContent = `${srcLine(m)}. ${ac.n_recruteurs} employeurs identifiés ; ${ac.sans_employeur} offres sans employeur indiqué. Classement automatique, à vérifier.`;
   renderTable($("recruteurs"), [{ label: "Entreprise" }, { label: "Offres", num: true }, { label: "Type" }],
     ac.recruteurs.slice(0, 12).map((r) => [r.entreprise, String(r.n),
       el("span", { class: `badge ${r.type.startsWith("Employeur") ? "ok" : ""}`, text: r.type.startsWith("Employeur") ? "Employeur direct (présumé)" : "Intermédiaire / école" })]));

@@ -97,6 +97,7 @@ h3 { font-size: 1.1rem; font-weight: 700; margin-bottom: .8rem; }
 .card { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); padding: 1.4rem 1.5rem; }
 .card h3 + .src { margin-top: -.5rem; }
 .src { font-size: .78rem; color: var(--muted); margin: 0 0 1rem; }
+.kpi-src { max-width: 1040px; width: calc(100% - 2.4rem); margin: 1.2rem auto 0; padding: 0; }
 .stack > * + * { margin-top: 1rem; }
 
 /* ---------- le métier ---------- */
