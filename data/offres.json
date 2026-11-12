@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "derniere_maj": "2026-11-11T17:44:43+00:00",
+ "derniere_maj": "2026-11-12T13:29:37+00:00",
  "canal": "API France Travail — Offres d'emploi v2",
  "requete": "community manager",
  "code_rome": "E1101",
@@ -11,8 +11,8 @@
     "codeROME": "E1101"
    },
    "ok": true,
-   "recuperees": 69,
-   "total_api": 69
+   "recuperees": 70,
+   "total_api": 70
   },
   {
    "label": "mots-clés « community manager »",
@@ -20,39 +20,82 @@
     "motsCles": "community manager"
    },
    "ok": true,
-   "recuperees": 124,
-   "total_api": 124
+   "recuperees": 123,
+   "total_api": 123
   }
  ],
- "nombre_offres": 124,
+ "nombre_offres": 123,
  "offres": [
   {
-   "id": "8726866",
-   "intitule": "Assistant / Assistante community manager (H/F)",
-   "entreprise": "LEMAIRE",
-   "lieu": "75 - Paris 14e Arrondissement",
-   "departement": "75",
-   "code_postal": "75014",
+   "id": "216JDZY",
+   "intitule": "Community Manager (H/F)",
+   "entreprise": "ALTER EGO SAINT PAUL 1225",
+   "lieu": "53 - LAVAL",
+   "departement": "53",
+   "code_postal": "53000",
    "contrat": "CDD - 12 Mois",
    "type_contrat": "CDD",
    "nature_contrat": "Contrat apprentissage",
    "alternance": true,
-   "duree_travail": "35H/semaine\nHoraires annuels",
+   "duree_travail": "35H/semaine\nTravail en journée",
    "salaire": null,
    "salaire_complement": null,
    "experience": "Débutant accepté",
-   "qualification": "Technicien",
-   "secteur": "Commerce de détail de viandes et de produits à base de viande en magasin spécialisé",
-   "naf": "47.22Z",
+   "qualification": "Employé non qualifié",
+   "secteur": "Activités des agences de travail temporaire",
+   "naf": "78.20Z",
    "rome_code": "E1101",
    "rome_libelle": "Community manager",
-   "appellation": "Assistant / Assistante community manager",
-   "competences": [],
+   "appellation": "Community manager",
+   "competences": [
+    "Analyser des échanges communautaires en ligne",
+    "Animer un réseau, une communauté",
+    "Communiquer à l'écrit de façon appropriée"
+   ],
+   "qualites": [
+    "Etre force de proposition",
+    "Faire preuve de réactivité",
+    "Faire preuve de rigueur et de précision"
+   ],
+   "description": "Alter Ego recrute pour Alter Ego ! Nous sommes à la recherche de notre futur.e Community Manager en alternance pour contribuer au développement de trois marques aux activités complémentaires: ALTER EGO, KAPTIV et ERGOS. Vos missions seront les suivantes : Directement rattaché.e à la Responsable communication, vous participerez activement à la conception et au déploiement de la communication de nos différentes marques. Faire vivre nos réseaux sociaux : - Participer à la définition de la stratégie éditoriale de chaque marque ; - Choisir les canaux, les formats et les messages les plus pertinents selon les objectifs ; - Elaborer et suivre les calendriers éditoriaux ; - Animer nos pages LinkedIn, Facebook, Instagram et TikTok ; - Concevoir et publier régulièrement des contenus, répondre aux commentaires et messages, repartager les contenus pertinents et relayer les actualités de notre écosystème ; - Paramétrer et suivre les publications et campagnes sponsorisées, notamment pour soutenir nos recrutements ; - Réaliser une veille sur les tendances, les usages et les bonnes pratiques des plateformes. Imaginer et produire des contenus : - Concevoir des visuels, carrousels, stories et autres supports digitaux ; - Imaginer, tourner et monter des vidéos courtes adaptées aux réseaux sociaux ; - Réaliser des interviews, témoignages, portraits et reportages ; - Prendre des photos et des vidéos lors de nos événements, job datings, interventions ou rencontres chez nos clients et partenaires ; - Rédiger des contenus clairs, attractifs et adaptés à chaque cible ; - Décliner les identités et chartes graphiques de nos différentes marques. Analyser et améliorer nos actions : - Suivre les performances des publications et des campagnes ; - Analyser les statistiques des différents réseaux ; - Identifier les contenus le plus performants et les axes d'amélioration ; - Proposer des recommandations concrètes pour développer la visibilité et l'engagement de nos communautés. Participer aux autres projets du service communication - Contribuer à l'organisation d'événements internes et externes ; - Concevoir des supports de communication et de PLV ; - Participer à l'animation d'ateliers et d'actions de sensibilisation...\n\nVous préparez une formation en communication, marketing digital, création de contenus ou audiovisuel ? Nous recherchons une personne curieuse, créative, autonome et force de proposition, capable de prendre en charge ses sujets et de les mener à bien. Pour réussir dans ce poste, vous devrez : - Maîtriser Meta Business Suite, Canva et CapCut ; - Être à l'aise avec les codes de LinkedIn, Facebook, Instagram et TikTok ; - Savoir créer un contenu de A à Z : idée, tournage ou création, rédaction, montage et publication ; - Posséder de très bonnes qualités rédactionnelles et une excellente maîtrise de l'orthographe; - Faire preuve de créativité tout en gardant une véritable réflexion stratégique ; - Être organisé(e), fiable, curieux(se) et force de proposition ; - Aimer travailler sur des projets variés et passer facilement de la réflexion à l'action ; - Faire preuve d'aisance à l'oral et apprécier les échanges avec différents interlocuteurs : candidats, étudiants, collaborateurs, clients et partenaires ; La maîtrise d'outils complémentaires de création graphique, de montage, de photographie ou de gestion des réseaux sociaux sera appréciée. Vous souhaitez vous investir au sein d'une entreprise innovante tournée vers l'humain ? Voici quelques tips pour vous épanouir chez Alter Ego : - Vous n'aimez pas la routine et vous avez le sens des priorités; - Vous êtes un.e véritable team player : le travail en équipe et l'entraide vous caractérisent; - Vous êtes convaincu.e par l'expérience client et par l'expérience candidat.e. Vous vous reconnaissez ? Alors rejoignez nos aventures humaines !",
+   "date_publication": "2026-11-12",
+   "date_actualisation": "2026-11-12",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216JDZY",
+   "requetes": [
+    "code ROME E1101",
+    "mots-clés « community manager »"
+   ]
+  },
+  {
+   "id": "216HTXY",
+   "intitule": "Formateur / Formatrice en réseaux sociaux et e-réputation (H/F)",
+   "entreprise": "SARL LABORATOIRE L & M",
+   "lieu": "69 - Lyon 1er Arrondissement",
+   "departement": "69",
+   "code_postal": "69001",
+   "contrat": "Profession libérale - 2 Jour(s)",
+   "type_contrat": "LIB",
+   "nature_contrat": "Emploi non salarié",
+   "alternance": false,
+   "duree_travail": null,
+   "salaire": null,
+   "salaire_complement": null,
+   "experience": "1 An(s)",
+   "qualification": "Employé qualifié",
+   "secteur": "Formation continue d'adultes",
+   "naf": "85.59A",
+   "rome_code": "E1101",
+   "rome_libelle": "Community manager",
+   "appellation": "Consultant / Consultante en e-réputation",
+   "competences": [
+    "Animer un réseau, une communauté",
+    "Analyser des échanges communautaires en ligne"
+   ],
    "qualites": [],
-   "description": "Offre collectée par La bonne alternance : L'Animateur de communauté virtuelle dynamise et modère les échanges entre utilisateurs sur les plateformes numériques. Anime les échanges au sein des communautés en ligne pour favoriser une ambiance positive et constructive Crée et partage du contenu pertinent et attractif pour maintenir l'intérêt des membres de la communauté Surveille les tendances du web et adapte les activités de la communauté en conséquence pour rester à la pointe Gère les crises et les conflits au sein de la communauté pour maintenir un environnement sain et respectueux Le salaire d'un apprenti est fixé par la réglementation en vigueur. Il dépend de plusieurs facteurs. Un simulateur à jour est disponible à l'adresse https://labonnealternance.apprentissage.beta.gouv.fr/salaire-alternant",
-   "date_publication": "2026-11-11",
-   "date_actualisation": "2026-11-11",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8726866",
+   "description": "Description du poste\n\nL&M FORMATIONS recherche un(e) formateur(trice) pour animer la formation « Gestion des réseaux sociaux et e-réputation - Débutant ».\n\nVotre rôle sera d'accompagner les participants dans la découverte et l'utilisation professionnelle des réseaux sociaux, afin de développer leur présence en ligne, d'interagir avec leur audience et de gérer leur e-réputation.\n\nMissions principales\n\nPréparer et animer une formation adaptée à un public débutant.\n\nPrésenter les principaux réseaux sociaux et leurs usages professionnels.\n\nAccompagner la création et le paramétrage de comptes professionnels.\n\nFormer à la définition d'une cible, d'objectifs de communication et d'une ligne éditoriale.\n\nTransmettre les bonnes pratiques de création de contenus et de planification des publications.\n\nFormer à la gestion des avis, des commentaires et des messages.\n\nPrésenter les outils de veille et d'analyse des performances.\n\nAnimer des exercices pratiques adaptés aux activités des participants.\n\nÉvaluer les acquis et assurer le suivi pédagogique ainsi que les documents de fin de formation.\n\nThématiques de formation abordées\n\nLe panorama des réseaux sociaux et le choix des plateformes adaptées à son activité.\n\nLa création et le paramétrage de comptes professionnels.\n\nLes fondamentaux d'une stratégie de communication digitale.\n\nLa création de contenus engageants : textes, visuels et vidéos.\n\nLes règles de base de l'écriture web.\n\nL'élaboration d'un calendrier éditorial et la programmation des publications.\n\nLa veille et l'analyse de l'e-réputation de son établissement.\n\nLa gestion des avis clients et des commentaires négatifs.\n\nLa modération et les techniques pour développer l'engagement de son audience.\n\nL'analyse des indicateurs de performance : portée, engagement et conversions.\n\nL'ajustement de sa stratégie selon les résultats obtenus.\n\nCompétences attendues\n\nExpérience professionnelle confirmée en communication digitale, en community management ou en gestion des réseaux sociaux.\n\nMaîtrise des principales plateformes et de leurs fonctionnalités professionnelles.\n\nCompétences en création de contenus et en planification éditoriale.\n\nBonne connaissance des pratiques de veille, de modération et de gestion de l'e-réputation.\n\nCapacité à analyser les statistiques et à proposer des actions d'amélioration.\n\nAptitude à rendre les outils et les notions accessibles à un public débutant.\n\nExpérience en formation d'adultes appréciée.\n\nQualités pédagogiques, sens de l'écoute et capacité à animer un groupe.\n\nMaîtrise des outils pédagogiques en présentiel et à distance.\n\nModalités d'intervention\n\nFormation sur 2 jours, soit 14 heures, en présentiel ou à distance selon les sessions.\nDates d'intervention à convenir.\n\nCandidature\n\nVeuillez nous adresser uniquement un CV, en précisant sur celui-ci si vous disposez d'un numéro de déclaration d'activité (NDA).",
+   "date_publication": "2026-11-12",
+   "date_actualisation": "2026-11-12",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216HTXY",
    "requetes": [
     "code ROME E1101",
     "mots-clés « community manager »"
@@ -482,7 +525,7 @@
    "qualites": [],
    "description": "Dans le cadre du développement de notre communication digitale, nous recherchons un.e Social Media Manager (SMM) dynamique, autonome et passionné.e par les réseaux sociaux et les tendances digitales.\n\nEn collaboration directe avec le Responsable Digital, vous serez en charge de la création, de l'animation et de la diffusion des contenus pour des acteurs de la restauration rapide et restauration traditionnelle, avec une forte dimension opérationnelle et créative.\n\nVos missions\nCréation de contenus\n- Concevoir et produire des contenus digitaux adaptés aux réseaux sociaux : photos, vidéos, stories, réels, formats courts, contenus événementiels, etc.\n- Participer à la réflexion créative et éditoriale des campagnes digitales\n- Assurer les captations terrain lors d'événements, activations ou temps forts de la marque\n- Adapter les contenus aux plateformes et à leurs usages\n\nAnimation des réseaux sociaux\n- Participer à l'animation quotidienne des réseaux sociaux\n- Programmer et publier les contenus\n- Assurer les interactions avec les communautés (messages, commentaires, sollicitations)\n- Contribuer à l'e-réputation\n\nActivations digitales & jeux concours\n- Mettre en place des activations digitales et jeux concours\n- Assurer le suivi opérationnel des campagnes\n- Gérer les échanges avec les participants et gagnants\n\nVeille & tendances\n- Réaliser une veille active sur les tendances social media, créatives et concurrentielles\n- Être force de proposition sur les nouveaux formats, concepts et usages digitaux\n\nStratégie & planification éditoriale\n- Contribuer à la définition de la stratégie social media en cohérence avec les objectifs de la marque\n- Élaborer et maintenir le calendrier éditorial mensuel (temps forts, saisonnalité, opérations commerciales)\n- Décliner la ligne éditoriale et la charte graphique sur chaque plateforme (Instagram, Facebook, TikTok, etc.)\n\nInfluence & partenariats\n- Identifier et proposer des influenceurs et créateurs de contenu locaux pertinents\n- Coordonner les collaborations : brief, suivi, validation des contenus et publication\n- Entretenir la relation avec les partenaires et les ambassadeurs des différentes marques\n\nPublicité digitale \n- Participer à la mise en place et au suivi des campagnes sponsorisées \n- Optimiser les ciblages, les budgets et les visuels en fonction des performances\n\nAnalyse & reporting\n- Suivre les indicateurs clés de performance (portée, engagement, croissance de la communauté, conversions)\n- Réaliser des bilans mensuels et des recommandations d'optimisation\n- Tester de nouveaux formats et ajuster les contenus selon les résultats\n\nCoordination & gestion de crise\n- Travailler en lien avec les équipes marketing, opérationnelles et les restaurants pour relayer les actualités locales\n- Détecter et traiter les situations sensibles ou bad buzz en alertant le Responsable Digital\n- Veiller au respect du droit à l'image, des droits d'auteur et des règles de modération\n\nFormateur\n- Former et sensibiliser les équipes en restaurant à l'environnement Digital afin d'en faire des ambassadeurs des différentes marques. \n\nProfil recherché\n- Minimum 2 ans d'expérience en création de contenus digitaux ou social media\n- Excellente connaissance des réseaux sociaux et de leurs codes\n- Bonne maîtrise des outils de création : Adobe Creative Suite - Photoshop, Illustrator, Première Pro After Effect et Capcut\n- Sensibilité forte à l'image, au montage vidéo et aux tendances digitales\n- Bonnes qualités rédactionne\n\nLes +\n- Expérience dans les secteurs food, retail ou lifestyle\n- Maîtrise des formats vidéo courts et du motion design\n- Connaissance des outils de programmation social media (Metricool, Meta Business Suite, etc.)",
    "date_publication": "2026-11-10",
-   "date_actualisation": "2026-11-10",
+   "date_actualisation": "2026-11-11",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GWSK",
    "requetes": [
     "mots-clés « community manager »"
@@ -544,7 +587,7 @@
    "qualites": [],
    "description": "Rattaché(e) à la direction du Pôle Digital, vous prenez le leadership stratégique, opérationnel et managérial sur le périmètre Paid Social Media pour l'un des clients majeurs de l'agence.\n\nEn binôme avec un autre Responsable, vous incarnez l'expertise média social de l'équipe et participez activement à sa montée en compétences.\n\nVos responsabilités clés :\n\n- Conseil stratégique & relation client :\nTraduire les enjeux business du client en stratégies d'activation Social Ads à fort impact (notoriété, considération, conversion).\nConstruire, défendre et animer les présentations stratégiques, bilans de campagnes et recommandations prospectives.\n\n-Pilotage média & performance :\nSuperviser et optimiser les dispositifs publicitaires de A à Z (Meta, TikTok, LinkedIn, Pinterest, Snapchat).\nPiloter les arbitrages budgétaires, les ciblages et l'atteinte des KPI (Brand et E-commerce).\n\nManagement & développement d'équipe :\n-Encadrer et faire monter en compétences vos collaborateurs au quotidien (suivi d'activité, formation, plans de progression).\n-Développer l'expertise collective de l'agence : ateliers d'acculturation, animation de formations internes et partage des best practices.\n\n-Avant-vente & rayonnement :\nParticiper activement aux réponses à appels d'offres et aux soutenances clients en apportant la valeur ajoutée Social Ads.\nAssurer une veille sectorielle de pointe sur les algorithmes, les nouveaux formats et les régies.\n\n=> Les atouts du poste :\n\nUn équilibre réel entre vision stratégique, pilotage de budgets d'envergure et transmission d'expertise.\nUne équipe soudée, bienveillante et tournée vers l'excellence opérationnelle.",
    "date_publication": "2026-11-10",
-   "date_actualisation": "2026-11-10",
+   "date_actualisation": "2026-11-12",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216HFGP",
    "requetes": [
     "mots-clés « community manager »"
@@ -672,7 +715,7 @@
    "qualites": [],
    "description": "Kodawari Ramen, c'est l'endroit où la tradition japonaise rencontre une expérience culinaire moderne. Nous avons pour mission de proposer à nos clients un ramen d'exception dans une ambiance immersive et soignée. Aujourd'hui, nous cherchons un(e) Manager enthousiaste et impliqué(e) pour rejoindre notre équipe et contribuer à faire de chaque service une expérience inoubliable.\n\nTes Missions :\n\n* Supervision et participation au service\n* Gestion d'équipe (briefing, intégration, formation, suivi de l'évolution)\n* Gestion des checklists, de la caisse et des procédures internes\n* Maîtriser les outils digitaux ( Cashpad, Sunday, JeFile, Choco..etc)\n* Faire preuve de respect, d'écoute et d'empathie ainsi d'un sens du détail exceptionnel et aller jusqu'au bout de chaque tâche\n* Gérer le service dans son ensemble et s'assurer de la satisfaction de ses clients\n* Transmettre les valeurs Kodawari au sein des équipes et des nouveaux arrivants, être un véritable ambassadeur en faisant preuve d'intégrité en respectant l'identité du restaurant (concept immersif, cuisine..etc).\n\nCe qu'on te propose :\n\n* Contrat en CDI, Temps plein 39h/ semaine\n* 5 jours de travail (2 longues et 3 demi journées par semaine), 2 jours de repos consécutifs, pas de coupure\n* Horaires de travail: 11h-17h45 et 17h15-00h et 11h-00h\n* Salaire : à partir de 2430€ net / mois\n* Prime variable sur objectifs : 300€ net / mois\n* Lieu de travail : Etablissement Yokocho (métro Odéon), 29 Rue Mazarine 75006\n\nLes avantages supplémentaires :\n\n* Jour férié payé double sans condition d'ancienneté\n* Possibilité de faire des heures supplémentaires, majorées et rémunérées\n* Pourboires: environ 300€ par mois\n* Primes de remplacement de dernière minute\n* Prime de cooptation\n* Mutuelle d'entreprise PréviFrance\n* 50% de Remboursement du titre de transport\n* Et des ramen évidemment !\n\nLe profil recherché\n\n* Expérience dans un poste à responsabilité et management d'équipe de minimum 3 ans\n* Maitrise de la gestion de stocks et des commandes\n* Polyvalence pour palier à toute éventualité pendant le service\n* Souriant, plein d'énergie positive\n* Ponctuel, rigoureux et respectueux des procédures internes\n* Esprit d'équipe et leadership\n* Niveau d'anglais avancé\n\nChez Kodawari Ramen, nous croyons fermement que la diversité est une richesse. Toutes nos offres sont ouvertes aux personnes en situation de handicap. Nous prenons le temps d'échanger sur les besoins spécifiques de chaque candidat, et de discuter des aménagements possibles, afin de garantir un processus de recrutement équitable et bienveillant.\n\nRémunération : 3 070,00€ à 3 200,00€ par mois\n\nAvantages :\n* Prise en charge du transport quotidien\n\nLieu du poste : En présentiel",
    "date_publication": "2026-11-09",
-   "date_actualisation": "2026-11-09",
+   "date_actualisation": "2026-11-11",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8678811",
    "requetes": [
     "code ROME E1101",
@@ -768,7 +811,7 @@
    "qualites": [],
    "description": "Organiser et réaliser des shootings photo et vidéo en collaboration avec les équipes internes et les prestataires externes.Créer des contenus visuels et monter des vidéos pour valoriser les établissements, les équipes, les cocktails, les plats et les ambiances.Participer à la promotion des soirées et événements, avec une couverture photo et vidéo en direct lors des temps forts.Contribuer au développement de collaborations avec des influenceurs et créateurs de contenu locaux.Participer à la conception des campagnes de communication et des stratégies digitales, en tenant compte de l'identité de chaque établissement.Analyser les performances des réseaux sociaux et assurer une veille des tendances, afin de renforcer l'engagement et d'attirer de nouvelles clientèles.",
    "date_publication": "2026-11-07",
-   "date_actualisation": "2026-11-07",
+   "date_actualisation": "2026-11-12",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8641556",
    "requetes": [
     "code ROME E1101",
@@ -1281,7 +1324,7 @@
    "qualites": [],
    "description": "So Bang est à la recherche d'un-e Chef-fe de Groupe Social Media & Influence pour accompagner nos Directeurs-rices de Clientèle dans le pilotage et le développement de projets de contenus Social Media & Influence.\n\nVous interviendrez auprès de clients aux univers variés et stimulants, principalement dans les secteurs de la grande distribution, du grand public et des spiritueux.\n\nPlus qu'un poste, une véritable opportunité d'évolution ! Nous souhaitons accueillir un profil qui a envie de prendre des responsabilités, de gagner en autonomie et de développer une vision stratégique des comptes. Ce poste s'inscrit dans une réelle perspective d'évolution vers un rôle de Directeur-rice de Clientèle, avec la possibilité de prendre progressivement en main la gestion et le développement de vos propres comptes.\n\nL'AGENCE\n\nSo Bang est une agence qui combine trois expertises :\n\n-Influence & Social Media\n\n-Publicité\n\n-Plateforme de marque et Branding\n\nL'agence a également développé une plateforme qui rassemble plus de 30 000\n\ninfluenceurs dans le monde. Elle s'organise autour de trois pôles :\n\nLuxe\n\nLa Maison du Chocolat, Tiffany & Co, Rémy Martin, Louis XIII, Veuve Clicquot,\n\nGivenchy Parfums, Tumi.\n\nGrand Public\n\nTwinings, Champagne Jacquart, Fnac, Hippopotamus, Adopt Parfums, Daddy,\n\nLissac, Vins de Bordeaux.\n\nSanté & B2B\n\nSymbiosis, Saforelle, Fresenius, Uriage, La Roche-Posay.\n\nSo Bang a remporté 3 prix Effie et a été élue Agence Social Media de l'année 2023.\n\nMISSION\n\nVous serez amené à travailler sur les missions suivantes :\n\n* Avoir un rôle de conseil et d'accompagnement auprès des clients pour permettre aux projets d'être un succès.\n* Concevoir les recommandations stratégiques (projets going et occasionnellement new biz) et campagnes sociales en collaborations avec les différents pôles de l'Agence (Planning Stratégique, Commercial et Création).\n* Gestion de projets social media (planning éditoriaux, community management...), et influence (casting, contact, co-création...).\n* Coordination et briefing avec les différentes équipes sur vos projets. Investissements média : Meta Business Suite à minima - TikTok Ads Manager et le reste un plus.\n* Suivi de la rentabilité et de la performance des projets (KPIs, reporting...) et présentation des résultats.\n* Veille active sur les nouveaux dispositifs à venir (réseaux sociaux, trends, actualités...).\n\nPROFIL SOUHAITÉ\n\n* 5 ans minimum en tant que Chef.fe de groupe Social, forte capacité rédactionnelle et de pilotage de création de contenus.\n* Vous disposez de capacités d'anticipation, de qualités relationnelles, vous êtes rigoureux(se), organisé(e), dynamique et possédez le sens du service client.\n* Fortement intéressé(e) par les nouvelles technologies, les réseaux sociaux, la pub et le Web en général, vous souhaitez vous investir dans un secteur en forte évolution qui pourrait vous offrir des perspectives d'évolution.\n* Des compétences en Photoshop seraient clairement un atout.\n* Vous maîtrisez impérativement l'anglais (plusieurs clients internationaux).\n\nDate de début : Dès que possible\n\nAdresse : 23 rue du Mail, 75002 Paris\n\nENVIE DE NOUS REJOINDRE ?\n\nAlors, n'hésitez plus et envoyez-nous votre candidature. On a hâte de vous rencontrer !",
    "date_publication": "2026-11-05",
-   "date_actualisation": "2026-11-06",
+   "date_actualisation": "2026-11-12",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8557860",
    "requetes": [
     "mots-clés « community manager »"
@@ -1448,50 +1491,6 @@
    "date_actualisation": "2026-11-04",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/215ZSDW",
    "requetes": [
-    "mots-clés « community manager »"
-   ]
-  },
-  {
-   "id": "215YVMZ",
-   "intitule": "Community Manager / Chargé-e de communication (H/F)",
-   "entreprise": "TOULOUSE CULTURE CLUB",
-   "lieu": "31 - TOULOUSE",
-   "departement": "31",
-   "code_postal": "31400",
-   "contrat": "Profession libérale",
-   "type_contrat": "LIB",
-   "nature_contrat": "Emploi non salarié",
-   "alternance": false,
-   "duree_travail": null,
-   "salaire": null,
-   "salaire_complement": null,
-   "experience": "1 An(s)",
-   "qualification": "Employé qualifié",
-   "secteur": "Portails Internet",
-   "naf": "63.12Z",
-   "rome_code": "E1101",
-   "rome_libelle": "Community manager",
-   "appellation": "Community manager",
-   "competences": [
-    "Analyser des échanges communautaires en ligne",
-    "Animer un réseau, une communauté",
-    "Communiquer efficacement avec les équipes et la direction",
-    "Concevoir des supports de communication et d'image",
-    "Engager et interagir avec la communauté en ligne",
-    "Respecter les délais de publication",
-    "Utiliser les réseaux sociaux"
-   ],
-   "qualites": [
-    "Etre force de proposition",
-    "Faire preuve de réactivité",
-    "Faire preuve de rigueur et de précision"
-   ],
-   "description": "Toulouse Culture Club est le média sur Instagram et (la future) application qui font vivre l'agenda culturel toulousain. \nPour accompagner notre développement, on cherche un-e CM pour faire grandir notre compte Instagram.\n\nTes missions : \n\n1. Participer à la veille informationnelle et aux réunions de rédaction pour proposer de nouveaux sujets\n2. Créer et rédiger des contenus pour Instagram (posts, carrousels, stories)\n3. Produire des vidéos de type reels\n4. Publier les contenus et gérer le compte (messages, commentaires)\n5. Analyser les statistiques\n\nTon profil : \n\nTu as déjà géré un compte Instagram professionnel, ou travaillé pour un média ou un service com\nTu as un lien, pro ou perso, avec la scène culturelle toulousaine et tu connais bien son actualité\nTu es curieux-se et tu as une vraie appétence pour la création de contenus et les nouveaux formats\nTu es rigoureux-se, car l'exactitude des infos relayées compte\nTu es déterminé-e car un média sur les réseaux sociaux demande un rythme soutenu\n\nConditions : \n\nFreelance (auto-entrepreneur-e), 15 à 20 h par semaine\nRémunération au forfait, selon profil\nBasé à Toulouse\nPrise de poste : mi-novembre\n\nPour postuler, envoie ton CV, ta lettre de motivation et ton portfolio (ou ton compte Insta) Par email",
-   "date_publication": "2026-11-03",
-   "date_actualisation": "2026-11-09",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215YVMZ",
-   "requetes": [
-    "code ROME E1101",
     "mots-clés « community manager »"
    ]
   },
@@ -1918,7 +1917,7 @@
    "qualites": [],
    "description": "PASCAL COSTE RECRUTE UN MANAGER COIFFEUR (H/F)\n\nVous êtes à la recherche d'un nouveau challenge professionnel au sein d'un groupe leaders du marché de la coiffure, venez nous rejoindre !\n\nNous recherchons un manager coiffeur H/F en CDI en statut cadre en 39h.\n\nVous serez un véritable leader pour le salon dans le but d'accomplir pleinement vos missions et objectifs.\n\nVous êtes avant tout coiffeur mais en tant que manager votre quotidien sera rythmé par :\n\n- La gestion du flux clientèle\n\n- La gestion du planning des collaborateurs\n\n- La gestion des stocks\n\n- La formation de vos équipes\n\n- La dynamique du Chiffre d'affaires\n\n- Des formations managériales (en présentiel ou visioconférence)\n\n- L'accompagnement et l'encadrement de votre équipe\n\nVous serez une valeur d'exemple pour votre équipe et un boost dans l'amélioration de leur productivité !\n\nSi vous aimez le challenge, nos salons sont faits pour vous ! Nous mettons en place des challenges mensuels sur la vente de produits avec à la clé de nombreux gains (des chèques-cadeaux, des appareils multimédias.)\n\nLes + au sein du Groupe PC :\n\nNous sommes une entreprise à taille humaine qui vous assure un management de proximité avec un suivi personnalisé !\n\nL'échange et la communication sont au cœur de nos valeurs afin de mettre à l'honneur votre épanouissement et votre projet professionnel.\n\nOn vous propose :\n\n- Des primes individuelles sur chiffres d'affaires\n\n- Des primes collectives sur chiffres d'affaires\n\n- Des formations régulières avec nos fournisseurs (L'Oréal, GHD etc.) et internes tant sur les techniques que sur le management\n\n- Opportunité d'une belle évolution en interne possible\n\n- CSE attractif (des avantages et des réductions sur tous les univers de consommation)\n\n- Des remises sur les produits revente toute l'année\n\nEn savoir plus sur Pascal Coste :\n\nPascal Coste a commencé la coiffure à 15 ans dans un salon traditionnel. Fort de ces expériences, il lance son propre salon de coiffure mixte, à Nice, sous l'enseigne « Pascal Coste » en 1997. Depuis, il ne cesse de se développer avec aujourd'hui plus de 150 salons en France. Il est aujourd'hui le 2ème groupe Français de la coiffure.\n\nA savoir : Nous travaillons avec les cumuls emploi-retraite.\n\nNotre politique de recrutement est engagée en faveur de l'intégration des travailleurs en situation de handicap\n\nType d'emploi : Temps plein, CDI\n\nLieu du poste : En présentiel\n\nType d'emploi : Temps plein, CDI\n\nRémunération : 2 457,38€ à 2 952,68€ par mois\n\nAvantages :\n* Prise en charge du transport quotidien\n\nLieu du poste : En présentiel",
    "date_publication": "2026-11-01",
-   "date_actualisation": "2026-11-01",
+   "date_actualisation": "2026-11-11",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8459491",
    "requetes": [
     "code ROME E1101",
@@ -2058,7 +2057,7 @@
    "qualites": [],
    "description": "Rejoignez l'Envers du Décor !\nNotre entreprise, leader dans le matériel de cirque, grossiste B2B et détaillant B2C, est à la recherche de son prochain talent. Avec un catalogue de plus de 3000 références, nous fournissons les plus grands professionnels comme les boutiques de jouets et fabriquons Decathlon en autre.\nDans le cadre de notre développement digital, nous recherchons un(e) Community Manager polyvalent(e) et créatif(ve) pour prendre en charge notre présence sur les réseaux sociaux et la production de contenus vidéo.\nVous serez responsable de la programmation et de l'animation de nos comptes TikTok, Instagram et Facebook.\n\n\nMissions principales :\n- Stratégie & Programmation : Planifier et programmer les publications hebdomadaires sur les trois plateformes (calendrier éditorial).\n- Création de contenu : Rédiger les textes (copywriting) adaptés à chaque réseau et sélectionner les visuels.\n- Montage Vidéo : Assurer le montage des vidéos courtes (format Reels/TikTok) à l'aide d'outils d'édition.\n- IA : Utiliser des applications d'Intelligence Artificielle pour optimiser la création de contenu, la retouche ou la génération d'idées.\n- Modération : Animer la communauté et répondre aux commentaires si nécessaire.\n- Profil recherché :\n- Maîtrise des réseaux sociaux : Vous connaissez parfaitement les codes, algorithmes et tendances de TikTok, Instagram et Facebook.\n- Compétences en montage : Vous êtes à l'aise avec les logiciels/applications d'édition vidéo (CapCut, Premiere Pro, Canva, etc.).\n- Curiosité technologique : Vous savez utiliser les outils d'IA (ChatGPT, Midjourney, outils de montage IA, etc.) pour gagner en efficacité.\n- Autonomie : Capable de travailler de manière indépendante sur une journée dédiée.\n- Créativité : Force de proposition pour renouveler les contenus.\nConditions :\n- Rythme : 1 jour par semaine (jour à définir ensemble).\n- Rémunération : À définir selon profil et statut (Salaire brut ou TJM Freelance).\n\nType de contrat : CDD ou Freelance (à préciser selon votre besoin)\nDurée hebdomadaire : 7 heures (1 jour par semaine)\nLieu : Vanosc 07690",
    "date_publication": "2026-10-28",
-   "date_actualisation": "2026-11-04",
+   "date_actualisation": "2026-11-12",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/215TMGB",
    "requetes": [
     "code ROME E1101",
@@ -2293,7 +2292,7 @@
    "qualites": [],
    "description": "Vous vivez les réseaux sociaux et connaissez les algorithmes mieux que votre propre fil d'actu ? Rejoignez-nous. BIONEXT recherche un(e) passionné(e) du digital, capable de transformer une actualité de laboratoire en contenu qui engage. Rattaché(e) à la Direction e et au CODIR, vous travaillerez en binôme avec notre chargée de communication et serez le/la garant(e) de notre image sur l'ensemble de nos canaux en ligne. Vos missionsStratégie digitale : définir et déployer notre ligne éditoriale sur LinkedIn, Instagram, Facebook, le site web et tout nouveau canal pertinent.Contenus & communautés : créer des posts, visuels, vidéos courtes, reels et stories ; programmer, animer et modérer les échanges. Valoriser nos ouvertures de centres, innovations es, recrutements, vie interne et partenariats.IA : intégrer les outils d'IA générative dans la création (texte, visuels, vidéo, déclinaisons multilingues) et l'automatisation, dans le respect des exigences du secteur de la .SEO : optimiser le référencement du site et des contenus, et développer notre visibilité locale via les fiches Google de nos centres.E-réputation & performance : assurer la veille, gérer les avis avec les équipes concernées, suivre les KPI et proposer des optimisations. Votre profilUn(e) vrai(e) geek des réseaux : formats, tendances, algorithmes, nouveautés. vous êtes toujours en avance.Formation en communication, marketing digital ou équivalent, avec une expérience confirmée en community management.Pratique avancée des outils d'IA et bonnes notions de SEO (Search Console, Analytics).Maîtrise des outils de création (Canva, Adobe, CapCut.), de planification et de reporting.Excellente plume en français ; anglais, allemand et/ou luxembourgeois appréciés.Créatif(ve), rigoureux(se), autonome, avec un intérêt pour la . Ce que nous proposonsUn CDI à temps plein.Un poste à forte visibilité, en lien direct avec le CODIR.La liberté d'innover au sein d'un acteur majeur de la biologie e au Luxembourg. Envoyez-nous votre candidature avec vos meilleures réalisations ou un lien vers vos comptes !",
    "date_publication": "2026-10-24",
-   "date_actualisation": "2026-11-11",
+   "date_actualisation": "2026-11-12",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8231242",
    "requetes": [
     "mots-clés « community manager »"
@@ -2620,6 +2619,45 @@
    ]
   },
   {
+   "id": "215KZYW",
+   "intitule": "Community Manager (H/F)",
+   "entreprise": "FABANIMATION SARL",
+   "lieu": "93 - Aubervilliers",
+   "departement": "93",
+   "code_postal": "93300",
+   "contrat": "CDI",
+   "type_contrat": "CDI",
+   "nature_contrat": "Contrat travail",
+   "alternance": false,
+   "duree_travail": "35H/semaine\nTravail en horaires décalés...",
+   "salaire": "Mensuel de 1868.0 Euros",
+   "salaire_complement": "Indemnité transports Titres restaurant / Prime de panier",
+   "experience": "Débutant accepté",
+   "qualification": "Employé qualifié",
+   "secteur": "Services des traiteurs",
+   "naf": "56.21Z",
+   "rome_code": "E1101",
+   "rome_libelle": "Community manager",
+   "appellation": "Community manager",
+   "competences": [
+    "Animer un réseau, une communauté",
+    "Analyser des échanges communautaires en ligne"
+   ],
+   "qualites": [
+    "Avoir l'esprit d'équipe",
+    "Faire preuve de créativité, d'inventivité",
+    "Etre ouvert aux changements"
+   ],
+   "description": "Description du poste - CDI\n\nLe/la Community Manager assure la gestion et le développement de la présence de BAZOO EXOTIC sur les réseaux sociaux afin de renforcer la visibilité, l'image de marque et l'engagement de la communauté.\n\nActivités principales :\n\n-Gérer et animer les réseaux sociaux de l'entreprise\n\n-Concevoir, planifier et publier des contenus digitaux (textes, visuels, vidéos)\n\n-Mettre en œuvre le calendrier éditorial\n\n-Animer la communauté : réponses aux commentaires et messages, modération\n\n-Assurer une veille sur les tendances digitales et le secteur d'activité\n\n-Suivre et analyser les indicateurs de performance et établir des reportings\n\n-Contribuer à la stratégie de communication et marketing digital\n\nEnvironnement de travail :\n\n-Poste basé en présentiel avec possibilité de télétravail partiel\n\n-Environnement de travail dynamique, orienté digital et e-commerce\n\n-Utilisation d'outils professionnels de gestion et de création de contenus",
+   "date_publication": "2026-10-20",
+   "date_actualisation": "2026-11-12",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215KZYW",
+   "requetes": [
+    "code ROME E1101",
+    "mots-clés « community manager »"
+   ]
+  },
+  {
    "id": "215KTKT",
    "intitule": "Community manager (H/F)",
    "entreprise": "Entreprise non précisée",
@@ -2929,7 +2967,7 @@
    "qualites": [],
    "description": "Offre collectée par La bonne alternance : L'Animateur de communauté virtuelle dynamise et modère les échanges entre utilisateurs sur les plateformes numériques. Anime les échanges au sein des communautés en ligne pour favoriser une ambiance positive et constructive Crée et partage du contenu pertinent et attractif pour maintenir l'intérêt des membres de la communauté Surveille les tendances du web et adapte les activités de la communauté en conséquence pour rester à la pointe Gère les crises et les conflits au sein de la communauté pour maintenir un environnement sain et respectueux Le salaire d'un apprenti est fixé par la réglementation en vigueur. Il dépend de plusieurs facteurs. Un simulateur à jour est disponible à l'adresse https://labonnealternance.apprentissage.beta.gouv.fr/salaire-alternant",
    "date_publication": "2026-10-16",
-   "date_actualisation": "2026-10-16",
+   "date_actualisation": "2026-11-12",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/7988544",
    "requetes": [
     "code ROME E1101",
@@ -3120,39 +3158,8 @@
    "qualites": [],
    "description": "Description du poste :\n\nDans le cadre d'un accroissement de l'activité, Coallia recrute un responsable de service fonctionnel pour le service Pôle urgence du calvados : 1 centre d'hébergement 115 basé à Ifs dit M&R.\n\nSous la responsabilité du Directeur Territorial, de la Directrice Territoriale Adjointe, au sein d'une équipe de 12 Chefs de Service, vous serez en charge de Animer, encadrer, coordonner et manager les salariés des équipes dans le respect des conventions et des valeurs associatives,***Planifier et superviser l'accueil et la prise en charge du public,***Organiser et garantir la production d'indicateurs et rapports d'activités,***Assurer le suivi budgétaire,***Etre garant de la bonne application des procédures internes,***Participer aux travaux de l'équipe de Direction avec les 12 autres chefs de service du territoire,***Développer le travail en réseau et la dynamique partenariale locale,***Participer au développement de projets et être force de proposition,\n\nDans le cadre d'un accroissement de l'activité, Coallia recrute un responsable de service fonctionnel pour le service Pôle urgence du calvados : 1 centre d'hébergement 115 basé à Ifs dit M&R.\n\nAvantages 7 semaines de congés payés par an***Compte Epargne Temps (CET)***Avantages proposés par le CSE***Formations collectives\n\nDescription du profil Chef(fe) de service de niveau II idéalement titulaire d'un CAFERUIS ou équivalent, vous justifiez d'une expérience dans l'encadrement d'équipe,***Excellente connaissance des outils du management et de la gestion de projet,***Une expérience auprès du public en précarité, une bonne connaissance des différents acteurs de l'AHI seraient un plus,***Bon communiquant et à l'aise avec les outils numériques, vous rédigez des écrits professionnels de qualité,***Excellent sens du relationnel et de la négociation,***Ambitieux, vous faites preuve d'une réelle volonté à contribuer au développement de l'association,***Déplacements avec véhicule de service***Astreintes***Poste à pourvoir rapidement, basé à Caen Temps complet - statut cadre - forfait jour",
    "date_publication": "2026-10-14",
-   "date_actualisation": "2026-11-06",
+   "date_actualisation": "2026-11-12",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/7902223",
-   "requetes": [
-    "mots-clés « community manager »"
-   ]
-  },
-  {
-   "id": "7903263",
-   "intitule": "Associate Director - Infrastructure Community (H/F)",
-   "entreprise": "JEUNE AFRIQUE MEDIA GROUP",
-   "lieu": "75 - Paris 16e Arrondissement",
-   "departement": "75",
-   "code_postal": "75016",
-   "contrat": "CDI",
-   "type_contrat": "CDI",
-   "nature_contrat": "Contrat travail",
-   "alternance": false,
-   "duree_travail": "35H/semaine\nTravail en journée",
-   "salaire": null,
-   "salaire_complement": null,
-   "experience": "Expérience exigée",
-   "qualification": "Cadre",
-   "secteur": null,
-   "naf": null,
-   "rome_code": "M1503",
-   "rome_libelle": "Directeur / Directrice des Ressources Humaines (DRH)",
-   "appellation": "Directeur / Directrice du personnel",
-   "competences": [],
-   "qualites": [],
-   "description": "RESPONSABILITÉS : \n\nGestion de la relation partenaires\n - Identification et compréhension approfondie des acteurs clés des secteurs liés aux infrastructures.\n - Développement et entretien des réseaux et relations clés.\n - Responsabilité de l'expérience positive des acteurs de la communauté vis-à-vis de l'ensemble de nos produits événementiels, et du bon alignement de ces produits avec les enjeux des secteurs.\n - Soutien à la croissance du chiffre d'affaires de la communauté sur l'ensemble des produits.\n - Renouvellement, fidélisation et upselling des partenariats.\n - Contribution à la signature de nouveaux partenariats en collaboration avec l'équipe commerciale, ainsi qu'à la promotion des autres produits du groupe.\nConnaissance de l'écosystème sectoriel\n - Compréhension fine des enjeux, besoins et priorités de la communauté infrastructure.\n - Point de contact privilégié des partenaires des secteurs, afin d'anticiper, d'identifier et de développer des produits et solutions adaptés à leurs besoins.\n - Maintenance et amélioration continue de la boîte à outils sectorielle (cartographies, benchmarks, mises à jour Salesforce).\n - Représentation du groupe lors des événements phares des domaines liés aux infrastructures.\nThought leadership sectoriel\n - Rôle d'expert(e) sectoriel(le) auprès de l'équipe Evénementiel et de JAMG :\n - Contribution aux éléments de pitch et proposition d'intervenants à l'équipe Programme.\n - Pilotage de la production des contenus JAMG ou des marques partenaires liés à la communauté infrastructure.\n\n - Positionnement de JAMG comme référence des secteurs liés aux infrastructures :\n - Échanges réguliers sur les contenus avec des experts sectoriels, des administrateurs et des interlocuteurs C-level.\n - Présence médiatique de JAMG dans les supports de référence des différents secteurs.\n - Développement de la visibilité et de l'audience sur les réseaux sociaux professionnels.\n\nAppui au pilotage de l'Africa CEO Forum\n - Appui à l'exécution et à la gouvernance opérationnelle du sommet annuel.\n - Contribution à la définition de l'offre, du périmètre et de la proposition de valeur de l'événement.\n - Soutien au positionnement de marque, au rayonnement et à la présence sur le marché.\n - Engagement des parties prenantes et génération de revenus, en soutien à la gestion du P&L.\n - Participation, à terme, au développement d'une verticale dédiée à la communauté infrastructure.\n\nPROFIL RECHERCHÉ : \n\nProfil recherché\n - Expérience de plus de 5 ans en conseil ou au sein d'une entreprise des secteurs de l'infrastructure, de la logistique, de l'industrie ou de la construction (BTP, transport, industrie manufacturière...).\n - Réel business sense, démontré par une expérience en entrepreneuriat, en gestion de budget ou de P&L, ou en développement commercial.\n - Capacité avérée à échanger avec des dirigeants d'entreprise et des personnalités institutionnelles au plus haut niveau.\n - Leadership, autonomie, vision stratégique et forte capacité d'exécution.\n - Maîtrise courante du français et de l'anglais indispensable.",
-   "date_publication": "2026-10-14",
-   "date_actualisation": "2026-10-14",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/7903263",
    "requetes": [
     "mots-clés « community manager »"
    ]
@@ -3225,43 +3232,6 @@
    "date_publication": "2026-10-13",
    "date_actualisation": "2026-11-10",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/215DXQZ",
-   "requetes": [
-    "mots-clés « community manager »"
-   ]
-  },
-  {
-   "id": "215CXZR",
-   "intitule": "Social media manager - Responsable des médias sociaux (H/F)",
-   "entreprise": "NOURA TRAITEUR",
-   "lieu": "75 - Paris (Dept.)",
-   "departement": "75",
-   "code_postal": null,
-   "contrat": "CDI",
-   "type_contrat": "CDI",
-   "nature_contrat": "Contrat travail",
-   "alternance": false,
-   "duree_travail": "39H/semaine\nTravail en journée...",
-   "salaire": "Mensuel de 3000.0 Euros à 3500.0 Euros",
-   "salaire_complement": "Restauration Complémentaire santé",
-   "experience": "3 An(s)",
-   "qualification": "Agent de maîtrise",
-   "secteur": "Restauration traditionnelle",
-   "naf": "56.10A",
-   "rome_code": "E1124",
-   "rome_libelle": "Social media manager - Responsable des médias sociaux",
-   "appellation": "Social media manager - Responsable des médias sociaux",
-   "competences": [
-    "Créer du contenu attractif pour les réseaux sociaux",
-    "Définir une stratégie de communication",
-    "Optimiser la visibilité des publications sur les réseaux sociaux",
-    "Analyser les tendances des réseaux sociaux",
-    "Veiller à la cohérence de l'image de l'entreprise sur l'ensemble des déclinaisons de la communication et des supports (éditorial, Web, Intranet, événements, médias, réseaux sociaux)"
-   ],
-   "qualites": [],
-   "description": "MISSIONS\n- - Piloter la stratégie social media des différents comptes Noura\n- - Créer les contenus (visuels, textes, articles, photos, vidéos etc ) et mettre en place le calendrier de publications\n- - Gérer les partenariats (influenceurs, marques, fournisseurs...) : DM, invitations, repas presse etc.\n- - Organiser les shootings photos et vidéos\n- - Identifier Noura sur tous les réseaux sociaux des grands évènements à Paris et détecter les opportunités en termes de partenariats (salons, Paris2024)\n- - Animer et modérer la communauté : commentaires, réactions, avis clients (google, tripadvisor)\n- - Instaurer une relation de confiance entre nos marques et nos clients\n- - Aider à l'optimisation du référencement naturel (SEO) et Google ADS (SEA)\n- - Suivre les résultats en réalisant différents rapports de performances\n- - Coordination avec les prestataires\n- - Veille digitale globale\n Compétences :\n- 3ans d'expérience minimum dans les secteurs food/gastronomie, hôtellerie et/ou évènementiel idéalement\n- Maitrise des différents réseaux sociaux : fonctionnement, suivi, outils, veille\n- Capacité à proposer du contenu adapté à chaque restaurant (gamme différente, ton différent)\n- Forte fibre en graphisme et montage vidéo\n- Maitrise des outils Canva et Adobe\n- Compréhension des enjeux marketing en général pour savoir quand activer les leviers réseaux sociaux (inbound marketing)\n- Anglais courant, l'Arabe parlé et écrit serait un vrai plus\n Qualités :\n- - Aisance relationnelle\n- - Esprit créatif, à l'affût de nouvelles idées et tendances\n- - Qualités rédactionnelles, avec un Français écrit impeccable\n- - Fibre graphique\n- - Force de proposition et autonomie\n- - Réactivité\n- - Goût pour les pâtisseries orientales et autres mezze !",
-   "date_publication": "2026-10-12",
-   "date_actualisation": "2026-11-05",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CXZR",
    "requetes": [
     "mots-clés « community manager »"
    ]
@@ -3616,7 +3586,7 @@
    "qualites": [],
    "description": "Chez Decathlon, nous croyons au pouvoir du sport pour inspirer, connecter et transformer les vies. Notre mission est de faire bouger les gens à travers les merveilles du sport, en le rendant plus accessible et significatif pour tous. Tout ce que nous faisons est guidé par nos users : leurs expériences, leurs besoins et leur passion pour le mouvement.Nous recherchons un Corporate Social Media Specialist dynamique et créatif, passionné par le sport, la communication digitale et les social media. Intégré à l'équipe Corporate Affairs, tu travailleras sur des projets axés principalement sur la communication institutionnelle, contribuant à façonner et à amplifier la présence de Decathlon sur les plateformes digitales et sociales.\nSi tu t'épanouis dans un environnement international au rythme soutenu et que tu souhaites élever la communication corporate de Decathlon grâce à l'innovation digitale, nous serions ravis de te lire !\nTA FUTURE CONTRIBUTIONDans ce rôle, tu collabores étroitement avec nos équipes mondiales de digital et social media corporate, ainsi qu'avec notre top management, pour développer des contenus percutants et stimuler l'engagement. Tu joues un rôle clé pour donner vie au corporate storytelling de Decathlon, rester à l'affût des trends des social media et garantir que nos messages atteignent les bonnes audiences.\nTes missions s'articulent autour des sujets suivants:\nStratégie et Gestion des Social Media Corporate : Travailler avec les parties prenantes internes (internal stakeholders) pour élaborer et déployer une stratégie de communication externe cohérente, ancrée dans les piliers de contenu et les priorités mondiales de Decathlon. Superviser et développer la présence corporate de Decathlon sur LinkedIn, Instagram et X, en assurant une voix de marque cohérente, percutante et centrée sur l'utilisateur (user-centric).\nAnimation de la Communauté des Leaders Social Media Corporate : Animer et engager la communauté mondiale des leaders Social Media Corporate en organisant une réunion d'alignement mensuelle pour partager les best practices, les insights et les communications mondiales clés. Favoriser la collaboration entre les marchés, les sports et les services pour garantir la cohérence avec les Decathlon Social Media Guidelines et le Decathlon Playbook.\nGestion de Projet LinkedTeams : Coordonner et gérer la migration technique de plusieurs comptes LinkedIn pour parvenir à une présence corporate mondiale unifiée. Soutenir les marchés à chaque étape de la transition : résolution de problèmes (troubleshooting issues), alignement des processus et orientation vers les best practices. Collaborer étroitement avec les équipes LinkedIn et les parties prenantes techniques internes pour s'assurer que toutes les étapes techniques, de gouvernance et de compliance sont couvertes, permettant une fusion fluide, scalable et pérenne (future-proof).\nProgrammes de Formation et de Montée en Compétences (Upskilling): Concevoir et animer des sessions de formation pour les leaders des social media du monde entier, leur permettant de développer de meilleures compétences en création de contenu, d'adopter les normes de communication corporate de Decathlon et de collaborer efficacement au sein de l'écosystème du projet LinkedTeams.\nNewsletter Digitale Interne Mensuelle : Créer et distribuer une newsletter interne hebdomadaire mettant en lumière le contenu clé LinkedIn, les priorités mondiales et les insights pertinents pour tenir les coéquipiers Decathlon informés et engagés.\nSuivi de la Performance et Optimisation basée sur les données (Data-Driven): Définir et surveiller les indicateurs de performance clés sur les plateformes corporate. Analyser la performance des social media et les insights de l'audience pour optimiser les stratégies, soutenir la communication de crise si nécessaire et générer un impact à long terme.\nemployé(e) Advocacy: Mener des initiatives qui permettent aux coéquipiers de devenir des ambassadeurs des messages corporate de Decathlon. Développer des toolkits de communication et des guidelines pour soutenir les annonces mondiales et renforcer notre voix partagée.\nOpérations Administratives et Financières : Gérer la création de fournisseurs, les bons de commande, les demandes de paiement et le suivi budgétaire pour assurer un soutien opérationnel fluide aux équipes Corporate Affairs et Communication Digitale.",
    "date_publication": "2026-10-03",
-   "date_actualisation": "2026-10-23",
+   "date_actualisation": "2026-11-12",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/7630355",
    "requetes": [
     "mots-clés « community manager »"
@@ -3678,7 +3648,7 @@
    "qualites": [],
    "description": "Description :\n\n\nMISSIONS PRINCIPALES\n\n1. COMMUNITY MANAGEMENT & COMMUNICATION DIGITALE\n\n * Gestion et animation des réseaux sociaux (LinkedIn en priorité, autres plateformes selon les besoins).\n * Utilisation des outils de planification et analyse des performances (KPI, taux d'engagement).\n * Rédaction de contenus : posts, actualités, annonces produits, couverture d'événements.\n * Formation aux techniques de rédaction web et à l'adaptation du ton selon les cibles.\n * Veille et interaction avec la communauté : modération des commentaires, messages, et suivi des performances.\n * Participation à la stratégie éditoriale et au calendrier de publication.\n * Coordination avec les équipes internes pour valoriser les projets et réalisations.\n\n2. PRODUCTION DE CONTENUS MARKETING PRODUIT & VEILLE CONCURRENTIELLE\n\n * RÉDACTION DE CONTENUS MARKETING PRODUITS : PRÉSENTATIONS, FICHES PRODUITS, ARGUMENTS COMMERCIAUX, ET SUPPORTS D'AIDE À LA VENTE.\n * Découverte des techniques de rédaction orientées bénéfices clients et SEO.\n * Contribution à la mise en valeur des gammes du groupe via des argumentaires clairs et structurés.\n * Participation à l'élaboration de contenus pour les supports commerciaux, outils digitaux, et communications professionnelles.\n * Veille concurrentielle régulière sur le marché de la piscine et de l'aménagement extérieur : analyse des offres, innovations, positionnements, et tendances.\n * Apprentissage des méthodes de synthèse et de restitution d'informations stratégiques.\n * Synthèse des informations collectées pour alimenter les équipes marketing et commerciales.\n\n3. ORGANISATION DE SALONS PROFESSIONNELS\n\n * COORDINATION LOGISTIQUE COMPLÈTE : RÉSERVATION DES HÉBERGEMENTS, DÉPLACEMENTS, SUIVI DES PRESTATAIRES (STANDISTE, TRANSPORTEURS, IMPRIMEURS).\n * Immersion dans la gestion de projet événementiel et la négociation avec les prestataires.\n * Gestion des commandes : goodies, supports clients, et documents de communication.\n * Préparation et suivi des supports de communication pour les salons.\n * Coordination opérationnelle avant, pendant, et après l'événement.\n\n4. CRÉATION DE SUPPORTS\n\n * MISE EN PAGE DE DOCUMENTS DE COMMUNICATION (OUTILS : ADOBE INDESIGN, ETC.).\n * Formation aux bases de la PAO et à l'adaptation des visuels pour le web et les réseaux sociaux.\n * Adaptation de visuels pour le web et les réseaux sociaux.\n * Participation à la création de supports marketing (flyers, brochures, etc.).\n\n \n\n  \n  \nProfil recherché :\n  \n  \nFORMATION\n\n * Étudiant(e) en Bac+3 à Bac+5 dans les domaines de la communication, du marketing digital, ou équivalent.\n * Recherche d'un contrat d'alternance pour valider un diplôme (Licence Pro, Bachelor, Master, etc.).\n\nCOMPÉTENCES & QUALITÉS\n\n * Une première expérience ou projet personnel est un plus\n * Excellente expression écrite : maîtrise irréprochable de la grammaire et de l'orthographe.\n * Rigueur, sens de l'organisation, et capacité à gérer plusieurs projets simultanément.\n * Autonomie et esprit d'initiative.\n * Bon relationnel et sens du travail en équipe.\n\nCOMPÉTENCES TECHNIQUES\n\n * Maîtrise des réseaux sociaux professionnels (LinkedIn en priorité).\n * Bonne capacité rédactionnelle (adaptation du ton, respect des chartes éditoriales).\n * Anglais : lu, écrit, et parlé (niveau opérationnel minimum).\n * Maîtrise des outils de mise en page (Adobe InDesign, Photoshop, Illustrator.) appréciée\n\nCONDITIONS RÉMUNÉRATION : Selon la grille légale de l'alternance (pourcentage du SMIC selon l'âge et le niveau d'études).\n\nAVANTAGES : \n\n * Accès à des formations internes.\n * Encadrement par un tuteur dédié pour un suivi personnalisé.\n * Possibilité d'intégration à l'issue du contrat.\n\nDÉBUT : SEPTEMBRE 2026\n\nCONTRAT : CONTRAT D'APPRENTISSAGE OU DE PROFESSIONNALISATION (12 MOIS)\n\nRYTHME : 3 SEMAINES EN ENTREPRISE / 1 SEMAINE EN FORMATION (À ADAPTER SELON L'ÉCOLE)\n\n \n",
    "date_publication": "2026-09-26",
-   "date_actualisation": "2026-11-10",
+   "date_actualisation": "2026-11-11",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/7431095",
    "requetes": [
     "mots-clés « community manager »"
