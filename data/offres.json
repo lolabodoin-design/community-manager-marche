@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "derniere_maj": "2026-11-15T12:26:21+00:00",
+ "derniere_maj": "2026-11-16T13:18:12+00:00",
  "canal": "API France Travail — Offres d'emploi v2",
  "requete": "community manager",
  "code_rome": "E1101",
@@ -11,8 +11,8 @@
     "codeROME": "E1101"
    },
    "ok": true,
-   "recuperees": 59,
-   "total_api": 59
+   "recuperees": 60,
+   "total_api": 60
   },
   {
    "label": "mots-clés « community manager »",
@@ -26,6 +26,77 @@
  ],
  "nombre_offres": 106,
  "offres": [
+  {
+   "id": "216KVYM",
+   "intitule": "COMMERCIAL ET COMMUNITY MANAGER (H/F)",
+   "entreprise": "RIVIERA RAMONAGE SERVICE",
+   "lieu": "06 - CANNES",
+   "departement": "06",
+   "code_postal": "06400",
+   "contrat": "CDI",
+   "type_contrat": "CDI",
+   "nature_contrat": "Contrat apprentissage",
+   "alternance": true,
+   "duree_travail": "35H/semaine\nTravail en journée",
+   "salaire": "Mensuel de 1875.0 Euros",
+   "salaire_complement": "Primes Téléphone mobile",
+   "experience": "Débutant accepté",
+   "qualification": "Employé non qualifié",
+   "secteur": "Nettoyage courant des bâtiments",
+   "naf": "81.21Z",
+   "rome_code": "E1101",
+   "rome_libelle": "Community manager",
+   "appellation": "Community manager",
+   "competences": [
+    "Analyser des échanges communautaires en ligne",
+    "Animer un réseau, une communauté"
+   ],
+   "qualites": [
+    "Organiser son travail selon les priorités et les objectifs",
+    "Faire preuve de rigueur et de précision",
+    "Faire preuve de créativité, d'inventivité"
+   ],
+   "description": "Dans le cadre de son développement, Riviera Ramonage recrute un commercial, vous aurez en charge la prospection et le développement du fichier clientèle, la recherche de nouveaux clients particuliers et professionnels, le développement marketing de la société sur les réseaux sociaux notamment. \nVous suivrez en parallèle la formation titre professionnel de technico commercial via notre CFA en ligne partenaire.",
+   "date_publication": "2026-11-15",
+   "date_actualisation": "2026-11-15",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216KVYM",
+   "requetes": [
+    "code ROME E1101",
+    "mots-clés « community manager »"
+   ]
+  },
+  {
+   "id": "8873162",
+   "intitule": "Community Manager H/F",
+   "entreprise": "Entreprise non précisée",
+   "lieu": "94 - Vincennes",
+   "departement": "94",
+   "code_postal": "94300",
+   "contrat": "CDI",
+   "type_contrat": "CDI",
+   "nature_contrat": "Contrat travail",
+   "alternance": false,
+   "duree_travail": null,
+   "salaire": null,
+   "salaire_complement": null,
+   "experience": "Débutant accepté",
+   "qualification": null,
+   "secteur": null,
+   "naf": null,
+   "rome_code": "E1101",
+   "rome_libelle": "Community manager",
+   "appellation": "Community manager",
+   "competences": [],
+   "qualites": [],
+   "description": "À propos du poste\nEn tant que Community Manager, vous animez les réseaux sociaux, développez la présence numérique et veillez à la cohérence des contenus. Vous contribuez à des échanges utiles avec les communautés et à une expérience en ligne claire pour les client(e)s.\n\nResponsabilités\n\n* Planifiez et publiez des contenus adaptés aux plateformes, puis animez les échanges avec les communautés.\n* Créez des visuels et des contenus, et coordonnez les actions de marketing numérique, de publicité Facebook et de relations publiques.\n* Suivez les résultats à l'aide des outils d'analyse Web et de Google Analytics, puis ajustez les actions selon les observations.\n* Votre contribution: des contenus cohérents et des réponses suivies aident les client(e)s à trouver des informations pertinentes et les collègues à mieux coordonner leurs communications.\n\nProfil recherché\n\nCompétences requises: vous savez gérer les réseaux sociaux, créer du contenu et des visuels, et utiliser les outils de marketing numérique et d'analyse. Atouts appréciés: IA\n\nRémunération : 21 542,50€ à 45 742,50€ par an\n\nAvantages :\n* Prise en charge du transport quotidien\n* Travail à domicile occasionnel\n\nLieu du poste : Télétravail hybride (Vincennes (94))",
+   "date_publication": "2026-11-15",
+   "date_actualisation": "2026-11-15",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8873162",
+   "requetes": [
+    "code ROME E1101",
+    "mots-clés « community manager »"
+   ]
+  },
   {
    "id": "8862495",
    "intitule": "Manager H/F",
@@ -717,84 +788,6 @@
    ]
   },
   {
-   "id": "216HFPM",
-   "intitule": "Community Manager (H/F)",
-   "entreprise": "MN DIGITAL",
-   "lieu": "28 - NOGENT LE ROTROU - Télétravail",
-   "departement": "28",
-   "code_postal": "28400",
-   "contrat": "CDI",
-   "type_contrat": "CDI",
-   "nature_contrat": "Contrat travail",
-   "alternance": false,
-   "duree_travail": "35H/semaine\nTravail en journée",
-   "salaire": "Mensuel de 2050.0 Euros",
-   "salaire_complement": null,
-   "experience": "3 An(s) - En Agence Marketing",
-   "qualification": "Employé non qualifié",
-   "secteur": "Activités des agences de publicité",
-   "naf": "73.11Z",
-   "rome_code": "E1101",
-   "rome_libelle": "Community manager",
-   "appellation": "Community manager",
-   "competences": [
-    "Animer un réseau, une communauté",
-    "Analyser des échanges communautaires en ligne"
-   ],
-   "qualites": [
-    "Avoir le sens du service",
-    "Faire preuve de créativité, d'inventivité",
-    "Faire preuve de réactivité"
-   ],
-   "description": "Nous recherchons un Community Manager (H/F) pour compléter notre équipe. Vos missions seront les suivantes : \n\n- Concevoir les visuels : publications, affiches, flyers, promotions et bannières : \n- Respecter les chartes graphiques et décliner les créations aux formats requis.\n- Retoucher les photos : cadrage, luminosité, couleurs et mise en valeur des produits.\n\n- Relation client sur WhatsApp :\n- Assurer les échanges professionnels et le suivi des demandes pendant les horaires de travail.\n- Recueillir les besoins, offres et actualités ; organiser les validations avant publication.\n- Informer les clients de l'avancement et transmettre les points à arbitrer à la direction.\n\nProfil recherché :\n- Maîtrise des réseaux sociaux, de Google Business Profile et des outils publicitaires. Aisance avec Canva, CapCut et un outil de retouche photo. Excellente orthographe, créativité, autonomie, organisation et bon relationnel. Capacité à gérer plusieurs comptes et à respecter les délais. Une expérience en agence est appréciée.\n\nObjectifs : \nDévelopper la visibilité des clients, produire des contenus de qualité, améliorer les performances des campagnes et assurer un suivi client réactif et professionnel.\n- Gérer les comptes Instagram, Facebook, TikTok et les fiches Google Business Profile.\n- Élaborer les plannings éditoriaux, rédiger les textes et programmer les publications.\n- Créer des posts, stories, carrousels et vidéos courtes adaptés à chaque plateforme.\n- Répondre aux commentaires, messages et avis Google, et assurer la modération. Stratégie marketing et campagnes publicitaires\n- Proposer des stratégies et des actions adaptées aux objectifs de chaque client.\n- Concevoir, lancer et optimiser les campagnes Meta Ads, TikTok Ads et Google Ads.\n- Suivre les budgets et les résultats, préparer les bilans et proposer des améliorations.\n- Assurer une veille sur les tendances, les formats et les pratiques du secteur.\n\n- Création graphique et retouche photo :\nAu sein de MN DIGITAL, vous accompagnez les clients dans le développement de leur visibilité. En lien avec la\ndirection, vous assurez la création de contenus, l'animation des réseaux sociaux, la publicité et le suivi client.\nRéseaux sociaux et création de contenu\n\nOrganisation : un jour au bureau par semaine, le reste en télétravail. Déplacements ponctuels possibles pour les réunions et événements d'entreprise.\n\nPériode d'essai envisagée : 3 mois, sous réserve de la classification du poste et de la convention collective\napplicable.",
-   "date_publication": "2026-11-10",
-   "date_actualisation": "2026-11-10",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216HFPM",
-   "requetes": [
-    "code ROME E1101",
-    "mots-clés « community manager »"
-   ]
-  },
-  {
-   "id": "216GQWZ",
-   "intitule": "Community manager (H/F)",
-   "entreprise": "BONJOUR PARIS",
-   "lieu": "75 - PARIS",
-   "departement": "75",
-   "code_postal": "75017",
-   "contrat": "CDI",
-   "type_contrat": "CDI",
-   "nature_contrat": "Contrat travail",
-   "alternance": false,
-   "duree_travail": "Temps partiel - 28H/semaine\nTravail en journée...",
-   "salaire": "Mensuel de 1500.0 Euros",
-   "salaire_complement": "Indemnité transports",
-   "experience": "Débutant accepté",
-   "qualification": "Employé non qualifié",
-   "secteur": "Boulangerie et boulangerie-pâtisserie",
-   "naf": "10.71C",
-   "rome_code": "E1101",
-   "rome_libelle": "Community manager",
-   "appellation": "Community manager",
-   "competences": [
-    "Animer un réseau, une communauté",
-    "Analyser des échanges communautaires en ligne"
-   ],
-   "qualites": [
-    "Etre force de proposition",
-    "Faire preuve de réactivité",
-    "Avoir l'esprit d'équipe"
-   ],
-   "description": "Nous cherchons un profil community manager qui puisse nous aider sur tous les supports de communication, avec une connaissance de la boulangerie.",
-   "date_publication": "2026-11-10",
-   "date_actualisation": "2026-11-13",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GQWZ",
-   "requetes": [
-    "code ROME E1101",
-    "mots-clés « community manager »"
-   ]
-  },
-  {
    "id": "8712185",
    "intitule": "Alternance Community Manager - Entre-Vignes (H/F)",
    "entreprise": "ISCOD",
@@ -1053,7 +1046,7 @@
    "qualites": [],
    "description": "Dans le cadre du développement de notre communication digitale, nous recherchons un.e Social Media Manager (SMM) dynamique, autonome et passionné.e par les réseaux sociaux et les tendances digitales.\n\nEn collaboration directe avec le Responsable Digital, vous serez en charge de la création, de l'animation et de la diffusion des contenus pour des acteurs de la restauration rapide et restauration traditionnelle, avec une forte dimension opérationnelle et créative.\n\nVos missions\nCréation de contenus\n- Concevoir et produire des contenus digitaux adaptés aux réseaux sociaux : photos, vidéos, stories, réels, formats courts, contenus événementiels, etc.\n- Participer à la réflexion créative et éditoriale des campagnes digitales\n- Assurer les captations terrain lors d'événements, activations ou temps forts de la marque\n- Adapter les contenus aux plateformes et à leurs usages\n\nAnimation des réseaux sociaux\n- Participer à l'animation quotidienne des réseaux sociaux\n- Programmer et publier les contenus\n- Assurer les interactions avec les communautés (messages, commentaires, sollicitations)\n- Contribuer à l'e-réputation\n\nActivations digitales & jeux concours\n- Mettre en place des activations digitales et jeux concours\n- Assurer le suivi opérationnel des campagnes\n- Gérer les échanges avec les participants et gagnants\n\nVeille & tendances\n- Réaliser une veille active sur les tendances social media, créatives et concurrentielles\n- Être force de proposition sur les nouveaux formats, concepts et usages digitaux\n\nStratégie & planification éditoriale\n- Contribuer à la définition de la stratégie social media en cohérence avec les objectifs de la marque\n- Élaborer et maintenir le calendrier éditorial mensuel (temps forts, saisonnalité, opérations commerciales)\n- Décliner la ligne éditoriale et la charte graphique sur chaque plateforme (Instagram, Facebook, TikTok, etc.)\n\nInfluence & partenariats\n- Identifier et proposer des influenceurs et créateurs de contenu locaux pertinents\n- Coordonner les collaborations : brief, suivi, validation des contenus et publication\n- Entretenir la relation avec les partenaires et les ambassadeurs des différentes marques\n\nPublicité digitale \n- Participer à la mise en place et au suivi des campagnes sponsorisées \n- Optimiser les ciblages, les budgets et les visuels en fonction des performances\n\nAnalyse & reporting\n- Suivre les indicateurs clés de performance (portée, engagement, croissance de la communauté, conversions)\n- Réaliser des bilans mensuels et des recommandations d'optimisation\n- Tester de nouveaux formats et ajuster les contenus selon les résultats\n\nCoordination & gestion de crise\n- Travailler en lien avec les équipes marketing, opérationnelles et les restaurants pour relayer les actualités locales\n- Détecter et traiter les situations sensibles ou bad buzz en alertant le Responsable Digital\n- Veiller au respect du droit à l'image, des droits d'auteur et des règles de modération\n\nFormateur\n- Former et sensibiliser les équipes en restaurant à l'environnement Digital afin d'en faire des ambassadeurs des différentes marques. \n\nProfil recherché\n- Minimum 2 ans d'expérience en création de contenus digitaux ou social media\n- Excellente connaissance des réseaux sociaux et de leurs codes\n- Bonne maîtrise des outils de création : Adobe Creative Suite - Photoshop, Illustrator, Première Pro After Effect et Capcut\n- Sensibilité forte à l'image, au montage vidéo et aux tendances digitales\n- Bonnes qualités rédactionne\n\nLes +\n- Expérience dans les secteurs food, retail ou lifestyle\n- Maîtrise des formats vidéo courts et du motion design\n- Connaissance des outils de programmation social media (Metricool, Meta Business Suite, etc.)",
    "date_publication": "2026-11-10",
-   "date_actualisation": "2026-11-11",
+   "date_actualisation": "2026-11-16",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GWSK",
    "requetes": [
     "mots-clés « community manager »"
@@ -1943,9 +1936,9 @@
    "id": "8513095",
    "intitule": "V.I.E Chef.fe de Projet Transformation & Développement de l'Écosystème Promotionnel (F/H) - Argentine - MASSY",
    "entreprise": "Entreprise non précisée",
-   "lieu": "Île-de-France",
-   "departement": null,
-   "code_postal": null,
+   "lieu": "91 - Massy",
+   "departement": "91",
+   "code_postal": "91300",
    "contrat": "CDI",
    "type_contrat": "CDI",
    "nature_contrat": "Contrat travail",
@@ -1964,7 +1957,7 @@
    "qualites": [],
    "description": "V.I.E Chef.fe de Projet Transformation & Développement de l'Écosystème Promotionnel  (F/H) - Argentine\n?Date : Février  \n?Ville/Pays : Buenos Aires, Argentine\nDurée : 12 mois renouvelables (24 mois au total) \nParticiper à l'aventure d'un groupe en pleine transformation, ça te tente ?\nCréateur de l'hypermarché, deuxième distributeur mondial et premier en Europe, Carrefour reste fidèle à ses racines mais se réinvente pour permettre à chacun, chaque jour, de manger mieux : plus sain, plus local, plus responsable.\nNos atouts pour y parvenir ? Un réseau multiformat de magasins, la création de services et d'une offre digitale de référence, une coopération renforcée avec les acteurs du monde agricole, de la chaîne alimentaire, de la Tech. et des collaborateurs passionnés, qui s'engagent, challengent leur métier et grandissent ensemble pour réussir la transition alimentaire pour tous !\nLe groupe Carrefour est également engagé dans une ambitieuse transformation pour devenir une Digital Retail Company, qui place le digital et la data au cœur de toutes ses opérations et de son modèle de création de valeur.\nConçu pour développer nos futurs leaders à l'international, le V.I.E Program Talent Carrefour permet d'accéder à des missions à forte valeur ajoutée pour accompagner ton développement et accélérer la transformation de Carrefour. Nous recherchons des candidat(e)s ayant une réelle motivation et un goût prononcé pour le challenge et l'innovation !\nTA FILIALE :\nCarrefour est le premier distributeur alimentaire multilocal en Argentine, implanté dans plus de 22 provinces. Notre réseau s'appuie sur la force de nos enseignes phares - Carrefour, Carrefour Market, Carrefour Express et Carrefour Maxi -, reconnues parmi les marques les plus fiables et populaires du secteur.\nPour soutenir cette empreinte géographique unique et maintenir notre dynamique de croissance, nous nous appuyons sur une chaîne logistique performante et plusieurs centres de distribution stratégiques qui approvisionnent un réseau en plein développement de plus de 700 points de vente.\nIl y a quatre grands formats de magasins en Argentine :\nCash & carry / Vente en gros (sous la marque Carrefour Maxi - le format grossiste de Carrefour en Argentine)\nHypermarchés (sous la marque Carrefour)\nSupermarchés (sous la marque Carrefour Market)\nMagasins de proximité (sous la marque Carrefour Express)\nTON ENVIRONNEMENT DE TRAVAIL : \nDans un marché exigeant et dynamique, la performance commerciale et la pertinence de l'animation promotionnelle constituent des leviers clés de compétitivité et de fidélisation pour Carrefour Argentine. Au sein de la direction développement des ventes, la mission vise à piloter le développement et la transformation globale de l'écosystème promotionnel de la filiale.\nDans ce cadre, tes interactions sont au cœur de la stratégie opérationnelle. En interne, tu travailles au quotidien avec les analystes et équipes opérationnelles pour le test et l'exécution des processus, tout en collaborant étroitement avec les responsables et spécialistes des équipes Pricing, Marketing, Commercial, E-commerce et IT/Systèmes afin d'aligner les besoins fonctionnels. Tu es également en relation directe avec les Chef.fe.s de secteur et Directeur.trice.s de département pour présenter l'avancement des projets, arbitrer les priorités et valider les orientations stratégiques. \nEn externe, tu coordonnes les développements et intégrations d'outils avec les fournisseurs de solutions technologiques, tout en échangeant régulièrement avec les consultants en organisation ainsi qu'avec les prestataires de communication et d'édition promotionnelle.\nTES MISSIONS : \nEn tant que VIE, ta mission principale consiste à auditer l'existant puis à concevoir et déployer le futur modèle promotionnel automatisé de Carrefour Argentine.\nDiagnostic et optimisation de l'existant :\nCartographier l'ensemble du workflow promotionnel actuel pour diagnostiquer les inefficacités et identifier les opportunités d'optimisation.\nDéfinir les rôles, les responsabilités et les points de contrôle clés à chaque étape du processus.\nÉtablir le calendrier de projet et les livrables associés au chantier de refonte.\nCoordonner l'intégration des processus entre les différents départements et tu garantis leur bonne exécution opérationnelle.\nConstruction et déploiement du nouveau modèle :\nConcevoir l'organisation cible, structurer les priorités du projet et définir les plans d'action à court et long terme.\nTraduire les besoins fonctionnels pour les fournisseurs de solutions technologiques, définir le calendrier de mise en œuvre et superviser les développements.\nPiloter l'intégration transversale entre les équipes Pricing, Marketing, E-commerce et IT/Systèmes.\nAccompagner le changement au quotidien à travers du conseil technique et des formations adaptées.\nMettre en place les indicateurs de suivi et les tableaux de bord pour mesurer la réduction du travail manuel, les délais de traitement et le taux d'erreur.\nObje...",
    "date_publication": "2026-11-03",
-   "date_actualisation": "2026-11-13",
+   "date_actualisation": "2026-11-15",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8513095",
    "requetes": [
     "mots-clés « community manager »"
@@ -2420,7 +2413,7 @@
    "qualites": [],
    "description": "Vous vivez les réseaux sociaux et connaissez les algorithmes mieux que votre propre fil d'actu ? Rejoignez-nous. BIONEXT recherche un(e) passionné(e) du digital, capable de transformer une actualité de laboratoire en contenu qui engage. Rattaché(e) à la Direction e et au CODIR, vous travaillerez en binôme avec notre chargée de communication et serez le/la garant(e) de notre image sur l'ensemble de nos canaux en ligne. Vos missionsStratégie digitale : définir et déployer notre ligne éditoriale sur LinkedIn, Instagram, Facebook, le site web et tout nouveau canal pertinent.Contenus & communautés : créer des posts, visuels, vidéos courtes, reels et stories ; programmer, animer et modérer les échanges. Valoriser nos ouvertures de centres, innovations es, recrutements, vie interne et partenariats.IA : intégrer les outils d'IA générative dans la création (texte, visuels, vidéo, déclinaisons multilingues) et l'automatisation, dans le respect des exigences du secteur de la .SEO : optimiser le référencement du site et des contenus, et développer notre visibilité locale via les fiches Google de nos centres.E-réputation & performance : assurer la veille, gérer les avis avec les équipes concernées, suivre les KPI et proposer des optimisations. Votre profilUn(e) vrai(e) geek des réseaux : formats, tendances, algorithmes, nouveautés. vous êtes toujours en avance.Formation en communication, marketing digital ou équivalent, avec une expérience confirmée en community management.Pratique avancée des outils d'IA et bonnes notions de SEO (Search Console, Analytics).Maîtrise des outils de création (Canva, Adobe, CapCut.), de planification et de reporting.Excellente plume en français ; anglais, allemand et/ou luxembourgeois appréciés.Créatif(ve), rigoureux(se), autonome, avec un intérêt pour la . Ce que nous proposonsUn CDI à temps plein.Un poste à forte visibilité, en lien direct avec le CODIR.La liberté d'innover au sein d'un acteur majeur de la biologie e au Luxembourg. Envoyez-nous votre candidature avec vos meilleures réalisations ou un lien vers vos comptes !",
    "date_publication": "2026-10-24",
-   "date_actualisation": "2026-11-15",
+   "date_actualisation": "2026-11-16",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8231242",
    "requetes": [
     "mots-clés « community manager »"
@@ -2451,7 +2444,7 @@
    "qualites": [],
    "description": "Description du poste :\n\nEn tant que Social Media Manager H/F, vos missions principales seront les suivantes Définir et déployer la stratégie de communication sur les réseaux sociaux afin de développer la visibilité des marques Établir le calendrier éditorial et organiser la publication des contenus sur les canaux retenus Créer, adapter et publier des contenus éditoriaux, visuels et vidéos adaptés aux différentes plateformes Animer les communautés en ligne et répondre aux sollicitations afin de maintenir une relation suivie avec les audiences Suivre les tendances des réseaux sociaux et proposer des formats de contenu adaptés aux usages Coordonner les actions avec les différentes parties prenantes afin d'assurer une communication cohérente Mesurer les performances des publications et des campagnes pour identifier les leviers d'amélioration Produire des reportings réguliers pour suivre l'engagement, la portée et l'évolution des communautés.\n\nLes conditions proposées pour ce poste sont les suivantes Contrat à durée indéterminée Rémunération fixe comprise entre 40 000 € et 44 000 Part variable et avantages VF, non inclus dans la rémunération fixe.\n\nSi ce poste de Social Media Manager H/F correspond à votre parcours, nous vous invitons à transmettre votre candidature.\n\nDescription du profil :\n\nPour réussir en tant que Social Media Manager H/F, vous vous appuyez sur les compétences suivantes Vous maîtrisez les principaux réseaux sociaux et leurs formats de publication Vous savez construire un calendrier éditorial et organiser une ligne de contenus cohérente Vous disposez de bonnes capacités rédactionnelles pour adapter les messages aux différentes audiences Vous utilisez les outils de planification, de publication et de suivi des réseaux sociaux Vous analysez les indicateurs de performance afin de proposer des ajustements concrets Vous êtes débrouillard, volontaire et force de proposition.",
    "date_publication": "2026-10-24",
-   "date_actualisation": "2026-10-28",
+   "date_actualisation": "2026-11-16",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8226946",
    "requetes": [
     "mots-clés « community manager »"
@@ -2793,46 +2786,6 @@
    ]
   },
   {
-   "id": "215JSVD",
-   "intitule": "CHARGÉ DE COMMUNICATION SOCIAL MEDIA & INFLUENCE F/H (H/F)",
-   "entreprise": "CARGO",
-   "lieu": "31 - TOULOUSE",
-   "departement": "31",
-   "code_postal": "31300",
-   "contrat": "CDD - 6 Mois",
-   "type_contrat": "CDD",
-   "nature_contrat": "Contrat travail",
-   "alternance": false,
-   "duree_travail": "37H/semaine\nTravail en journée",
-   "salaire": null,
-   "salaire_complement": "Primes CSE",
-   "experience": "Débutant accepté",
-   "qualification": "Employé qualifié",
-   "secteur": "Activités des sièges sociaux",
-   "naf": "70.10Z",
-   "rome_code": "E1124",
-   "rome_libelle": "Social media manager - Responsable des médias sociaux",
-   "appellation": "Social media manager - Responsable des médias sociaux",
-   "competences": [
-    "Créer du contenu attractif pour les réseaux sociaux",
-    "Définir une stratégie de communication",
-    "Optimiser la visibilité des publications sur les réseaux sociaux",
-    "Veiller à la cohérence de l'image de l'entreprise sur l'ensemble des déclinaisons de la communication et des supports (éditorial, Web, Intranet, événements, médias, réseaux sociaux)"
-   ],
-   "qualites": [
-    "Faire preuve de sens des responsabilités",
-    "Etre force de proposition",
-    "Faire preuve d'autonomie"
-   ],
-   "description": "Holding d'un Groupe Toulousain N°1 sur son secteur, expert dans les métiers de l'import, du négoce, de la distribution et de la fabrication de produits d'équipement de la maison (arts de la table, décoration, cuisson, outillage, .). Le groupe emploie aujourd'hui plus de 2800 collaborateurs et étend son activité à l'international. CARGO est composé d'experts dans leurs domaines (240 collaborateurs) : Marketing, Informatique, Finance, Qualité et Juridique. Ils accompagnent les filiales dans leurs développements au quotidien. Plus d'info sur notre site : https://www.groupe-cargo.com/.\n\nNous recrutons un CHARGÉ DE COMMUNICATION SOCIAL MEDIA & INFLUENCE F/H en contrat CDD de 6 mois. \n\nVotre mission :\nTu passes beaucoup trop de temps sur Instagram et TikTok - mais tu appelles ça de la veille ?\nTu sais repérer un bon créateur, imaginer un contenu qui accroche et suivre une campagne d'influence de A à Z ?\nTu pourrais bien nous intéresser !\n\nAu quotidien, tu participeras à la communication de plusieurs marques du Groupe CARGO (Centrakor, C'est deux euros, Sitram, Ostaria home design, Geneviève Lethu, Laulhère, Craftine, Orok ...) :\n\nTes missions concrètement :\n- imaginer et rédiger des contenus pour Instagram, TikTok et Facebook ;\n- suivre les tendances social media et proposer des idées de contenus adaptées aux marques notamment pour une fin d'année avec plein d'actus ;\n- participer à la création de Reels, TikTok, stories et contenus UGC ;\n- identifier et contacter des influenceurs / créateurs de contenu ;\n- gérer les campagnes d'influence : brief, casting, suivi des contenus et reporting, envoi des produits\n- participer aux shootings et tournages ponctuels ;\n- suivre les performances des contenus et campagnes\n\n\nProfil recherché :\nTu es à l'aise avec les codes des réseaux sociaux et tu comprends ce qui donne envie de regarder, cliquer, commenter ou partager.\nTu es curieux(se), créatif(ve), organisé(e) et tu aimes passer rapidement d'une marque et d'un univers à un autre.\nTu utilises l'IA au quotidien pour gagner en efficacité, chercher des idées, créer ou optimiser des contenus, et tu es à l'aise avec Notion pour organiser et suivre tes projets.\nUne première expérience en social media, influence ou création de contenus est appréciée.\n\nEt si tu arrives avec ton propre réseau de créateurs / influenceurs, c'est clairement un plus !\n\nLa maîtrise de Canva, CapCut, Kolsquare et/ou de la suite Adobe est également appréciée.\n\nEnvie de rejoindre l'équipe ?\nEnvoie-nous ton CV - et si tu as un book, un compte TikTok, des contenus ou des campagnes dont tu es fier(e), on veut les voir !",
-   "date_publication": "2026-10-19",
-   "date_actualisation": "2026-10-19",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215JSVD",
-   "requetes": [
-    "mots-clés « community manager »"
-   ]
-  },
-  {
    "id": "8030657",
    "intitule": "chargé-e communication numérique réseaux sociaux community manager H/F - EC9536",
    "entreprise": "MAIRIE DE BLOIS",
@@ -2857,7 +2810,7 @@
    "qualites": [],
    "description": "chargé-e communication numérique réseaux sociaux community manager H/F - EC9536 Pour contribuer à la bonne information de la population, à l'image du service public communal et à l'attractivité du territoire, vous proposez et produisez des contenus pertinents, engageants et originaux pour les plateformes numériques de réseaux sociaux sur lesquelles la Ville de Blois est présente et pour Blois.fr, sous l'autorité du directeur de la Communication, du responsable du pôle Numérique et de la chargée de Communication numérique en place. A ce titre vos missions sont les suivantes :\nProposer et produire des contenus pertinents, engageants et originaux (photos, vidéos, textes, sons, infographies), adaptés aux réseaux sociaux et Blois.fr :\nVous proposez très régulièrement des communications sur les actions de la Ville, ses grands et petits projets, dans d'innombrables domaines, dont le public doit être informé. Vous proposez des sujets et des angles pour traiter ces actions de façon pertinente sur les réseaux sociaux et Blois.fr.\nVous couvrez des évènements « à chaud » et « à froid ». Vous créez et adaptez des visuels, captez et montez des vidéos, prenez et traitez des photos, écrivez et synthéthisez des textes, etc. Vous contribuez notamment aux formats longs (reportages vidéos et podcasts). Vous vous adaptez aux spécificités de chaque plateforme. Vous prenez en compte les impératifs d'accessibilité et d'inclusion. Vous travaillez en autonomie ou avec l'aide des collègues et de prestataires externes si besoins.\nRépondre au public et modérer les espaces de commentaires :\nVous contribuez à répondre aux questions et remarques du public concernant des sujets variés, légers, graves ou faisant débat. Vous proposez également des réponses aux éventuelles fausses nouvelles qui pourraient affecter la Ville.\nVous préparez les réponses de façon autonome ou, si besoin, en vous coordonnant avec les services concernés et avec l'aide de vos collègues de la direction de la Communication. Vous formulez des réponses claires, précises, objectives et de façon réactive, pour porter publiquement et efficacement la parole de la Ville sur les réseaux sociaux, rendre compte et rendre service au public.\nVous modérez de façon réactive les espaces de commentaires dont la Ville est en charge, notamment pour protéger le public des tentatives d'arnaque.\nParticiper à la mise en oeuvre de la stratégie numérique :\nVous contribuez à plusieurs études d'opportunité : extension de la présence de la Ville sur d'autres plateformes ; et opérations communes avec d'autres personnes et organisations créant du contenu en ligne. Vous contribuez à l'amélioration de la présence en ligne de la Ville.\nVeiller sur la ... ise et sur le secteur du numérique\nVous suivez et pouvez réagir à l'activité des personnes et des organisations qui contribuent à faire vivre Blois, et aux sujets qui y font débat. Vous suivez également l'actualité numérique et particulièrement celle des réseaux sociaux. Vous suivez enfin l'actualité nationale et internationale, pas uniquement numérique.\nSur la base de cete veille, vous êtes force de proposition et en tenez compte pour que la communication numérique de la Ville reste éclairée, pertinente et réactive.\nContribuer à une communication égalitaire et inclusive :\nVous intégrez systématiquement la lutte de la Ville contre les discriminations illégales, du choix des sujets à leur publication, en passant par les réponses faites au public. Vous rédigez des textes alternatifs aux images, sous-titrez vos vidéos et ajustez vos réalisations graphiques, notamment, pour que les personnes ... ent profiter normalement de la communication de la Ville.",
    "date_publication": "2026-10-18",
-   "date_actualisation": "2026-11-08",
+   "date_actualisation": "2026-11-15",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8030657",
    "requetes": [
     "mots-clés « community manager »"
@@ -3282,6 +3235,51 @@
    ]
   },
   {
+   "id": "214RFPP",
+   "intitule": "- Assistant(e) de production/Community manager (H/F)",
+   "entreprise": "LOVE IS IN THE AIR",
+   "lieu": "75 - PARIS",
+   "departement": "75",
+   "code_postal": "75001",
+   "contrat": "CDI",
+   "type_contrat": "CDI",
+   "nature_contrat": "Contrat travail",
+   "alternance": false,
+   "duree_travail": "Temps partiel - 24H/semaine\nTravail en journée...",
+   "salaire": "Mensuel de 1280.24 Euros",
+   "salaire_complement": null,
+   "experience": "32 Mois",
+   "qualification": "Employé qualifié",
+   "secteur": "Production de films pour le cinéma",
+   "naf": "59.11C",
+   "rome_code": "E1101",
+   "rome_libelle": "Community manager",
+   "appellation": "Assistant / Assistante community manager",
+   "competences": [
+    "Création de contenu digital",
+    "Analyser des échanges communautaires en ligne",
+    "Animer un réseau, une communauté",
+    "Communiquer à l'écrit de façon appropriée",
+    "Concevoir des supports de communication et d'image",
+    "Créer des documents numériques",
+    "Rédiger du contenu web",
+    "Utiliser les réseaux sociaux"
+   ],
+   "qualites": [
+    "Etre force de proposition",
+    "Faire preuve de réactivité",
+    "Faire preuve de créativité, d'inventivité"
+   ],
+   "description": "L'assistant(e) de production/Community manager aura pour missions :\n- Seconder le directeur de production dans la coordination logistique et administrative des projets \n- Seconder l'actionnaire unique \n- Gérer les réseaux sociaux\n- Création d'un site internet",
+   "date_publication": "2026-10-01",
+   "date_actualisation": "2026-11-16",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/214RFPP",
+   "requetes": [
+    "code ROME E1101",
+    "mots-clés « community manager »"
+   ]
+  },
+  {
    "id": "7431095",
    "intitule": "OFFRE D'ALTERNANCE  ASSISTANT(E) COMMUNICATION & COMMUNITY MANAGEMENT - H/F",
    "entreprise": "Pool Technologie",
@@ -3306,7 +3304,7 @@
    "qualites": [],
    "description": "Description :\n\n\nMISSIONS PRINCIPALES\n\n1. COMMUNITY MANAGEMENT & COMMUNICATION DIGITALE\n\n * Gestion et animation des réseaux sociaux (LinkedIn en priorité, autres plateformes selon les besoins).\n * Utilisation des outils de planification et analyse des performances (KPI, taux d'engagement).\n * Rédaction de contenus : posts, actualités, annonces produits, couverture d'événements.\n * Formation aux techniques de rédaction web et à l'adaptation du ton selon les cibles.\n * Veille et interaction avec la communauté : modération des commentaires, messages, et suivi des performances.\n * Participation à la stratégie éditoriale et au calendrier de publication.\n * Coordination avec les équipes internes pour valoriser les projets et réalisations.\n\n2. PRODUCTION DE CONTENUS MARKETING PRODUIT & VEILLE CONCURRENTIELLE\n\n * RÉDACTION DE CONTENUS MARKETING PRODUITS : PRÉSENTATIONS, FICHES PRODUITS, ARGUMENTS COMMERCIAUX, ET SUPPORTS D'AIDE À LA VENTE.\n * Découverte des techniques de rédaction orientées bénéfices clients et SEO.\n * Contribution à la mise en valeur des gammes du groupe via des argumentaires clairs et structurés.\n * Participation à l'élaboration de contenus pour les supports commerciaux, outils digitaux, et communications professionnelles.\n * Veille concurrentielle régulière sur le marché de la piscine et de l'aménagement extérieur : analyse des offres, innovations, positionnements, et tendances.\n * Apprentissage des méthodes de synthèse et de restitution d'informations stratégiques.\n * Synthèse des informations collectées pour alimenter les équipes marketing et commerciales.\n\n3. ORGANISATION DE SALONS PROFESSIONNELS\n\n * COORDINATION LOGISTIQUE COMPLÈTE : RÉSERVATION DES HÉBERGEMENTS, DÉPLACEMENTS, SUIVI DES PRESTATAIRES (STANDISTE, TRANSPORTEURS, IMPRIMEURS).\n * Immersion dans la gestion de projet événementiel et la négociation avec les prestataires.\n * Gestion des commandes : goodies, supports clients, et documents de communication.\n * Préparation et suivi des supports de communication pour les salons.\n * Coordination opérationnelle avant, pendant, et après l'événement.\n\n4. CRÉATION DE SUPPORTS\n\n * MISE EN PAGE DE DOCUMENTS DE COMMUNICATION (OUTILS : ADOBE INDESIGN, ETC.).\n * Formation aux bases de la PAO et à l'adaptation des visuels pour le web et les réseaux sociaux.\n * Adaptation de visuels pour le web et les réseaux sociaux.\n * Participation à la création de supports marketing (flyers, brochures, etc.).\n\n \n\n  \n  \nProfil recherché :\n  \n  \nFORMATION\n\n * Étudiant(e) en Bac+3 à Bac+5 dans les domaines de la communication, du marketing digital, ou équivalent.\n * Recherche d'un contrat d'alternance pour valider un diplôme (Licence Pro, Bachelor, Master, etc.).\n\nCOMPÉTENCES & QUALITÉS\n\n * Une première expérience ou projet personnel est un plus\n * Excellente expression écrite : maîtrise irréprochable de la grammaire et de l'orthographe.\n * Rigueur, sens de l'organisation, et capacité à gérer plusieurs projets simultanément.\n * Autonomie et esprit d'initiative.\n * Bon relationnel et sens du travail en équipe.\n\nCOMPÉTENCES TECHNIQUES\n\n * Maîtrise des réseaux sociaux professionnels (LinkedIn en priorité).\n * Bonne capacité rédactionnelle (adaptation du ton, respect des chartes éditoriales).\n * Anglais : lu, écrit, et parlé (niveau opérationnel minimum).\n * Maîtrise des outils de mise en page (Adobe InDesign, Photoshop, Illustrator.) appréciée\n\nCONDITIONS RÉMUNÉRATION : Selon la grille légale de l'alternance (pourcentage du SMIC selon l'âge et le niveau d'études).\n\nAVANTAGES : \n\n * Accès à des formations internes.\n * Encadrement par un tuteur dédié pour un suivi personnalisé.\n * Possibilité d'intégration à l'issue du contrat.\n\nDÉBUT : SEPTEMBRE 2026\n\nCONTRAT : CONTRAT D'APPRENTISSAGE OU DE PROFESSIONNALISATION (12 MOIS)\n\nRYTHME : 3 SEMAINES EN ENTREPRISE / 1 SEMAINE EN FORMATION (À ADAPTER SELON L'ÉCOLE)\n\n \n",
    "date_publication": "2026-09-26",
-   "date_actualisation": "2026-11-14",
+   "date_actualisation": "2026-11-15",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/7431095",
    "requetes": [
     "mots-clés « community manager »"
