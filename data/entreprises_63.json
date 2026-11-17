@@ -1,8 +1,8 @@
 {
- "date": "2026-11-15T12:26:55+00:00",
+ "date": "2026-11-17T14:03:52+00:00",
  "source": "API Recherche d'entreprises (data.gouv.fr) — base Sirene",
  "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z",
- "exclus_opposition": 204,
+ "exclus_opposition": 203,
  "entreprises": [
   {
    "siren": "622044501",
@@ -2525,19 +2525,6 @@
    "effectif_groupe": "0 salarié ou non renseigné",
    "categorie": "PME",
    "date_creation": "2011-10-01"
-  },
-  {
-   "siren": "952858439",
-   "nom": "GEOFFREY ROUGIER",
-   "naf": "70.21Z",
-   "naf_libelle": "Conseil en relations publiques et communication",
-   "commune": "ISSOIRE",
-   "code_postal": "63500",
-   "effectif_libelle": "non renseigné",
-   "effectif_rang": 0,
-   "effectif_groupe": "0 salarié ou non renseigné",
-   "categorie": "PME",
-   "date_creation": "2023-05-25"
   },
   {
    "siren": "478921380",
