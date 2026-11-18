@@ -1,7 +1,7 @@
 {
  "meta": {
-  "date_donnees": "2026-11-18T13:12:45+00:00",
-  "date_analyse": "2026-11-18T13:13:12+00:00",
+  "date_donnees": "2026-11-18T13:13:37+00:00",
+  "date_analyse": "2026-11-18T13:14:08+00:00",
   "canal": "API France Travail — Offres d'emploi v2",
   "requetes": [
    {
@@ -432,18 +432,18 @@
     "vu_en_formation": false
    },
    {
-    "terme": "Emailing / newsletters",
-    "categorie": "Publicité et analytics",
-    "n": 14,
-    "pct": 14.0,
-    "vu_en_formation": false
-   },
-   {
     "terme": "Canva",
     "categorie": "Création visuelle et vidéo",
     "n": 14,
     "pct": 14.0,
     "vu_en_formation": true
+   },
+   {
+    "terme": "Emailing / newsletters",
+    "categorie": "Publicité et analytics",
+    "n": 14,
+    "pct": 14.0,
+    "vu_en_formation": false
    },
    {
     "terme": "Premiere Pro / After Effects / Final Cut",
@@ -544,14 +544,14 @@
     "vu_en_formation": false
    },
    {
-    "terme": "Notion / Trello / Asana",
+    "terme": "HubSpot / CRM",
     "categorie": "CRM, CMS et gestion",
     "n": 2,
     "pct": 2.0,
     "vu_en_formation": false
    },
    {
-    "terme": "HubSpot / CRM",
+    "terme": "Notion / Trello / Asana",
     "categorie": "CRM, CMS et gestion",
     "n": 2,
     "pct": 2.0,
@@ -654,12 +654,12 @@
   ],
   "api_competences": [
    {
-    "libelle": "Animer un réseau, une communauté",
+    "libelle": "Analyser des échanges communautaires en ligne",
     "n": 16,
     "pct": 16.0
    },
    {
-    "libelle": "Analyser des échanges communautaires en ligne",
+    "libelle": "Animer un réseau, une communauté",
     "n": 16,
     "pct": 16.0
    },
@@ -679,12 +679,12 @@
     "pct": 4.0
    },
    {
-    "libelle": "Répondre aux attentes d'un client",
+    "libelle": "Recueillir et analyser les besoins client",
     "n": 3,
     "pct": 3.0
    },
    {
-    "libelle": "Recueillir et analyser les besoins client",
+    "libelle": "Répondre aux attentes d'un client",
     "n": 3,
     "pct": 3.0
    },
@@ -694,17 +694,17 @@
     "pct": 2.0
    },
    {
-    "libelle": "Optimiser la visibilité des publications sur les réseaux sociaux",
-    "n": 2,
-    "pct": 2.0
-   },
-   {
     "libelle": "Créer du contenu attractif pour les réseaux sociaux",
     "n": 2,
     "pct": 2.0
    },
    {
-    "libelle": "Mettre en œuvre la stratégie commerciale de l'entreprise",
+    "libelle": "Optimiser la visibilité des publications sur les réseaux sociaux",
+    "n": 2,
+    "pct": 2.0
+   },
+   {
+    "libelle": "Analyser, exploiter, structurer des données",
     "n": 1,
     "pct": 1.0
    },
@@ -731,12 +731,12 @@
     "pct": 5.0
    },
    {
-    "libelle": "Faire preuve de rigueur et de précision",
+    "libelle": "Avoir l'esprit d'équipe",
     "n": 5,
     "pct": 5.0
    },
    {
-    "libelle": "Avoir l'esprit d'équipe",
+    "libelle": "Faire preuve de rigueur et de précision",
     "n": 5,
     "pct": 5.0
    },
@@ -810,11 +810,11 @@
      "n": 14
     },
     {
-     "terme": "Reporting / KPI / analyse",
-     "pct_recent": 40.0,
-     "pct_ancien": 30.0,
+     "terme": "Création de contenu",
+     "pct_recent": 45.0,
+     "pct_ancien": 35.0,
      "ecart": 10.0,
-     "n": 38
+     "n": 43
     },
     {
      "terme": "Meta Ads / publicité sociale",
@@ -824,11 +824,11 @@
      "n": 8
     },
     {
-     "terme": "Création de contenu",
-     "pct_recent": 45.0,
-     "pct_ancien": 35.0,
+     "terme": "Reporting / KPI / analyse",
+     "pct_recent": 40.0,
+     "pct_ancien": 30.0,
      "ecart": 10.0,
-     "n": 43
+     "n": 38
     },
     {
      "terme": "Créativité",
@@ -1114,7 +1114,7 @@
   "sans_employeur": 29,
   "marche_cache": {
    "source": "API Recherche d'entreprises (data.gouv.fr) — base Sirene",
-   "date": "2026-11-18T13:13:12+00:00",
+   "date": "2026-11-18T13:14:08+00:00",
    "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z · siège dans le 63",
    "total": 330,
    "par_naf": {
