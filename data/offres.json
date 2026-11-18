@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "derniere_maj": "2026-11-18T13:13:37+00:00",
+ "derniere_maj": "2026-11-18T13:37:39+00:00",
  "canal": "API France Travail — Offres d'emploi v2",
  "requete": "community manager",
  "code_rome": "E1101",
@@ -20,11 +20,11 @@
     "motsCles": "community manager"
    },
    "ok": true,
-   "recuperees": 100,
-   "total_api": 100
+   "recuperees": 99,
+   "total_api": 99
   }
  ],
- "nombre_offres": 100,
+ "nombre_offres": 99,
  "offres": [
   {
    "id": "216NNQJ",
@@ -2557,37 +2557,6 @@
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8141980",
    "requetes": [
     "code ROME E1101",
-    "mots-clés « community manager »"
-   ]
-  },
-  {
-   "id": "8164978",
-   "intitule": "Alternance - Social media Manager (H/F)",
-   "entreprise": "E2SE Business School",
-   "lieu": "14 - Caen",
-   "departement": "14",
-   "code_postal": "14000",
-   "contrat": "CDD - 24 Mois",
-   "type_contrat": "CDD",
-   "nature_contrat": "Cont. professionnalisation",
-   "alternance": true,
-   "duree_travail": null,
-   "salaire": null,
-   "salaire_complement": null,
-   "experience": "Débutant accepté",
-   "qualification": null,
-   "secteur": "Enseignement post-secondaire non supérieur",
-   "naf": "85.41Z",
-   "rome_code": "E1112",
-   "rome_libelle": "Chargé / Chargée de communication",
-   "appellation": "Chargé / Chargée de communication sociale",
-   "competences": [],
-   "qualites": [],
-   "description": "Vous souhaitez intégrer une formation en audiovisuel au sein de l'E2SE Business School de Caen et vous êtes à la recherche d'une ALTERNANCE en Communication de BTS, BAC+3 ou BAC+5 ?\n\nUne agence immobilière recherche un Social media Manager (H/F) en ALTERNANCE.\n\nMissions : \ncréation de contenus sur réseaux sociaux\nrédaction d'articles, newsletters\ngestion des réseaux sociaux\ncréation de supports graphiques\n\n  \n Intérêt pour le secteur immobilier\nCréatif\nDynamique",
-   "date_publication": "2026-10-22",
-   "date_actualisation": "2026-10-22",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8164978",
-   "requetes": [
     "mots-clés « community manager »"
    ]
   },
