@@ -7,7 +7,7 @@ d'emploi publiées en France, et se met à jour chaque matin.
 ## Le métier ciblé
 
 - **Intitulé principal :** Community manager
-- **Variantes rencontrées :** Animateur de communauté, Social media manager, Chargé(e) de communication digitale
+- **Variantes réellement publiées** (relevé du 17/11/2026, 106 offres ; une offre peut compter dans plusieurs familles) : « community manager » (55 offres), « social media » ou « réseaux sociaux » (24), « assistant(e) community manager » (8), « content manager » ou « créateur de contenu » (6), « animateur / animatrice » (4), « chargé(e) de communication » (2). Source : champ intitulé des offres de l'API France Travail, recompté à chaque collecte.
 - **Code ROME :** `E1101` — Animation de site multimédia
 - Les intitulés réellement publiés sont recomptés à chaque collecte (page d'accueil, section 1).
 

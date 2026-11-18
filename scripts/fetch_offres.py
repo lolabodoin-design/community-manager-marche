@@ -57,6 +57,15 @@ REQUETES = [
 ]
 
 
+RE_EMAIL = re.compile(r"[\w.+-]+@[\w-]+\.[\w.-]+")
+RE_TEL = re.compile(r"(?:\+33|0)[1-9](?:[ .-]?\d{2}){4}")
+
+
+def nettoyer_contacts(texte: str) -> str:
+    """RGPD : on ne conserve ni e-mail ni téléphone présents dans le texte d'une annonce."""
+    return RE_TEL.sub("[contact retiré]", RE_EMAIL.sub("[contact retiré]", texte))
+
+
 def get_token(client_id: str, client_secret: str) -> str:
     """Jeton OAuth2 (client_credentials). Le scope doit se terminer par
     application_<client_id>, sinon l'API répond 400."""
@@ -129,7 +138,7 @@ def simplifier(offre: dict, label: str) -> dict:
     entreprise = offre.get("entreprise") or {}
     salaire = offre.get("salaire") or {}
     origine = offre.get("origineOffre") or {}
-    description = (offre.get("description") or "")[:DESCRIPTION_MAX]
+    description = nettoyer_contacts((offre.get("description") or "")[:DESCRIPTION_MAX])
     return {
         "id": offre.get("id"),
         "intitule": offre.get("intitule"),

@@ -116,6 +116,7 @@ async function pageAccueil() {
   dd("Libellé ROME", m.rome_libelle || "Animation de site multimédia");
   dd("Offres analysées", `${fmt(n)} (dont ${fmt(m.offres_avec_texte)} avec texte complet)`);
   dd("Période des offres", `${fmtDate(m.date_plus_ancienne)} → ${fmtDate(m.date_plus_recente)}`);
+  $("src-intitules").textContent = `${srcLine(m)}. Intitulés tels que publiés dans les offres.`;
   const tags = $("intitules");
   a.intitules.slice(0, 8).forEach((t) => tags.append(el("span", { class: "tag", text: `${t.intitule} · ${t.n}` })));
 
@@ -182,11 +183,14 @@ async function pageAccueil() {
     cp.a_acquerir.forEach((o) => t.append(el("span", { class: "badge warn", text: `${o.terme} · ${fmtPct(o.pct)}` })));
     fn.append(cp.a_acquerir.length ? t : el("p", { text: "Les termes les plus demandés sont tous couverts par la formation." }));
   }
+  $("src-apicomp").textContent = `${srcLine(m)}. Champ « compétences » renseigné par l'employeur dans l'API.`;
+  $("src-apiqual").textContent = `${srcLine(m)}. Champ « qualités professionnelles » renseigné par l'employeur dans l'API.`;
   renderBars($("api-comp"), cp.api_competences.map((x) => ({ label: x.libelle, value: x.pct, display: fmtPct(x.pct), small: `· ${x.n}` })));
   renderBars($("api-qual"), cp.api_qualites.map((x) => ({ label: x.libelle, value: x.pct, display: fmtPct(x.pct), small: `· ${x.n}` })), { cls: "alt" });
 
   // évolution
   const mv = $("mouvement");
+  mv.append(el("p", { class: "src", text: `${srcLine(m)}. Mots recomptés à chaque collecte.` }));
   const rva = a.mouvement.recent_vs_ancien, vrp = a.mouvement.vs_releve_precedent;
   const tableMv = (lignes, cols) => {
     const box = el("div", { class: "table-wrap" });
@@ -221,6 +225,7 @@ async function pageAccueil() {
   ((c && c.evolution && c.evolution.professionnels) || []).forEach((p) => {
     const corps = p.points && p.points.length
       ? el("ul", { class: "quote-list" }, p.points.map((x) => el("li", { text: x })))
+      : p.note ? el("p", { class: "callout" }, p.note)
       : todo(p.statut === "a_venir" ? "À venir" : "À compléter",
         p.statut === "a_venir" ? "journée pas encore passée." : "ce que cette personne a dit de l'évolution du métier (data/contenu.json, champ points).");
     const metier = p.metier ? el("p", { class: "src" }, el("strong", { text: "Son métier, d'après son profil professionnel public : " }), p.metier) : null;
@@ -307,7 +312,7 @@ async function pageOffres() {
         o.url ? el("a", { class: "offre-link", href: o.url, target: "_blank", rel: "noopener", text: "Voir l'offre →" }) : null),
       el("div", { class: "offre-meta" },
         el("span", { class: "badge", text: o.contrat }),
-        o.salaire && o.salaire_mensuel ? el("span", { class: "badge ok", text: `${eur(o.salaire_mensuel[0])}${o.salaire_mensuel[1] !== o.salaire_mensuel[0] ? ` – ${eur(o.salaire_mensuel[1])}` : ""} / mois` }) : null,
+        o.salaire && o.salaire_mensuel ? el("span", { class: "badge ok", text: `salaire affiché : ${eur(o.salaire_mensuel[0])}${o.salaire_mensuel[1] !== o.salaire_mensuel[0] ? ` – ${eur(o.salaire_mensuel[1])}` : ""} / mois` }) : null,
         o.teletravail === "complet" ? el("span", { class: "badge ok", text: "100 % télétravail" }) : o.teletravail === "mentionné" ? el("span", { class: "badge", text: "télétravail mentionné" }) : null,
         o.date ? el("span", { class: "badge", text: `publiée le ${fmtDate(o.date)}` }) : null,
         o.outils.map((t) => el("span", { class: "tag", text: t }))))));
