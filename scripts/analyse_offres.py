@@ -502,7 +502,7 @@ def main() -> None:
         "geographie": {
             "zones": [{"zone": z, "n": zones.get(z, 0), "pct": pct(zones.get(z, 0), n)} for z in ordre_zones],
             "clermont_ferrand": clermont, "puy_de_dome": zones.get("Puy-de-Dôme (63)", 0),
-            "regions": [{"region": r, "n": c, "pct": pct(c, n)} for r, c in regions.most_common(8)],
+            "regions": [{"region": r, "n": c, "pct": pct(c, n)} for r, c in regions.most_common()],
             "departements": [{"departement": d, "n": c} for d, c in deps.most_common(8)],
         },
         "teletravail": {"mentionne": tt["mentionné"] + tt["complet"], "complet": tt["complet"],
