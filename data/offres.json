@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "derniere_maj": "2026-11-19T13:07:24+00:00",
+ "derniere_maj": "2026-11-19T13:45:58+00:00",
  "canal": "API France Travail — Offres d'emploi v2",
  "requete": "community manager",
  "code_rome": "E1101",
@@ -11,8 +11,8 @@
     "codeROME": "E1101"
    },
    "ok": true,
-   "recuperees": 59,
-   "total_api": 59
+   "recuperees": 60,
+   "total_api": 60
   },
   {
    "label": "mots-clés « community manager »",
@@ -20,11 +20,11 @@
     "motsCles": "community manager"
    },
    "ok": true,
-   "recuperees": 101,
-   "total_api": 101
+   "recuperees": 102,
+   "total_api": 102
   }
  ],
- "nombre_offres": 101,
+ "nombre_offres": 102,
  "offres": [
   {
    "id": "216QDZJ",
@@ -2967,6 +2967,44 @@
    "date_actualisation": "2026-11-18",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/7902223",
    "requetes": [
+    "mots-clés « community manager »"
+   ]
+  },
+  {
+   "id": "214ZLDZ",
+   "intitule": "Alternant(e) Community Manager & Webmaster (H/F)",
+   "entreprise": "EQUIPE CARAVANES",
+   "lieu": "02 - DAMMARD",
+   "departement": "02",
+   "code_postal": "02470",
+   "contrat": "CDD - 12 Mois",
+   "type_contrat": "CDD",
+   "nature_contrat": "Contrat apprentissage",
+   "alternance": true,
+   "duree_travail": "35H/semaine\nTravail en journée",
+   "salaire": null,
+   "salaire_complement": null,
+   "experience": "Débutant accepté",
+   "qualification": "Employé qualifié",
+   "secteur": "Commerce de voitures et de véhicules automobiles légers",
+   "naf": "45.11Z",
+   "rome_code": "E1101",
+   "rome_libelle": "Community manager",
+   "appellation": "Community manager",
+   "competences": [
+    "Animer un réseau, une communauté",
+    "Analyser des échanges communautaires en ligne"
+   ],
+   "qualites": [
+    "Etre force de proposition",
+    "Faire preuve de créativité, d'inventivité"
+   ],
+   "description": "RECRUTEMENT : On agrandit la team Équipe Caravanes ! \n\nVous êtes passionné(e) par le digital, les réseaux sociaux et la création de contenu ? Vous cherchez une alternance stimulante pour l'année 2026-2027 ?\n\nNous recherchons notre futur(e) Alternant(e) Community Manager & Webmaster ! \n\n Qui sommes-nous ? \nÉquipe Caravanes est une PME de l'Aisne depuis plus de 40 années, spécialiste dans la vente de caravanes, réparation et distribution de pièces détachées. Acteur reconnu dans son secteur auprès d'une clientèle fidèle, nous sommes une équipe à taille humaine évoluant dans un environnement familial ou chaque collaborateur à un rôle à jouer pour le bon fonctionnement de l'activité. \n\n Vos missions :\n-  Gestion & optimisation web : Administration du site internet et développement de notre présence en ligne.\n\n-  Social Media & Content : Création et animation du calendrier éditorial (posts, stories, visuels, vidéos courtes).\n\n-  Community Management : Animation de la communauté, modération et réponses aux messages (Facebook, Leboncoin, etc.).\n\n-  Marketing digital : Participation aux campagnes publicitaires et ouverture de nouveaux canaux de communication (Tiktok, Linkedin, Instagram.)\n\n Votre profil :\nVous préparez un diplôme de type BTS Communication, BUT MMI, Licence Pro Marketing Digital, BTS SIO ou formation équivalente.\n\n Vos atouts : Créativité, aisance rédactionnelle, curiosité et bon sens du relationnel !\n\n Les modalités du poste :\n Lieu : Dammard (02470)\n Début : Dès que possible\n Rythme : Selon le calendrier de votre école\n\n Prêt(e) à embarquer dans l'aventure avec nous ?\nEnvoyez-nous votre CV (et votre portfolio/réalisations si vous en avez !)\n\nPOUR RAPPEL : L'âge des bénéficiaires du contrat d'apprentissage doit être compris entre 16 et 29 ans révolus. Sous certaines conditions, peuvent entrer en apprentissage des jeunes de moins de 16 ans et des personnes de plus de 29 ans en situation de handicap.",
+   "date_publication": "2026-10-09",
+   "date_actualisation": "2026-11-19",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/214ZLDZ",
+   "requetes": [
+    "code ROME E1101",
     "mots-clés « community manager »"
    ]
   },
