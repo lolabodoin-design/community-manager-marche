@@ -1,5 +1,5 @@
 {
- "date": "2026-11-18T13:37:57+00:00",
+ "date": "2026-11-19T13:03:59+00:00",
  "source": "API Recherche d'entreprises (data.gouv.fr) — base Sirene",
  "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z",
  "exclus_opposition": 204,
@@ -1760,6 +1760,19 @@
    "date_creation": "2020-10-16"
   },
   {
+   "siren": "133012377",
+   "nom": "CLEMENT MONGEOT (CONTENDER)",
+   "naf": "70.21Z",
+   "naf_libelle": "Conseil en relations publiques et communication",
+   "commune": "BEAUMONT",
+   "code_postal": "63110",
+   "effectif_libelle": "non renseigné",
+   "effectif_rang": 0,
+   "effectif_groupe": "0 salarié ou non renseigné",
+   "categorie": null,
+   "date_creation": "2026-11-17"
+  },
+  {
    "siren": "922138144",
    "nom": "CLUB MAESTRO",
    "naf": "70.21Z",
@@ -3435,6 +3448,19 @@
    "effectif_groupe": "0 salarié ou non renseigné",
    "categorie": "PME",
    "date_creation": "2024-10-01"
+  },
+  {
+   "siren": "130433733",
+   "nom": "MAELYS FROGET (MAELYS.ASSISTANCE)",
+   "naf": "70.21Z",
+   "naf_libelle": "Conseil en relations publiques et communication",
+   "commune": "RIOM",
+   "code_postal": "63200",
+   "effectif_libelle": "non renseigné",
+   "effectif_rang": 0,
+   "effectif_groupe": "0 salarié ou non renseigné",
+   "categorie": null,
+   "date_creation": "2026-09-22"
   },
   {
    "siren": "808752091",
