@@ -122,8 +122,15 @@ async function pageAccueil() {
 
   // marché : géographie
   $("src-geo").textContent = srcLine(m);
-  renderBars($("geo"), a.geographie.zones.map((z) => ({
-    label: z.zone.replace(" (ou département non précisé)", ""), value: z.n, display: fmtPct(z.pct), small: `· ${z.n}` })));
+  // détail : Puy-de-Dôme, reste de la région, puis chaque autre région (au lieu d'un bloc « autres régions »)
+  const zn = a.geographie.zones;
+  const lignesGeo = [zn[0], zn[1]].map((z) => ({ label: z.zone.replace(" (ou département non précisé)", ""), n: z.n, pct: z.pct }));
+  a.geographie.regions.filter((r) => r.region !== "Auvergne-Rhône-Alpes" && r.region !== "Outre-mer")
+    .forEach((r) => lignesGeo.push({ label: r.region, n: r.n, pct: r.pct }));
+  [zn[3], zn[4]].forEach((z) => { if (z && z.n) lignesGeo.push({ label: z.zone.replace(" (France entière / non renseignée)", ""), n: z.n, pct: z.pct }); });
+  renderBars($("geo"), lignesGeo.map((z) => ({ label: z.label, value: z.n, display: fmtPct(z.pct), small: `· ${z.n}` })));
+  const deps = (a.geographie.departements || []).slice(0, 5).map((d) => `${d.departement} (${d.n})`).join(", ");
+  if (deps) $("src-geo").textContent += ` Départements les plus fréquents : ${deps}.`;
   // contrats
   $("src-contrats").textContent = `${srcLine(m)}. Catégorie déduite du type de contrat, de la nature du contrat et de l'intitulé (alternance, stage).`;
   renderBars($("contrats"), a.contrats.map((x) => ({ label: x.contrat, value: x.n, display: fmtPct(x.pct), small: `· ${x.n}` })), { cls: "alt" });
