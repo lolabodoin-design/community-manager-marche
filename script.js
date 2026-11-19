@@ -221,17 +221,6 @@ async function pageAccueil() {
       el("p", { class: "callout", style: "margin-top:1rem" }, el("strong", { text: "Limite : " }), src.limite));
   } else se.append(todo("À compléter", "ajoutez une source emploi (Apec, France Travail, WEF) dans data/contenu.json."));
 
-  const pros = $("pros");
-  ((c && c.evolution && c.evolution.professionnels) || []).forEach((p) => {
-    const corps = p.points && p.points.length
-      ? el("ul", { class: "quote-list" }, p.points.map((x) => el("li", { text: x })))
-      : p.note ? el("p", { class: "callout" }, p.note)
-      : todo(p.statut === "a_venir" ? "À venir" : "À compléter",
-        p.statut === "a_venir" ? "journée pas encore passée." : "ce que cette personne a dit de l'évolution du métier (data/contenu.json, champ points).");
-    const metier = p.metier ? el("p", { class: "src" }, el("strong", { text: "Son métier, d'après son profil professionnel public : " }), p.metier) : null;
-    pros.append(el("div", { class: "card pro" }, el("div", { class: "pro-date", text: p.date }), el("h3", { text: p.profil }), metier, corps));
-  });
-
   // acteurs
   const ac = a.acteurs;
   $("src-recruteurs").textContent = `${srcLine(m)}. ${ac.n_recruteurs} employeurs identifiés ; ${ac.sans_employeur} offres sans employeur indiqué. Classement automatique, à vérifier.`;
