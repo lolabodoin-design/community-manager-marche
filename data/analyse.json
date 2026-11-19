@@ -1,7 +1,7 @@
 {
  "meta": {
-  "date_donnees": "2026-11-19T13:03:30+00:00",
-  "date_analyse": "2026-11-19T13:04:00+00:00",
+  "date_donnees": "2026-11-19T13:07:24+00:00",
+  "date_analyse": "2026-11-19T13:07:55+00:00",
   "canal": "API France Travail — Offres d'emploi v2",
   "requetes": [
    {
@@ -305,7 +305,7 @@
     "categorie": "Compétences métier",
     "n": 46,
     "pct": 45.5,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Création de contenu",
@@ -326,7 +326,7 @@
     "categorie": "Compétences métier",
     "n": 40,
     "pct": 39.6,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Instagram",
@@ -340,14 +340,14 @@
     "categorie": "Compétences métier",
     "n": 35,
     "pct": 34.7,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Rédaction / copywriting",
     "categorie": "Compétences métier",
     "n": 33,
     "pct": 32.7,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Pack Office (Excel, PowerPoint)",
@@ -375,7 +375,7 @@
     "categorie": "Compétences métier",
     "n": 26,
     "pct": 25.7,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Influence / partenariats",
@@ -389,63 +389,63 @@
     "categorie": "Réseaux et plateformes",
     "n": 25,
     "pct": 24.8,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Calendrier / ligne éditoriale",
     "categorie": "Compétences métier",
     "n": 25,
     "pct": 24.8,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Gestion de projet / coordination",
     "categorie": "Compétences métier",
     "n": 22,
     "pct": 21.8,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "LinkedIn",
     "categorie": "Réseaux et plateformes",
     "n": 20,
     "pct": 19.8,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Relation client / SAV",
     "categorie": "Compétences métier",
     "n": 18,
     "pct": 17.8,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Anglais",
     "categorie": "Compétences métier",
     "n": 16,
     "pct": 15.8,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Premiere Pro / After Effects / Final Cut",
     "categorie": "Création visuelle et vidéo",
     "n": 16,
     "pct": 15.8,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Modération / e-réputation",
     "categorie": "Compétences métier",
     "n": 15,
     "pct": 14.9,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Emailing / newsletters",
     "categorie": "Publicité et analytics",
     "n": 14,
     "pct": 13.9,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Canva",
@@ -459,35 +459,35 @@
     "categorie": "Création visuelle et vidéo",
     "n": 12,
     "pct": 11.9,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "CapCut",
     "categorie": "Création visuelle et vidéo",
     "n": 12,
     "pct": 11.9,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Meta Ads / publicité sociale",
     "categorie": "Publicité et analytics",
     "n": 7,
     "pct": 6.9,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "IA / IA générative",
     "categorie": "IA et automatisation",
     "n": 6,
     "pct": 5.9,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "SEO",
     "categorie": "Publicité et analytics",
     "n": 5,
     "pct": 5.0,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Meta Business Suite",
@@ -508,42 +508,42 @@
     "categorie": "Réseaux et plateformes",
     "n": 4,
     "pct": 4.0,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Google Ads / SEA",
     "categorie": "Publicité et analytics",
     "n": 3,
     "pct": 3.0,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Pinterest",
     "categorie": "Réseaux et plateformes",
     "n": 3,
     "pct": 3.0,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Automatisation / no-code",
     "categorie": "IA et automatisation",
     "n": 3,
     "pct": 3.0,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Outils de veille / social listening",
     "categorie": "Planification et veille",
     "n": 2,
     "pct": 2.0,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "WordPress / Shopify / CMS",
     "categorie": "CRM, CMS et gestion",
     "n": 2,
     "pct": 2.0,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "HubSpot / CRM",
@@ -557,81 +557,46 @@
     "categorie": "IA et automatisation",
     "n": 2,
     "pct": 2.0,
-    "vu_en_formation": false
-   },
-   {
-    "terme": "Twitch / Discord",
-    "categorie": "Réseaux et plateformes",
-    "n": 1,
-    "pct": 1.0,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Notion / Trello / Asana",
     "categorie": "CRM, CMS et gestion",
     "n": 1,
     "pct": 1.0,
-    "vu_en_formation": false
+    "vu_en_formation": true
+   },
+   {
+    "terme": "Twitch / Discord",
+    "categorie": "Réseaux et plateformes",
+    "n": 1,
+    "pct": 1.0,
+    "vu_en_formation": true
    },
    {
     "terme": "Agorapulse / Metricool / Sprout",
     "categorie": "Planification et veille",
     "n": 1,
     "pct": 1.0,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Snapchat",
     "categorie": "Réseaux et plateformes",
     "n": 1,
     "pct": 1.0,
-    "vu_en_formation": false
+    "vu_en_formation": true
    },
    {
     "terme": "Twitter / X",
     "categorie": "Réseaux et plateformes",
     "n": 1,
     "pct": 1.0,
-    "vu_en_formation": false
+    "vu_en_formation": true
    }
   ],
   "formation_renseignee": true,
   "a_acquerir": [
-   {
-    "terme": "Vidéo / montage / Reels",
-    "categorie": "Compétences métier",
-    "n": 46,
-    "pct": 45.5,
-    "vu_en_formation": false
-   },
-   {
-    "terme": "Veille",
-    "categorie": "Compétences métier",
-    "n": 40,
-    "pct": 39.6,
-    "vu_en_formation": false
-   },
-   {
-    "terme": "Événementiel",
-    "categorie": "Compétences métier",
-    "n": 35,
-    "pct": 34.7,
-    "vu_en_formation": false
-   },
-   {
-    "terme": "Rédaction / copywriting",
-    "categorie": "Compétences métier",
-    "n": 33,
-    "pct": 32.7,
-    "vu_en_formation": false
-   },
-   {
-    "terme": "Créativité",
-    "categorie": "Compétences métier",
-    "n": 26,
-    "pct": 25.7,
-    "vu_en_formation": false
-   },
    {
     "terme": "Influence / partenariats",
     "categorie": "Compétences métier",
@@ -640,35 +605,30 @@
     "vu_en_formation": false
    },
    {
-    "terme": "Facebook",
+    "terme": "Meta Business Suite",
     "categorie": "Réseaux et plateformes",
-    "n": 25,
-    "pct": 24.8,
+    "n": 4,
+    "pct": 4.0,
     "vu_en_formation": false
    },
    {
-    "terme": "Calendrier / ligne éditoriale",
-    "categorie": "Compétences métier",
-    "n": 25,
-    "pct": 24.8,
+    "terme": "HubSpot / CRM",
+    "categorie": "CRM, CMS et gestion",
+    "n": 2,
+    "pct": 2.0,
     "vu_en_formation": false
    }
   ],
   "api_competences": [
-   {
-    "libelle": "Analyser des échanges communautaires en ligne",
-    "n": 17,
-    "pct": 16.8
-   },
    {
     "libelle": "Animer un réseau, une communauté",
     "n": 17,
     "pct": 16.8
    },
    {
-    "libelle": "Veiller à la cohérence de l'image de l'entreprise sur l'ensemble des déclinaisons de la communication et des supports (éditorial, Web, Intranet, événements, médias, réseaux sociaux)",
-    "n": 6,
-    "pct": 5.9
+    "libelle": "Analyser des échanges communautaires en ligne",
+    "n": 17,
+    "pct": 16.8
    },
    {
     "libelle": "Définir une stratégie de communication",
@@ -676,14 +636,14 @@
     "pct": 5.9
    },
    {
+    "libelle": "Veiller à la cohérence de l'image de l'entreprise sur l'ensemble des déclinaisons de la communication et des supports (éditorial, Web, Intranet, événements, médias, réseaux sociaux)",
+    "n": 6,
+    "pct": 5.9
+   },
+   {
     "libelle": "Analyser les tendances des réseaux sociaux",
     "n": 3,
     "pct": 3.0
-   },
-   {
-    "libelle": "Répondre aux attentes d'un client",
-    "n": 2,
-    "pct": 2.0
    },
    {
     "libelle": "Maîtriser les stratégies et enjeux de la présence en ligne",
@@ -696,14 +656,9 @@
     "pct": 2.0
    },
    {
-    "libelle": "Données d'activité de la structure, du service",
-    "n": 1,
-    "pct": 1.0
-   },
-   {
-    "libelle": "Elaborer une stratégie commerciale",
-    "n": 1,
-    "pct": 1.0
+    "libelle": "Répondre aux attentes d'un client",
+    "n": 2,
+    "pct": 2.0
    },
    {
     "libelle": "Analyser, exploiter, structurer des données",
@@ -711,7 +666,17 @@
     "pct": 1.0
    },
    {
+    "libelle": "Mettre en œuvre la stratégie commerciale de l'entreprise",
+    "n": 1,
+    "pct": 1.0
+   },
+   {
     "libelle": "Déterminer le potentiel d'un client ou prospect",
+    "n": 1,
+    "pct": 1.0
+   },
+   {
+    "libelle": "Elaborer une stratégie commerciale",
     "n": 1,
     "pct": 1.0
    }
@@ -1109,7 +1074,7 @@
   "sans_employeur": 31,
   "marche_cache": {
    "source": "API Recherche d'entreprises (data.gouv.fr) — base Sirene",
-   "date": "2026-11-19T13:03:59+00:00",
+   "date": "2026-11-19T13:07:55+00:00",
    "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z · siège dans le 63",
    "total": 332,
    "par_naf": {
