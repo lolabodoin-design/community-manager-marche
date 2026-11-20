@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "derniere_maj": "2026-11-19T14:03:57+00:00",
+ "derniere_maj": "2026-11-20T13:46:51+00:00",
  "canal": "API France Travail — Offres d'emploi v2",
  "requete": "community manager",
  "code_rome": "E1101",
@@ -20,12 +20,107 @@
     "motsCles": "community manager"
    },
    "ok": true,
-   "recuperees": 102,
-   "total_api": 102
+   "recuperees": 103,
+   "total_api": 103
   }
  ],
- "nombre_offres": 102,
+ "nombre_offres": 103,
  "offres": [
+  {
+   "id": "8999830",
+   "intitule": "Animateur / Animatrice de communauté virtuelle (H/F)",
+   "entreprise": "ETKFACT",
+   "lieu": "13 - Istres",
+   "departement": "13",
+   "code_postal": "13118",
+   "contrat": "CDD - 24 Mois",
+   "type_contrat": "CDD",
+   "nature_contrat": "Contrat apprentissage",
+   "alternance": true,
+   "duree_travail": "35H/semaine\nHoraires annuels",
+   "salaire": null,
+   "salaire_complement": null,
+   "experience": "Débutant accepté",
+   "qualification": "Technicien",
+   "secteur": "Fabrication d'autres vêtements et accessoires",
+   "naf": "14.19Z",
+   "rome_code": "E1101",
+   "rome_libelle": "Community manager",
+   "appellation": "Animateur / Animatrice de communauté virtuelle",
+   "competences": [],
+   "qualites": [],
+   "description": "Offre collectée par La bonne alternance : Vous réalisez des shootings photo (produits, atelier et terrain), tournez et montez des vidéos courtes pour Instagram et TikTok. Vous créez et programmez les publications, participez au calendrier éditorial et animez la communauté. Vous avez déjà réalisé des photos ou des vidéos dans le cadre de projets personnels, scolaires ou professionnels. Vous savez utiliser un logiciel de montage. Pendant l'apprentissage, vous développerez votre pratique du shooting produit, du montage pour les réseaux sociaux et de l'animation d'une communauté. Le poste se déroule en présentiel à Istres. Horaires en entreprise de 9 h 30 à 12 h et de 12 h 30 à 17 h. Des événements peuvent avoir lieu ponctuellement le week-end. Pour postuler, présentez deux ou trois photos ou vidéos que vous avez réalisées, ou un compte dont vous avez créé des contenus. Ajoutez une idée de contenu pour une boutique de vêtements en ligne. Le salaire d'un apprenti est fixé par la réglementation en vigueur. Il dépend de plusieurs facteurs. Un simulateur à jour est disponible à l'adresse https://labonnealternance.apprentissage.beta.gouv.fr/salaire-alternant",
+   "date_publication": "2026-11-20",
+   "date_actualisation": "2026-11-20",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8999830",
+   "requetes": [
+    "code ROME E1101",
+    "mots-clés « community manager »"
+   ]
+  },
+  {
+   "id": "8993103",
+   "intitule": "Community manager (H/F)",
+   "entreprise": "One business School",
+   "lieu": "59 - Lille",
+   "departement": "59",
+   "code_postal": "59000",
+   "contrat": "CDD - 12 Mois",
+   "type_contrat": "CDD",
+   "nature_contrat": "Contrat apprentissage",
+   "alternance": true,
+   "duree_travail": null,
+   "salaire": "Annuel de 489.0 Euros à 1801.8 Euros",
+   "salaire_complement": null,
+   "experience": "Débutant accepté",
+   "qualification": null,
+   "secteur": null,
+   "naf": null,
+   "rome_code": "E1101",
+   "rome_libelle": "Community manager",
+   "appellation": "Community manager",
+   "competences": [],
+   "qualites": [],
+   "description": "Description du poste :\n\nSur notre site en propre, vous êtes garant de la mise à jour de notre catalogue de produits, de l'homogénéité commerciale et de la qualité des contenus Rédiger les descriptions des produits en français et en anglais, et dans le détail : style, coupe, matières, détails Assurer une parfaite intégration des visuels produits en veillant à leur qualité\n- Assurer le merchandising des produits en front\n- Référencer les produits de la collection\n- Mettre à jour les quantités quotidiennement***Gestionnaire de commandes et du service client\n- Préparation irréprochable et réactive des commandes de notre site en propre et de la marketplace\n- Suivi des expéditions et gestion des retours\n- Gestion du service client : téléphone, email et chat\n\nDescription du profil Vous êtes organisé(e), rigoureux(se) et avez le sens de l'initiative\n- Vous aimez écrire et publier de beaux contenus optimisés\n- Vous êtes passionné(e) par la Mode et le Luxe, et en suivez l'actualité\n- La connaissance du CMS Prestashop est un plus",
+   "date_publication": "2026-11-20",
+   "date_actualisation": "2026-11-20",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8993103",
+   "requetes": [
+    "code ROME E1101",
+    "mots-clés « community manager »"
+   ]
+  },
+  {
+   "id": "8992297",
+   "intitule": "Social Media Manager, CDI / Freelance (H/F)",
+   "entreprise": "iara.",
+   "lieu": "75 - Paris",
+   "departement": "75",
+   "code_postal": null,
+   "contrat": "CDI",
+   "type_contrat": "CDI",
+   "nature_contrat": "Contrat travail",
+   "alternance": false,
+   "duree_travail": null,
+   "salaire": null,
+   "salaire_complement": null,
+   "experience": "Expérience exigée",
+   "qualification": null,
+   "secteur": null,
+   "naf": null,
+   "rome_code": "E1124",
+   "rome_libelle": "Social media manager - Responsable des médias sociaux",
+   "appellation": "Social media manager",
+   "competences": [],
+   "qualites": [],
+   "description": "Chez iara, on cherche un Social Media Manager quelqu'un qui pilote, structure, renforce, mais surtout fait grandir une stratégie social media déjà en place, dans un contexte de forte croissance et d'internationalisation (et ça, ça arrive très vite).\n\niara, c'est quoi ? Une app beauté unique qui mixe prise de rendez-vous et réseau social. Tu réserves des soins, tu postes tes photos, tu recommandes des pros. et tu gagnes de l'argent.\n\nTu travailleras en lien direct avec les fondateurs et tu auras déjà :\n\n* +1M d'utilisateurs\n* une ligne éditoriale qui existe\n* une vraie communauté (30 000 professionnels inscrits sur l'appli)\n* une équipe social media de 5 personnes (4 créatrices de contenu et 1 graphiste)\n\nCe qu'on cherche maintenant, c'est la personne qui va prendre tout ça et l'emmener plus loin. Nous entrons dans une nouvelle phase : structuration à grande échelle, internationalisation, influence & paid, renforcement de notre image de marque à l'international.\n\nNotre Instagram : https://www.instagram.com/iaraonthegram/\n\nVos missions\n\nTa mission\n\n1\\. Stratégie & vision\n\n* Piloter la stratégie social media globale (TikTok, Instagram).\n* Renforcer et faire grandir la ligne éditoriale existante, sans la dénaturer.\n* Garantir la cohérence de la marque dans un contexte de croissance rapide.\n* Traduire l'usage réel de l'app et les enjeux produit en contenus compréhensibles et désirables.\n\n2\\. Créativité & formats\n\n* Imaginer et faire évoluer des formats récurrents, séries, concepts.\n* Challenger l'existant, tester de nouveaux angles, sans casser l'ADN.\n* Identifier les contenus à fort potentiel (organique, influence, paid).\n* Faire le lien entre création, performance et produit.\n\n3\\. Management & coordination\n\n* Manager une équipe social media de 3 personnes (contenu & DA).\n* Donner une direction claire, des briefs solides et du feedback structurant.\n* Organiser la production, les priorités et les temps forts.\n* Mettre en place des process simples et efficaces.\n\n4\\. Croissance & internationalisation\n\n* Accompagner l'expansion internationale de iara sur les réseaux.\n* Adapter les contenus et messages selon les marchés, sans perdre l'identité.\n* Suivre les bons KPIs (engagement, watch time, mémorisation, usage).\n* Collaborer avec l'influence, les créateurs et les équipes produit / marketing.\n\nVos compétences\n\nLe profil qu'on cherche\n\n* 4+ ans d'expérience en social media / content / brand (startup, app, média ou marque).\n* Très bonne compréhension de TikTok et Instagram.\n* Capacité à penser stratégie, marque et performance ensemble.\n* Sensibilité forte à l'image sans être uniquement DA.\n* À l'aise dans des environnements rapides, mouvants et ambitieux.\n* Intérêt pour des projets à dimension internationale.\n\nDate de début : Dès que possible\n\nLocalisation : Paris/Télétravail possible\n\nType d'emploi : CDI, CDD, Freelance",
+   "date_publication": "2026-11-20",
+   "date_actualisation": "2026-11-20",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8992297",
+   "requetes": [
+    "mots-clés « community manager »"
+   ]
+  },
   {
    "id": "216QDZJ",
    "intitule": "Community manager H/F",
@@ -62,6 +157,38 @@
    ]
   },
   {
+   "id": "8987444",
+   "intitule": "Vidéaste - Community manager (H/F)",
+   "entreprise": "Entreprise non précisée",
+   "lieu": "73 - Savoie",
+   "departement": "73",
+   "code_postal": null,
+   "contrat": "CDI",
+   "type_contrat": "CDI",
+   "nature_contrat": "Contrat travail",
+   "alternance": false,
+   "duree_travail": null,
+   "salaire": null,
+   "salaire_complement": null,
+   "experience": "Débutant accepté",
+   "qualification": null,
+   "secteur": null,
+   "naf": null,
+   "rome_code": "E1101",
+   "rome_libelle": "Community manager",
+   "appellation": "Community manager",
+   "competences": [],
+   "qualites": [],
+   "description": "Présentation de l'entreprise\n\nLe Groupe David Gerbier, leader incontournable dans la distribution, l'équipement et la réparation de véhicules automobiles et de loisirs depuis 1984, recherche un(e) Vidéaste - Community Manager passionné(e) et créatif(ve) pour rejoindre ses équipes. Notre entreprise, initialement basée en Auvergne - Rhône-Alpes, s'est développée à l'échelle nationale grâce à notre engagement envers la satisfaction client et la qualité de service.\n\nÀ propos du poste\n\nNous recherchons un(e) Vidéaste - Community Manager.\n\nMissions :\n\n* Réaliser des vidéos et des photos de nos véhicules pour les mettre en avant sur nos réseaux sociaux.\n* Créer des présentations attractives de nos produits disponibles sur parc.\n* Promouvoir l'ensemble de nos services : vente de véhicules neufs et d'occasion, vente d'accessoires de loisirs, atelier de réparation et SAV, ainsi que la location de camping-cars et vans.\n* Alimenter nos comptes sur les réseaux sociaux de ces présentations pour renforcer notre présence digitale et interagir avec notre communauté.\n* Collaborer avec les équipes de vente et de marketing pour élaborer une stratégie de contenu efficace et engageante.\n\nDéplacements à prévoir sur le département 73 et les départements limitrophes, un véhicule sera fourni.\n\nProfil recherché\n\n* Expérience en création de contenu vidéo et photo, idéalement dans le secteur automobile ou de loisirs.\n* Compétences en gestion des réseaux sociaux et en community management.\n* Créativité, sens de l'esthétique et passion pour la narration visuelle.\n* Bonne maîtrise des outils de montage vidéo et de graphisme.\n* Capacité à travailler de manière autonome.\n* Passion pour l'automobile et compréhension du secteur souhaitées.\n\nPourquoi nous rejoindre ?\n\nNous rejoindre, c'est intégrer un groupe dynamique au sein d'un marché porteur et en pleine mutation. Vous intégrerez un environnement de travail stimulant avec la possibilité d'évoluer au sein de la structure.\n\nSi vous êtes prêt(e) à relever ce défi et à contribuer au succès de notre entreprise, envoyez votre CV et votre portfolio.\n\nConsultez notre site : https://dg8campingcar.com, pour plus d'informations\n\nType d'emploi : CDI\n\nRémunération : 2 500,00€ par mois\n\nLieu du poste : Déplacements fréquents",
+   "date_publication": "2026-11-19",
+   "date_actualisation": "2026-11-19",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8987444",
+   "requetes": [
+    "code ROME E1101",
+    "mots-clés « community manager »"
+   ]
+  },
+  {
    "id": "8976323",
    "intitule": "Alternance Community Manager réseau boulangerie - Neuilly-sur-Seine (H/F)",
    "entreprise": "ISCOD",
@@ -88,6 +215,52 @@
    "date_publication": "2026-11-19",
    "date_actualisation": "2026-11-19",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8976323",
+   "requetes": [
+    "code ROME E1101",
+    "mots-clés « community manager »"
+   ]
+  },
+  {
+   "id": "216PKRJ",
+   "intitule": "Recherche ALTERNANCE Community Manager (H/F)",
+   "entreprise": "PARIS TEXTILE",
+   "lieu": "77 - Coubert",
+   "departement": "77",
+   "code_postal": "77170",
+   "contrat": "CDD - 12 Mois",
+   "type_contrat": "CDD",
+   "nature_contrat": "Contrat apprentissage",
+   "alternance": true,
+   "duree_travail": "Temps partiel - 20H/semaine\nTravail en journée...",
+   "salaire": null,
+   "salaire_complement": "Primes",
+   "experience": "Débutant accepté",
+   "qualification": "Employé qualifié",
+   "secteur": "Commerce de détail de meubles",
+   "naf": "47.59A",
+   "rome_code": "E1101",
+   "rome_libelle": "Community manager",
+   "appellation": "Community manager",
+   "competences": [
+    "Analyser des échanges communautaires en ligne",
+    "Animer un réseau, une communauté",
+    "Analyser le trafic d'un site web",
+    "Communiquer à l'écrit de façon appropriée",
+    "Communiquer efficacement avec les équipes et la direction",
+    "Modérer les commentaires sur les plateformes digitales",
+    "Rédiger du contenu web",
+    "Respecter les délais de publication",
+    "Utiliser les réseaux sociaux"
+   ],
+   "qualites": [
+    "Faire preuve de réactivité",
+    "Faire preuve de rigueur et de précision",
+    "Avoir l'esprit d'équipe"
+   ],
+   "description": "ALTERNANCE Community Manager - Univers Déco & Mobilier d'Exception\n\nTu es passionné(e) par les réseaux sociaux, la communication digitale et la création de contenu ? Tu débordes d'idées, tu es créatif(ve) et tu souhaites développer tes compétences dans un environnement dynamique ? Cette opportunité est faite pour toi !\n\nTes missions :\n\n* Gérer et animer nos réseaux sociaux (Instagram, TikTok, Facebook.).\n* Créer du contenu attractif : publications, stories, reels et vidéos.\n* Élaborer et suivre un calendrier éditorial.\n* Développer notre visibilité et notre communauté en ligne.\n* Interagir avec notre communauté et fidéliser nos abonnés.\n* Effectuer une veille sur les tendances et les nouveautés digitales.\n* Proposer de nouvelles idées pour dynamiser notre communication.\n\nLe profil recherché :\n\n* Tu prépares une formation en communication ou marketing digital.\n* Tu es créatif(ve), dynamique, organisé(e) et force de proposition.\n* Tu maîtrises les codes des réseaux sociaux.\n* Tu as une bonne aisance rédactionnelle.\n* Tu connais des outils comme Canva et les applications de montage vidéo.\n* Tu es motivé(e), autonome et apprécies le travail en équipe.\n\nL'entreprise : \n\nMagasin de meubles et de meubles orientaux situé à Coubert. Spécialisés dans la vente de mobilier raffiné et de qualité, nous proposons une large gamme de meubles pour sublimer votre intérieur : canapés, lits, tables, chaises, meubles TV et même des packs complets. Pour répondre à toutes vos envies, nous réalisons également des canapés sur mesure adaptés à vos goûts et à votre espace. Notre équipe vous accompagne dans vos choix et vous assure une livraison rapide et sécurisée partout en France.",
+   "date_publication": "2026-11-18",
+   "date_actualisation": "2026-11-19",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216PKRJ",
    "requetes": [
     "code ROME E1101",
     "mots-clés « community manager »"
@@ -988,7 +1161,7 @@
    "qualites": [],
    "description": "Participer à la création et à la publication de contenus sur les réseaux sociaux. (instagram, tiktok)..Aider à la mise en place d'actions de communication pour promouvoir l'entreprise.Participer au suivi et à l'animation des partenariats existants.Contribuer à l'organisation d'événements et d'opérations avec les partenaires.Mettre à jour les fichiers de contacts et assurer le suivi des différentes actions.",
    "date_publication": "2026-11-13",
-   "date_actualisation": "2026-11-14",
+   "date_actualisation": "2026-11-19",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8813554",
    "requetes": [
     "mots-clés « community manager »"
@@ -1168,52 +1341,6 @@
    "date_actualisation": "2026-11-14",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8748696",
    "requetes": [
-    "mots-clés « community manager »"
-   ]
-  },
-  {
-   "id": "216HHRP",
-   "intitule": "Community manager",
-   "entreprise": "SEM 47",
-   "lieu": "47 - AGEN",
-   "departement": "47",
-   "code_postal": "47000",
-   "contrat": "CDI",
-   "type_contrat": "CDI",
-   "nature_contrat": "Contrat travail",
-   "alternance": false,
-   "duree_travail": "35H/semaine\nTravail en journée",
-   "salaire": null,
-   "salaire_complement": null,
-   "experience": "1 An(s) - Community manager/communicat°digital",
-   "qualification": "Technicien",
-   "secteur": "Activité des économistes de la construction",
-   "naf": "74.90A",
-   "rome_code": "E1101",
-   "rome_libelle": "Community manager",
-   "appellation": "Community manager",
-   "competences": [
-    "Animer un réseau, une communauté",
-    "Analyser des échanges communautaires en ligne",
-    "Capacités rédactionnelles et maîtrise orthographe",
-    "Droit à l'image, droits d'auteur, protect° données",
-    "Compétences en photo, vidéo, montage appréciées",
-    "Maîtrise réseaux sociaux et leurs usages profess.",
-    "Programmation des publications & analyse statistiq",
-    "Construire ligne éditoriale/calendrier publication",
-    "Outils de création graphique et de mise en page"
-   ],
-   "qualites": [
-    "Avoir le sens du service",
-    "Etre force de proposition",
-    "Faire preuve de créativité, d'inventivité"
-   ],
-   "description": "***A compétences égales, la priorité pourra être donnée aux candidats bénéficiant de la RQTH. ***\n\nLa SEM 47 est une société d'économie mixte locale qui accompagne les collectivités territoriales et d'autres maîtres d'ouvrage dans leurs projets de développement territorial. Ses domaines d'intervention comprennent notamment l'aménagement, la construction, la maintenance, la programmation et le conseil.\nDans un contexte de valorisation de ses compétences et de développement de sa visibilité auprès de nouveaux partenaires, la SEM 47 souhaite renforcer sa communication digitale afin de mieux faire connaître ses métiers, ses réalisations et sa contribution au développement des territoires.\n\nLe ou la Community Manager (Communication digitale et valorisation des projets) contribue à définir, déployer et animer la communication de la SEM 47.\nIl ou elle assure la valorisation des projets, des expertises, des équipes et des partenariats de la société auprès de ses différents publics : collectivités, élus, partenaires institutionnels, entreprises, professionnels de l'aménagement et de la construction, ainsi que du grand public.\nLe poste vise à développer la notoriété de la SEM 47, à renforcer son image et à rendre ses activités plus lisibles et accessibles.\n\nPRINCIPALES MISSIONS :\n\n1- GESTION ET ANIMATION DES RESEAUX SOCIAUX\n- Définir et mettre en œuvre une ligne éditoriale adaptée aux objectifs de la SEM 47.\n- Élaborer et actualiser un calendrier éditorial.\n- Créer, rédiger et publier des contenus sur les réseaux sociaux pertinents, notamment LinkedIn, Facebook et Instagram.\n- Adapter les messages aux publics ciblés et aux spécificités de chaque plateforme.\n\n2- VALORISATION DES OPERATIONS ET DES SAVOIR-FAIRE\n- Identifier, en lien avec les équipes opérationnelles, les projets et réalisations susceptibles d'être valorisés.\n- Produire des contenus présentant les opérations d'aménagement, de construction, de réhabilitation et de maintenance.\n- Réaliser des reportages photographiques et des vidéos sur les chantiers, les livraisons d'équipements et les temps forts de la société.\n- Recueillir les témoignages des collaborateurs, des maîtres d'ouvrage et des partenaires, sous réserve de leur accord.\n- Concevoir des visuels, infographies, carrousels et supports numériques.\n- Participer à la mise à jour du site internet et à la diffusion des actualités.\n- Identifier les opportunités de communication conjointes avec les collectivités, les partenaires institutionnels et les acteurs économiques.\n- Valoriser les événements, inaugurations, signatures, livraisons et rencontres professionnelles.\n- Contribuer à la visibilité de la SEM 47 auprès du secteur privé et de nouveaux donneurs d'ordre.\n\n3- COMMUNICATION INTERNE ET VALORISATION DES EQUIPES\n- Contribuer à la communication sur les événements internes, les formations et les projets transversaux.\n- Favoriser le partage d'informations entre les équipes opérationnelles\n\n4- SUIVI DES PERFORMANCES ET AMELIORATION CONTINUE\n- Suivre les indicateurs de performance des publications et des plateformes.\n- Analyser les résultats des actions de communication.\n- Proposer de nouveaux formats et des actions visant à améliorer la portée, l'engagement et la visibilité de la SEM 47.\n\nPROFIL :\n- Formation en communication, communication digitale, marketing ou métiers du numérique.\n- Une première expérience en community management ou en communication digitale est souhaitée.\n- Une expérience dans le secteur public, parapublic, l'aménagement, la construction, l'immobilier ou la communication institutionnelle constituerait un atout.",
-   "date_publication": "2026-11-10",
-   "date_actualisation": "2026-11-18",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/216HHRP",
-   "requetes": [
-    "code ROME E1101",
     "mots-clés « community manager »"
    ]
   },
@@ -1658,7 +1785,7 @@
    "qualites": [],
    "description": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise Framatome recherche actuellement des profils :\nLa Business Unit (BU) Instrumentation et Contrôle-Commande (I&C) regroupe collaborateurs répartis dans 10 pays et est en forte croissance. Cette entité conçoit, produit et livre des systèmes d'instrumentation et de contrôle-commande de sûreté des chaudières nucléaires. Essentiels à la sûreté des réacteurs nucléaires, ces dispositifs sont installés dans une quarantaine de centrales, dans une vingtaine de pays.\nL'entité ICT conçoit, développe, commercialise et maintient les produits électroniques et numériques de sûreté livrés à nos clients (automates, logiciels, interfaces hommes-machines, capteurs, etcp> \nVous serez intégré(e) à l'équipe « Project Management, Architecture & Licensing », qui a en charge la conception de l'architecture, la qualification et la direction de projet pour le développement des automates de sureté.\nSous la responsabilité du chef de service, vous apportez et promouvez l'expertise en CEM sur les automates développés par les équipes ICTS.\nVos principales missions :\n-        En phase d'offre ou de spécification du besoin, vous analysez les exigences CEM des différents projets et établissez la stratégie de qualification.\n-        En phase de design, vous prenez part à la conception des produits, en proposant votre expertise aux équipes de développement électronique et système.\n-        En phase de test, vous réalisez des tests de CEM de dérisquage sur les prototypes dans notre laboratoire interne.\n-        En phase de qualification vous en charge des différentes activités de qualification CEM: définition des spécimens de qualification, rédaction des procédures, des argumentaires et des rapports, suivi des essais en laboratoire extérieur.\n-        En tant qu'expert, votre rôle est également de développer et d'étendre l'expertise en CEM au sein de l'entreprise, au travers d'actions de veille technologique, de capitalisation des connaissances et de formation.\n-        Enfin, vous pouvez représenter l'entreprise dans les comités normatifs nationaux et internationaux du domaine du contrôle commande nucléaire civil, et contribuez à l'évolution des normes.\nCompétences requises :\nExpertise en CEM (norme, design et essais)\nConnaissances en électronique et électrotechnique\nBon relationnel et aptitude à travailler avec des interlocuteurs variés (hardware, V&V, qualité, test.)\nRigueur documentaire et sens de l'organisation\nEsprit d'analyse, capacité de synthèse et orientation solution\nDescription du profil candidat\nDiplômé(e) d'une école d'ingénieur ou équivalent\nVous justifiez d'une expérience à minima de 10 ans en CEM. Vous avez déjà qualifié des produits.\nUne expérience en environnement contraint (nucléaire, ferroviaire, aéronautique.) est fortement appréciée\nQualités relationnelles, Qualités rédactionnelles\nAnglais à minima B2 sur l'échelle CECRL",
    "date_publication": "2026-11-07",
-   "date_actualisation": "2026-11-18",
+   "date_actualisation": "2026-11-19",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8642754",
    "requetes": [
     "mots-clés « community manager »"
@@ -1775,7 +1902,7 @@
   },
   {
    "id": "8586178",
-   "intitule": "Social media manager / Responsable des médias sociaux (H/F)",
+   "intitule": "Chef de Projet Marketing Influence & Social Media (H/F)",
    "entreprise": "Michael Page",
    "lieu": "75 - Paris 9e Arrondissement",
    "departement": "75",
@@ -1793,12 +1920,12 @@
    "naf": null,
    "rome_code": "E1124",
    "rome_libelle": "Social media manager - Responsable des médias sociaux",
-   "appellation": "Social media manager - Responsable des médias sociaux",
+   "appellation": "Social media manager",
    "competences": [],
    "qualites": [],
    "description": "Description du poste :\n\nEn tant que Social Media & Advocacy Manager H/F, vos responsabilités consisteront à Renforcement de la présence sur les réseaux sociaux Pilotage du Owned (contenus organiques, community management, etc Développement de l'Earned (influence, advocacy, UGC, etc Optimisation de la cohérence éditoriale Gestion des différents projets avec les différentes parties prenantes (apprentie, freelance, autre équipe, etc Pilotage des agences (briefs, calendriers, etc Mise à jour de la base de données Analyse des outils de social listening (anticipation des tendances, formats, communautés, etc Mise en place d'actions correctrices Veille concurrentielle et sectorielle.\n\nLa rémunération et les avantages sur ce poste sont Un salaire fixe compris entre 55 000 € et 60 000 € brut annuel Une participation attractive Grand groupe Télétravail 2 jours par semaine Un contrat à durée indéterminée (CDI).\n\nCe poste basé à Paris offre une opportunité de contribuer à des projets stratégiques dans le secteur des FMCG. Si ce rôle correspond à vos compétences et aspirations, vous pouvez transmettre votre candidature.\n\nDescription du profil :\n\nLe profil recherché Vous êtes diplômé(e) d'une formation en marketing, communication ou équivalent Vous avez une solide expérience (5 ans minimum hors alternance) en gestion des réseaux sociaux et en advocacy Vous maîtrisez les outils d'analyse et de gestion de campagnes digitales Vous avez une excellente connaissance du secteur des FMCG Vous avez un niveau d'anglais courant Vous êtes capable de gérer plusieurs projets simultanément avec rigueur et créativité Vous êtes reconnu pour votre autonomie, prise d'initiative et drive Vous êtes à l'aise pour collaborer avec des équipes transversales et des partenaires externes.",
    "date_publication": "2026-11-06",
-   "date_actualisation": "2026-11-19",
+   "date_actualisation": "2026-11-20",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8586178",
    "requetes": [
     "mots-clés « community manager »"
@@ -2070,38 +2197,6 @@
    ]
   },
   {
-   "id": "8510929",
-   "intitule": "Alternance Community manager - Pontault-Combault (H/F)",
-   "entreprise": "ISCOD",
-   "lieu": "77 - Pontault-Combault",
-   "departement": "77",
-   "code_postal": "77340",
-   "contrat": "CDD - 12 Mois",
-   "type_contrat": "CDD",
-   "nature_contrat": "Contrat apprentissage",
-   "alternance": true,
-   "duree_travail": null,
-   "salaire": null,
-   "salaire_complement": null,
-   "experience": "1 An(s)",
-   "qualification": null,
-   "secteur": null,
-   "naf": null,
-   "rome_code": "E1101",
-   "rome_libelle": "Community manager",
-   "appellation": "Community manager",
-   "competences": [],
-   "qualites": [],
-   "description": "L'ISCOD, spécialiste de la formation en Digital Learning, recherche pour son entreprise partenaire, spécialisée dans les solutions de rénovation de bâtiment haut de gamme, un.e Community manager, pour préparer l'une de nos formations diplômantes reconnues par l'Etat, de niveau 6 à niveau 7 (Bachelor/Bac+3 ou Mastère/Bac+5).Choisissez l'alternance nouvelle génération avec l'ISCOD !\nLES MISSIONS\nPassionné(e) par les réseaux sociaux, la création de contenu et la vidéo ? Vous aimez capturer des moments, raconter des histoires et faire rayonner une marque sur le digital ? Cette alternance est faite pour vous !Au sein de l'équipe, vous contribuerez au développement de la visibilité de l'entreprise sur le web et les réseaux sociaux afin de générer de nouveaux clients :Créer des contenus attractifs : vidéos, reels, stories, photos et publicationsAnimer et développer les communautés sur Instagram, LinkedIn et le site internetRéaliser des reportages sur les chantiers afin de valoriser les réalisations de l'entrepriseParticiper à l'élaboration du calendrier éditorialImaginer de nouveaux formats engageants et tendancesEffectuer une veille sur les réseaux sociaux et les bonnes pratiques du digitalMesurer les performances des actions menées et proposer des pistes d'amélioration.\n\nPROFIL RECHERCHE\nVous préparez un Bachelor ou un Master en Marketing, Communication ou Digital.Vous êtes le ou la candidat(e) idéal(e) si vous êtes :Créatif(ve) et force de propositionÀ l'aise avec les réseaux sociaux et les tendances digitalesCurieux(se), autonome et organisé(e)Bon(ne) communicant(e), avec une excellente qualité rédactionnelleUn expert dans la création de vidéos et les outils de montage (Capcut, Suite Adobe, Photoshop)Une première expérience en communication, marketing digital ou gestion des réseaux sociaux serait un plus.Votre intérêt pour l'immobilier, la rénovation et le suivi de projet est fortement appréciée.Poste basé à Pontault Combault (77340)Rémunération selon niveau d'études + âge. Formation prise en charge à 100% par l'entreprise.Vous êtes intéressé(e) par cette offre d'emploi en alternance ? Postulez dès maintenant !",
-   "date_publication": "2026-11-03",
-   "date_actualisation": "2026-11-03",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8510929",
-   "requetes": [
-    "code ROME E1101",
-    "mots-clés « community manager »"
-   ]
-  },
-  {
    "id": "8513095",
    "intitule": "V.I.E Chef.fe de Projet Transformation & Développement de l'Écosystème Promotionnel (F/H) - Argentine - MASSY",
    "entreprise": "Entreprise non précisée",
@@ -2281,41 +2376,6 @@
    ]
   },
   {
-   "id": "215TMGB",
-   "intitule": "Community Manager & Vidéaste (H/F)",
-   "entreprise": "LA RIBOULDINGUE",
-   "lieu": "07 - Vanosc",
-   "departement": "07",
-   "code_postal": "07690",
-   "contrat": "CDI",
-   "type_contrat": "CDI",
-   "nature_contrat": "Contrat travail",
-   "alternance": false,
-   "duree_travail": "Temps partiel - 7H/semaine\nTravail en journée",
-   "salaire": null,
-   "salaire_complement": null,
-   "experience": "2 An(s) - sur un poste similaire",
-   "qualification": "Employé qualifié",
-   "secteur": "Commerce de gros (commerce interentreprises) d'autres biens domestiques",
-   "naf": "46.49Z",
-   "rome_code": "E1101",
-   "rome_libelle": "Community manager",
-   "appellation": "Community manager",
-   "competences": [
-    "Animer un réseau, une communauté",
-    "Analyser des échanges communautaires en ligne"
-   ],
-   "qualites": [],
-   "description": "Rejoignez l'Envers du Décor !\nNotre entreprise, leader dans le matériel de cirque, grossiste B2B et détaillant B2C, est à la recherche de son prochain talent. Avec un catalogue de plus de 3000 références, nous fournissons les plus grands professionnels comme les boutiques de jouets et fabriquons Decathlon en autre.\nDans le cadre de notre développement digital, nous recherchons un(e) Community Manager polyvalent(e) et créatif(ve) pour prendre en charge notre présence sur les réseaux sociaux et la production de contenus vidéo.\nVous serez responsable de la programmation et de l'animation de nos comptes TikTok, Instagram et Facebook.\n\n\nMissions principales :\n- Stratégie & Programmation : Planifier et programmer les publications hebdomadaires sur les trois plateformes (calendrier éditorial).\n- Création de contenu : Rédiger les textes (copywriting) adaptés à chaque réseau et sélectionner les visuels.\n- Montage Vidéo : Assurer le montage des vidéos courtes (format Reels/TikTok) à l'aide d'outils d'édition.\n- IA : Utiliser des applications d'Intelligence Artificielle pour optimiser la création de contenu, la retouche ou la génération d'idées.\n- Modération : Animer la communauté et répondre aux commentaires si nécessaire.\n- Profil recherché :\n- Maîtrise des réseaux sociaux : Vous connaissez parfaitement les codes, algorithmes et tendances de TikTok, Instagram et Facebook.\n- Compétences en montage : Vous êtes à l'aise avec les logiciels/applications d'édition vidéo (CapCut, Premiere Pro, Canva, etc.).\n- Curiosité technologique : Vous savez utiliser les outils d'IA (ChatGPT, Midjourney, outils de montage IA, etc.) pour gagner en efficacité.\n- Autonomie : Capable de travailler de manière indépendante sur une journée dédiée.\n- Créativité : Force de proposition pour renouveler les contenus.\nConditions :\n- Rythme : 1 jour par semaine (jour à définir ensemble).\n- Rémunération : À définir selon profil et statut (Salaire brut ou TJM Freelance).\n\nType de contrat : CDD ou Freelance (à préciser selon votre besoin)\nDurée hebdomadaire : 7 heures (1 jour par semaine)\nLieu : Vanosc 07690",
-   "date_publication": "2026-10-28",
-   "date_actualisation": "2026-11-18",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/215TMGB",
-   "requetes": [
-    "code ROME E1101",
-    "mots-clés « community manager »"
-   ]
-  },
-  {
    "id": "8333037",
    "intitule": "Assistant / Assistante community manager (H/F)",
    "entreprise": "OREGON PRODUCTIONS",
@@ -2477,7 +2537,7 @@
    "qualites": [],
    "description": "Vous vivez les réseaux sociaux et connaissez les algorithmes mieux que votre propre fil d'actu ? Rejoignez-nous. BIONEXT recherche un(e) passionné(e) du digital, capable de transformer une actualité de laboratoire en contenu qui engage. Rattaché(e) à la Direction e et au CODIR, vous travaillerez en binôme avec notre chargée de communication et serez le/la garant(e) de notre image sur l'ensemble de nos canaux en ligne. Vos missionsStratégie digitale : définir et déployer notre ligne éditoriale sur LinkedIn, Instagram, Facebook, le site web et tout nouveau canal pertinent.Contenus & communautés : créer des posts, visuels, vidéos courtes, reels et stories ; programmer, animer et modérer les échanges. Valoriser nos ouvertures de centres, innovations es, recrutements, vie interne et partenariats.IA : intégrer les outils d'IA générative dans la création (texte, visuels, vidéo, déclinaisons multilingues) et l'automatisation, dans le respect des exigences du secteur de la .SEO : optimiser le référencement du site et des contenus, et développer notre visibilité locale via les fiches Google de nos centres.E-réputation & performance : assurer la veille, gérer les avis avec les équipes concernées, suivre les KPI et proposer des optimisations. Votre profilUn(e) vrai(e) geek des réseaux : formats, tendances, algorithmes, nouveautés. vous êtes toujours en avance.Formation en communication, marketing digital ou équivalent, avec une expérience confirmée en community management.Pratique avancée des outils d'IA et bonnes notions de SEO (Search Console, Analytics).Maîtrise des outils de création (Canva, Adobe, CapCut.), de planification et de reporting.Excellente plume en français ; anglais, allemand et/ou luxembourgeois appréciés.Créatif(ve), rigoureux(se), autonome, avec un intérêt pour la . Ce que nous proposonsUn CDI à temps plein.Un poste à forte visibilité, en lien direct avec le CODIR.La liberté d'innover au sein d'un acteur majeur de la biologie e au Luxembourg. Envoyez-nous votre candidature avec vos meilleures réalisations ou un lien vers vos comptes !",
    "date_publication": "2026-10-24",
-   "date_actualisation": "2026-11-19",
+   "date_actualisation": "2026-11-20",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8231242",
    "requetes": [
     "mots-clés « community manager »"
@@ -2671,7 +2731,7 @@
    "qualites": [],
    "description": "Une boutique de prêt-à-porter féminin à Béziers est à la recherche de son/sa prochain(e) vendeur(se) et community manager:\n \nVos missions en tant que vendeur(se): \n- Accueil, conseil et relation clients\n- Accompagner les clients(es) dans leur choix\n- Encaissement des clients(es)\n- Ouverture et fermeture du magasin\n- Rangement, réception des livraisons et inventaire \n- Mise en rayon avec esthétisme\n\nVos missions en tant que community manager H/F: \n- Gestion des réseaux sociaux: promouvoir la boutique et les collections\n- Création de contenus : produire des textes, visuels, photos et vidéos adaptés\n- Animation et modération : créer l'échange, répondre aux commentaires\n-  Etre garant(e) de la présence, de l'image et de la réputation de la boutique\n \nVos atouts: \n- votre ponctualité\n- votre rigueur\n- votre respect de la clientèle\n- votre capacité d'adaptation; : chaque client(e) est unique!\n \nVotre profil: \n- Vous disposez d'une expérience solide d'au moins deux ans sur le même type de poste\n- Vous êtes passionné(e) par la mode et la relation clientèle\n- Vous maitrisez les aspects de la communication de contenus\n\nLe poste: temps partiel de 20H évolutif en 35H.\n\nSi votre candidature est validée, vous serez convié(e) à un entretien directement en boutique avec Mme la gérante.",
    "date_publication": "2026-10-21",
-   "date_actualisation": "2026-11-18",
+   "date_actualisation": "2026-11-20",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/215MCSN",
    "requetes": [
     "mots-clés « community manager »"
@@ -3198,38 +3258,6 @@
    ]
   },
   {
-   "id": "7053518",
-   "intitule": "Alternance COMMUNITY MANAGER - Paris (H/F)",
-   "entreprise": "ISCOD",
-   "lieu": "75 - Paris 13e Arrondissement",
-   "departement": "75",
-   "code_postal": "75013",
-   "contrat": "CDD - 12 Mois",
-   "type_contrat": "CDD",
-   "nature_contrat": "Contrat apprentissage",
-   "alternance": true,
-   "duree_travail": null,
-   "salaire": null,
-   "salaire_complement": null,
-   "experience": "1 An(s)",
-   "qualification": null,
-   "secteur": null,
-   "naf": null,
-   "rome_code": "E1101",
-   "rome_libelle": "Community manager",
-   "appellation": "Community manager",
-   "competences": [],
-   "qualites": [],
-   "description": "L'ISCOD, spécialiste de la formation en Digital Learning, recherche pour son entreprise partenaire, spécialisée dans la gestion immobilière en lien avec les événements, le cinéma et la mode, un.e Community manager, pour préparer l'une de nos formations diplômantes reconnues par l'Etat, de niveau 4 à niveau 7 (Bac, Bac+2, Bachelor/Bac+3 ou Mastère/Bac+5).Choisissez l'alternance nouvelle génération avec l'ISCOD !\nLES MISSIONS\nGestion de la communication sur les réseaux.Création de contenus.Mise en avant de la structure en ligne.Gestion du planning éditorial.Veille concurrentielle.Analyse des publications.\n\nPROFIL RECHERCHE\nVous êtes le ou la candidat(e) idéal(e) si :Maitrise des réseaux sociaux.Maitrise des outils de communication et de montage.Bon relationnel.Vous êtes éligible à une formation Bac+2 à Bac+5 (diplôme validé ou en cours de validation)Poste basé à PARIS (75013) ASAPRémunération selon niveau d'études + âge. Formation prise en charge à 100% par l'entreprise.Vous êtes intéressé(e) par cette offre d'emploi en alternance ? Postulez dès maintenant !",
-   "date_publication": "2026-09-21",
-   "date_actualisation": "2026-09-21",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/7053518",
-   "requetes": [
-    "code ROME E1101",
-    "mots-clés « community manager »"
-   ]
-  },
-  {
    "id": "6897558",
    "intitule": "COMMUNITY MANAGER EN ALTERNANCE H/F",
    "entreprise": "Entreprise non précisée",
@@ -3254,7 +3282,7 @@
    "qualites": [],
    "description": "Le Groupement Mousquetaires, ce sont 7 enseignes de la grande distribution, collaborateurs et plus de chefs d'entreprise indépendants !\nINTERMARCHE propose des références créées en marque propre et majoritairement fabriquées en France. Frais, bio, premium, snacking : nos clients peuvent faire un VRAI plein de courses toute l'année à prix imbattables.\nNous recherchons notre alternant pour un poste de Community manager.\n-Mettre en oeuvre la strategie de communication ,de recrutement et de fidélisation\n-créer,rediger et publier des contenus sur les réseaux sociaux.\n-Mettre en place des campagnes de communication régulières.\n-dévelloper la marque employeur.\n-assurer une veille permanente sur les tendances digitales et les activités de la concurrence.",
    "date_publication": "2026-09-15",
-   "date_actualisation": "2026-11-14",
+   "date_actualisation": "2026-11-19",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/6897558",
    "requetes": [
     "code ROME E1101",
@@ -3324,7 +3352,7 @@
    ],
    "description": "Signature, boutique de robes & costumes de mariage à Toulon recherche un.e community manager / chargé.e de communication pour assurer la gestion des réseaux sociaux et des évènements.\n\nVous êtes diplômé/e en licence ou master communication, justifiez d'une première expérience réussie, ou souhaitez vous former par le biais de l'alternance (et êtes déjà inscrit/e dans une école) postulez !",
    "date_publication": "2026-08-06",
-   "date_actualisation": "2026-11-19",
+   "date_actualisation": "2026-11-20",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/212FDJN",
    "requetes": [
     "code ROME E1101",

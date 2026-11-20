@@ -1,8 +1,8 @@
 {
- "date": "2026-11-19T14:04:33+00:00",
+ "date": "2026-11-20T13:47:13+00:00",
  "source": "API Recherche d'entreprises (data.gouv.fr) — base Sirene",
  "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z",
- "exclus_opposition": 204,
+ "exclus_opposition": 203,
  "entreprises": [
   {
    "siren": "622044501",
@@ -257,7 +257,7 @@
    "naf": "73.11Z",
    "naf_libelle": "Agences de publicité",
    "commune": "CLERMONT-FERRAND",
-   "code_postal": "63100",
+   "code_postal": "63000",
    "effectif_libelle": "3 à 5",
    "effectif_rang": 2,
    "effectif_groupe": "1 à 9",
@@ -3645,19 +3645,6 @@
    "date_creation": "2025-07-18"
   },
   {
-   "siren": "833522568",
-   "nom": "MARION COGNARD (DEERKO COMMUNICATION)",
-   "naf": "70.21Z",
-   "naf_libelle": "Conseil en relations publiques et communication",
-   "commune": "CHAMBARON SUR MORGE",
-   "code_postal": "63200",
-   "effectif_libelle": "non renseigné",
-   "effectif_rang": 0,
-   "effectif_groupe": "0 salarié ou non renseigné",
-   "categorie": "PME",
-   "date_creation": "2017-11-15"
-  },
-  {
    "siren": "109472266",
    "nom": "MARION GUILBAUD",
    "naf": "70.21Z",
@@ -3708,6 +3695,19 @@
    "effectif_groupe": "0 salarié ou non renseigné",
    "categorie": "PME",
    "date_creation": "2023-01-02"
+  },
+  {
+   "siren": "133069492",
+   "nom": "MATHIAS VINCENT (CA BOUGE BIEN)",
+   "naf": "73.11Z",
+   "naf_libelle": "Agences de publicité",
+   "commune": "CLERMONT-FERRAND",
+   "code_postal": "63100",
+   "effectif_libelle": "non renseigné",
+   "effectif_rang": 0,
+   "effectif_groupe": "0 salarié ou non renseigné",
+   "categorie": null,
+   "date_creation": "2026-11-18"
   },
   {
    "siren": "992352427",
