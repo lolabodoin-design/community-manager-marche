@@ -536,6 +536,53 @@
     "Outils de veille / social listening": 1
    },
    "avec_texte": 102
+  },
+  {
+   "date": "2026-11-22",
+   "nombre_offres": 103,
+   "termes": {
+    "Gestion de projet / coordination": 26,
+    "Reporting / KPI / analyse": 38,
+    "Vidéo / montage / Reels": 45,
+    "Stratégie social media": 25,
+    "Calendrier / ligne éditoriale": 25,
+    "Relation client / SAV": 22,
+    "Pack Office (Excel, PowerPoint)": 29,
+    "HubSpot / CRM": 3,
+    "Influence / partenariats": 29,
+    "Instagram": 40,
+    "IA / IA générative": 7,
+    "SEO": 6,
+    "Rédaction / copywriting": 32,
+    "Anglais": 18,
+    "Facebook": 28,
+    "LinkedIn": 19,
+    "Pinterest": 5,
+    "Snapchat": 3,
+    "Création de contenu": 43,
+    "TikTok": 33,
+    "Twitter / X": 3,
+    "YouTube": 7,
+    "Créativité": 27,
+    "Modération / e-réputation": 15,
+    "Veille": 36,
+    "Événementiel": 31,
+    "WordPress / Shopify / CMS": 2,
+    "Premiere Pro / After Effects / Final Cut": 14,
+    "Emailing / newsletters": 12,
+    "Suite Adobe (Photoshop, Illustrator…)": 9,
+    "CapCut": 11,
+    "Canva": 12,
+    "Meta Business Suite": 4,
+    "Meta Ads / publicité sociale": 7,
+    "Agorapulse / Metricool / Sprout": 1,
+    "Google Ads / SEA": 2,
+    "Google Analytics / GA4": 2,
+    "Automatisation / no-code": 3,
+    "ChatGPT et outils d'IA": 1,
+    "Outils de veille / social listening": 1
+   },
+   "avec_texte": 103
   }
  ]
 }

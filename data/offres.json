@@ -1,6 +1,6 @@
 {
  "schema": 2,
- "derniere_maj": "2026-11-21T13:11:25+00:00",
+ "derniere_maj": "2026-11-22T13:00:01+00:00",
  "canal": "API France Travail — Offres d'emploi v2",
  "requete": "community manager",
  "code_rome": "E1101",
@@ -11,8 +11,8 @@
     "codeROME": "E1101"
    },
    "ok": true,
-   "recuperees": 59,
-   "total_api": 59
+   "recuperees": 58,
+   "total_api": 58
   },
   {
    "label": "mots-clés « community manager »",
@@ -20,12 +20,106 @@
     "motsCles": "community manager"
    },
    "ok": true,
-   "recuperees": 102,
-   "total_api": 102
+   "recuperees": 103,
+   "total_api": 103
   }
  ],
- "nombre_offres": 102,
+ "nombre_offres": 103,
  "offres": [
+  {
+   "id": "9090206",
+   "intitule": "Social Media Manager H/F",
+   "entreprise": "Entreprise non précisée",
+   "lieu": "75 - Paris",
+   "departement": "75",
+   "code_postal": null,
+   "contrat": "CDI",
+   "type_contrat": "CDI",
+   "nature_contrat": "Contrat travail",
+   "alternance": false,
+   "duree_travail": null,
+   "salaire": null,
+   "salaire_complement": null,
+   "experience": "Débutant accepté",
+   "qualification": null,
+   "secteur": null,
+   "naf": null,
+   "rome_code": "E1124",
+   "rome_libelle": "Social media manager - Responsable des médias sociaux",
+   "appellation": "Social media manager",
+   "competences": [],
+   "qualites": [],
+   "description": "Notre client est un groupe international dans la distribution de produits techniques basé à Paris.En tant que Social Media Manager H/F, vos missions principales seront les suivantes :\n\nDéfinir et déployer la stratégie de communication sur les réseaux sociaux afin de développer la visibilité des marques ;\nÉtablir le calendrier éditorial et organiser la publication des contenus sur les canaux retenus ;\nCréer, adapter et publier des contenus éditoriaux, visuels et vidéos adaptés aux différentes plateformes ;\nAnimer les communautés en ligne et répondre aux sollicitations afin de maintenir une relation suivie avec les audiences ;\nSuivre les tendances des réseaux sociaux et proposer des formats de contenu adaptés aux usages ;\nCoordonner les actions avec les différentes parties prenantes afin d'assurer une communication cohérente ;\nMesurer les performances des publications et des campagnes pour identifier les leviers d'amélioration ;\nProduire des reportings réguliers pour suivre l'engagement, la portée et l'évolution des communautés.\nLes conditions proposées pour ce poste sont les suivantes :\n\nContrat à durée indéterminée ;\nRémunération fixe comprise entre € et € ;\nPart variable et avantages VF, non inclus dans la rémunération fixe.\n\nSi ce poste de Social Media Manager H/F correspond à votre parcours, nous vous invitons à transmettre votre candidature.",
+   "date_publication": "2026-11-22",
+   "date_actualisation": "2026-11-22",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/9090206",
+   "requetes": [
+    "mots-clés « community manager »"
+   ]
+  },
+  {
+   "id": "9088981",
+   "intitule": " Chef de projet MOA CRM - Déploiement ServiceNow CSM / Paris (75) - Freelance (H/F)",
+   "entreprise": "Collective.work",
+   "lieu": "75 - Paris",
+   "departement": "75",
+   "code_postal": null,
+   "contrat": "Profession libérale",
+   "type_contrat": "LIB",
+   "nature_contrat": "Emploi non salarié",
+   "alternance": false,
+   "duree_travail": null,
+   "salaire": null,
+   "salaire_complement": null,
+   "experience": "Débutant accepté",
+   "qualification": null,
+   "secteur": null,
+   "naf": null,
+   "rome_code": "E1124",
+   "rome_libelle": "Social media manager - Responsable des médias sociaux",
+   "appellation": "Chef / Cheffe de projet social media optimization (SMO)",
+   "competences": [],
+   "qualites": [],
+   "description": "Taux journalier (TJM): 510 €/jour HT\n\n Informations pratiques\n\n * \n\n    Département : Paris (75)\n\n * \n\n    Démarrage : 4 janvier 2027\n\n * \n\n    Durée : 12 mois, renouvelable 3 fois\n\n * \n\n    Contrat : Freelance\n\n * \n\n    Budget : 510 €/jour HT\n\n * \n\n     Présence sur site : 3 jours par semaine\n\n * \n\n    Séniorité : expérience confirmée en pilotage de projets CRM\n\n * \n\n    Poste ouvert : 1\n\n * \n\n    Secteur : protection sociale et relation client entreprise\n\n Contexte\n\nUne organisation de protection sociale fait évoluer son CRM Entreprise vers ServiceNow CSM. La mission accompagne le déploiement de la solution dans plusieurs institutions et le passage des utilisateurs vers les nouveaux parcours.\n\n Missions principales\n\n * \n\n   Préparer et piloter les phases d'appropriation et de déploiement de ServiceNow CSM.\n\n * \n\n   Estimer les charges, construire les plannings et suivre les consommés.\n\n * \n\n   Coordonner les équipes projet, les équipes SI et les institutions utilisatrices.\n\n * \n\n   Préparer et animer les réunions de suivi, produire les tableaux de bord et gérer les risques.\n\n * \n\n   Accompagner les utilisateurs et coordonner les remontées fonctionnelles pendant et après les déploiements.\n\n Environnement technique et fonctionnel\n\n * \n\n   CRM : ServiceNow CSM ; évolution depuis un CRM existant.\n\n * \n\n   Relation client entreprise : parcours, processus et adoption des outils.\n\n * \n\n   Pilotage : planning, estimations de charge, suivi et tableaux de bord.\n\n * \n\n   Déploiement multi-entités : coordination des institutions et équipes SI.\n\n * \n\n   Accompagnement : appropriation, support méthodologique et fonctionnel.\n\n * \n\n   Outils : Excel avancé, Power BI, Teams et SharePoint.\n\n * Capacité à structurer, analyser, prioriser et formaliser les besoins, processus et livrables.\n * Expérience avérée dans le pilotage ou l'accompagnement de projets complexes.\n * Bonne connaissance des outils de relation client et des environnements CRM/SI ; la connaissance de ServiceNow CSM est requise.\n * Expérience appréciée sur des projets de transformation de la relation client ou de déploiement CRM, idéalement en protection sociale ou retraite complémentaire.\n * Maîtrise des outils bureautiques et collaboratifs, notamment Excel avancé, Power BI, Teams et SharePoint.\n * Capacité à coordonner des interlocuteurs variés, produire des reportings et accompagner l'appropriation des outils.",
+   "date_publication": "2026-11-22",
+   "date_actualisation": "2026-11-22",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/9088981",
+   "requetes": [
+    "mots-clés « community manager »"
+   ]
+  },
+  {
+   "id": "9071861",
+   "intitule": "Manager H/F",
+   "entreprise": "Entreprise non précisée",
+   "lieu": "06 - Alpes-Maritimes",
+   "departement": "06",
+   "code_postal": null,
+   "contrat": "CDI",
+   "type_contrat": "CDI",
+   "nature_contrat": "Contrat travail",
+   "alternance": false,
+   "duree_travail": null,
+   "salaire": null,
+   "salaire_complement": null,
+   "experience": "1 An(s)",
+   "qualification": null,
+   "secteur": null,
+   "naf": null,
+   "rome_code": "E1101",
+   "rome_libelle": "Community manager",
+   "appellation": "Community manager",
+   "competences": [],
+   "qualites": [],
+   "description": "Vous avez :\n\n* Le sens des responsabilités et de l'organisation\n* Un véritable esprit d'équipe et de leadership\n* Le goût du challenge et de la performance\n* L'envie de faire progresser vos collaborateurs et de les accompagner dans leur développement\n* Une forte orientation client et le sens du service\n* L'envie de donner un nouvel élan à votre carrière dans une entreprise en pleine croissance\n\nNous avons :\n\n* Des équipes dynamiques pouvant aller jusqu'à 40 collaborateurs à encadrer et développer\n* Un environnement stimulant où chaque journée est différente\n* De réelles perspectives d'évolution au sein d'un groupe en fort développement\n* Un parcours d'intégration et de formation personnalisé pour vous accompagner vers la réussite\n* Des outils et un accompagnement pour développer vos compétences managériales et opérationnelles\n\nVos missions\n\n* Animer, encadrer et motiver les équipes au quotidien\n* Garantir la satisfaction de nos clients et la qualité de service\n* Veiller au respect des procédures, des normes d'hygiène et de sécurité alimentaire\n* Participer à la gestion des plannings, des stocks et des indicateurs de performance\n* Développer les compétences de vos collaborateurs et accompagner leur montée en compétences\n* Contribuer à l'atteinte des objectifs du restaurant en matière de qualité, de chiffre d'affaires et de rentabilité\n\nCe que nous vous proposons\n\n* Prime sur objectifs\n* Repas pris en charge selon les conditions en vigueur\n* Congés supplémentaires\n* Mutuelle et prévoyance avantageuses\n* Dispositif Action Logement (1 % Logement)\n* Réductions tarifaires auprès de plus de 4 000 enseignes partenaires\n* Aides financières et accompagnement social via nos partenaires\n* Possibilités d'évolution rapide vers des postes de Directeur Adjoint ou Directeur de Restaurant\n\nRejoignez une enseigne reconnue, dynamique et ambitieuse, où votre engagement et votre leadership feront la différence au quotidien !\n\nType d'emploi : Temps plein, CDI\n\nRémunération : à partir de 29 000,00€ par an\n\nLieu du poste : En présentiel",
+   "date_publication": "2026-11-21",
+   "date_actualisation": "2026-11-21",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/9071861",
+   "requetes": [
+    "code ROME E1101",
+    "mots-clés « community manager »"
+   ]
+  },
   {
    "id": "9062026",
    "intitule": "Coordinateur Digital Site (H/F) F/H",
@@ -87,6 +181,37 @@
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/9038354",
    "requetes": [
     "code ROME E1101",
+    "mots-clés « community manager »"
+   ]
+  },
+  {
+   "id": "9072189",
+   "intitule": "Community manager Copyrighter H/F",
+   "entreprise": "Entreprise non précisée",
+   "lieu": "31 - Saint-Jean",
+   "departement": "31",
+   "code_postal": "31240",
+   "contrat": "CDI",
+   "type_contrat": "CDI",
+   "nature_contrat": "Contrat travail",
+   "alternance": false,
+   "duree_travail": null,
+   "salaire": null,
+   "salaire_complement": null,
+   "experience": "Débutant accepté",
+   "qualification": null,
+   "secteur": null,
+   "naf": null,
+   "rome_code": "E1117",
+   "rome_libelle": "Conseiller / Conseillère en organisation d'événementiel de particuliers",
+   "appellation": "Wedding planner",
+   "competences": [],
+   "qualites": [],
+   "description": "Acteur reconnu du prêt-à-porter depuis , Teddy Smith développe ses collections en France et à l'international à travers plusieurs marques fortes : Teddy Smith, School Rag et Blue Box. Ancrées dans un univers urbain et moderne, ces marques habillent plusieurs générations et s'adressent à des clients exigeants, attachés à la qualité et au style.\n\nObjectif du poste : \nLe Community Manager Copyrighter jouera un rôle essentiel dans la promotion de nos marques et l'engagement de notre communauté en ligne. En tant que garant de l'image de nos marques sur les réseaux sociaux et autres plateformes en ligne, vous serez responsable de la création de contenus attrayants, de la gestion des relations avec les influenceurs et de la rédaction de contenus optimisés pour le SEO. \n \n \nTeddy Smith distribue à travers plusieurs canaux de distribution digitaux B2C, ses collections.\nAvec une passion pour le digital, une expertise en acquisition de trafic et une vision stratégique, vous serez au cœur de notre transformation digitale !\nVotre principal défi sera d'augmenter le trafic sur l'ensemble de nos plateformes et de transformer ces visiteurs en clients fidèles.\n\nResponsabilités principales :\n * Animation des réseaux sociaux : Gérer et animer nos comptes sur Facebook, Instagram, Twitter, Pinterest, LinkedIn, Snapchat, TikTok et tout autre réseau pertinent pour notre secteur. \n * Gérer les relations avec les influenceurs : Identifier, contacter et gérer les collaborations avec les influenceurs pertinents pour notre marque. \n * Assurer la gestion des commentaires : Répondre de manière proactive et positive aux commentaires et messages des clients sur les réseaux sociaux. \n * Engagement de la communauté : Mettre en œuvre des stratégies pour augmenter l'engagement et la fidélité de notre communauté en ligne. \n * Rédaction de contenu : Rédiger des articles de blog, des descriptions de produits et de catégories en tenant compte des contraintes SEO. \n\n * Optimisation SEO : Assurer que tout le contenu créé est optimisé pour les moteurs de recherche. \n * Utilisation d'IA générative : Exploiter les outils d'IA générative pour créer du contenu innovant et engageant. \n\n \n \n * Expérience prouvée en tant que Community Manager ou rôle similaire. \n * Excellentes compétences rédactionnelles en français (et idéalement en anglais). \n * Connaissance des outils et des meilleures pratiques de SEO. \n * Familiarité avec les outils d'IA générative pour la création de contenu. \n * Capacité à interagir avec la communauté en ligne de manière positive et professionnelle. \n * Passion pour la mode et connaissance des tendances actuelles.  ",
+   "date_publication": "2026-11-21",
+   "date_actualisation": "2026-11-21",
+   "url": "https://candidat.francetravail.fr/offres/recherche/detail/9072189",
+   "requetes": [
     "mots-clés « community manager »"
    ]
   },
@@ -1096,38 +1221,6 @@
    ]
   },
   {
-   "id": "8822882",
-   "intitule": "Animateur(trice) de site e-commerce (H/F)",
-   "entreprise": "Entreprise non précisée",
-   "lieu": "85 - Vendée",
-   "departement": "85",
-   "code_postal": null,
-   "contrat": "CDI",
-   "type_contrat": "CDI",
-   "nature_contrat": "Contrat travail",
-   "alternance": false,
-   "duree_travail": null,
-   "salaire": null,
-   "salaire_complement": null,
-   "experience": "Débutant accepté",
-   "qualification": null,
-   "secteur": null,
-   "naf": null,
-   "rome_code": "E1101",
-   "rome_libelle": "Community manager",
-   "appellation": "Animateur / Animatrice de forum sur internet",
-   "competences": [],
-   "qualites": [],
-   "description": "À propos du poste\nEn tant qu'animateur ou animatrice de site e-commerce en sport nautique, vous contribuez à la mise en valeur des contenus et à l'animation des activités numériques. Vous veillez à la cohérence des informations publiées et à la qualité de l'expérience proposée aux client(e)s.\n\nResponsabilités\n\n* Actualisez les pages et les contenus du site à l'aide de WordPress ou d'autres systèmes de gestion de contenu.\n* Créez et adaptez des contenus visuels avec Adobe Photoshop et Adobe Creative Suite, en tenant compte des besoins du site et des réseaux sociaux.\n* Contribuez aux actions de marketing numérique: référencement naturel, publicité Google Ads, publicité Facebook et marketing par courriel.\n* Suivez les résultats avec Google Analytics et des outils de référencement, puis partagez les observations utiles avec les collègues.\n* Votre contribution: des contenus à jour et bien présentés aident les client(e)s à trouver les informations utiles et les collègues à maintenir une communication cohérente.\n\nProfil recherché\n\nCompétences requises: vous mobilisez des connaissances en commerce électronique, marketing Web, création de contenu, référencement naturel, HTML et CSS pour réaliser les missions. Atouts appréciés: la maîtrise de JavaScript, SQL, du graphisme et des outils Google AdWords, ainsi qu'une expérience en gestion des réseaux sociaux, enrichit votre profil.\n\nRémunération : 18 000,00€ à 37 500,00€ par an\n\nLieu du poste : En présentiel",
-   "date_publication": "2026-11-13",
-   "date_actualisation": "2026-11-13",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8822882",
-   "requetes": [
-    "code ROME E1101",
-    "mots-clés « community manager »"
-   ]
-  },
-  {
    "id": "8801013",
    "intitule": "Chargé de communication alternance (F/H)",
    "entreprise": "ESUP PARIS",
@@ -1154,38 +1247,6 @@
    "date_publication": "2026-11-13",
    "date_actualisation": "2026-11-13",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8801013",
-   "requetes": [
-    "code ROME E1101",
-    "mots-clés « community manager »"
-   ]
-  },
-  {
-   "id": "8778357",
-   "intitule": "Gestionnaire de communauté en ligne (H/F)",
-   "entreprise": "UMANTRUST",
-   "lieu": "75 - Paris 8e Arrondissement",
-   "departement": "75",
-   "code_postal": "75008",
-   "contrat": "CDD - 12 Mois",
-   "type_contrat": "CDD",
-   "nature_contrat": "Contrat apprentissage",
-   "alternance": true,
-   "duree_travail": "35H/semaine\nHoraires annuels",
-   "salaire": null,
-   "salaire_complement": null,
-   "experience": "Débutant accepté",
-   "qualification": "Cadre",
-   "secteur": "Conseil en systèmes et logiciels informatiques",
-   "naf": "62.02A",
-   "rome_code": "E1101",
-   "rome_libelle": "Community manager",
-   "appellation": "Gestionnaire de communauté en ligne",
-   "competences": [],
-   "qualites": [],
-   "description": "Offre collectée par La bonne alternance : vous préparer un master en communicattion marketing digital , vous avez déjà créé une communauté frome scratch sur les réseau ? Alors cette opportunité est faite pour vous : Vous construisez la communauté de bout en bout, et vous en faites un moteur d'opportunités pour ses membres et pour la Practice. Faire grandir : repérer et inviter, de façon personnalisée, des experts (RSSI, consultants, managers, profils GRC, SOC, pentest, cloud, IAM) et recruter les premiers membres fondateurs. Animer et fidéliser : accueillir chaque nouveau membre, lancer des rituels hebdomadaires, gérer la Communauté WhatsApp et la newsletter, valoriser les membres les plus actifs. Organiser les événements : webinaires animés par des membres, lives, afterworks et dîners, de la préparation au suivi des participants. Faire émerger des opportunités : échanger chaque jour avec les membres en poste chez des clients, repérer les besoins de profils et les remplacements à venir, les qualifier et les transmettre à l'équipe. Piloter : tenir le CRM à jour, suivre les indicateurs et présenter un bilan chaque semaine. Ce qu'on attend de vous à 12 mois une communauté de plusieurs centaines de membres, dont une part significative est active chaque mois ; un calendrier d'événements régulier et suivi ; un flux hebdomadaire d'opportunités de missions qualifiées, mesuré et suivi avec votre responsable. Votre profil Indispensable Aisance à l'écrit et au relationnel : vous savez écrire un message clair et engager la conversation avec des professionnels seniors. Bonne pratique de LinkedIn. Rigueur et sens de l'organisation, goût pour les objectifs chiffrés. Curiosité pour la cybersécurité et envie d'en apprendre le vocabulaire. Un plus Une expérience d'animation de communauté (association, Discord, newsletter, événement). Connaissance d'un CRM, de Canva ou de Notion. Notions de cybersécurité Le salaire d'un apprenti est fixé par la réglementation en vigueur. Il dépend de plusieurs facteurs. Un simulateur à jour est disponible à l'adresse https://labonnealternance.apprentissage.beta.gouv.fr/salaire-alternant",
-   "date_publication": "2026-11-13",
-   "date_actualisation": "2026-11-13",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8778357",
    "requetes": [
     "code ROME E1101",
     "mots-clés « community manager »"
@@ -1259,37 +1320,6 @@
    "date_publication": "2026-11-13",
    "date_actualisation": "2026-11-17",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/216KFVG",
-   "requetes": [
-    "mots-clés « community manager »"
-   ]
-  },
-  {
-   "id": "8813554",
-   "intitule": "Alternance Assistant communication et réseaux sociaux - Boulogne-Billancourt (F/H)",
-   "entreprise": "Entreprise non précisée",
-   "lieu": "92 - Boulogne-Billancourt",
-   "departement": "92",
-   "code_postal": "92100",
-   "contrat": "CDD - 12 Mois",
-   "type_contrat": "CDD",
-   "nature_contrat": "Cont. professionnalisation",
-   "alternance": true,
-   "duree_travail": null,
-   "salaire": null,
-   "salaire_complement": null,
-   "experience": "Débutant accepté",
-   "qualification": null,
-   "secteur": null,
-   "naf": null,
-   "rome_code": "E1124",
-   "rome_libelle": "Social media manager - Responsable des médias sociaux",
-   "appellation": "Responsable de réseaux sociaux",
-   "competences": [],
-   "qualites": [],
-   "description": "Participer à la création et à la publication de contenus sur les réseaux sociaux. (instagram, tiktok)..Aider à la mise en place d'actions de communication pour promouvoir l'entreprise.Participer au suivi et à l'animation des partenariats existants.Contribuer à l'organisation d'événements et d'opérations avec les partenaires.Mettre à jour les fichiers de contacts et assurer le suivi des différentes actions.",
-   "date_publication": "2026-11-13",
-   "date_actualisation": "2026-11-21",
-   "url": "https://candidat.francetravail.fr/offres/recherche/detail/8813554",
    "requetes": [
     "mots-clés « community manager »"
    ]
@@ -2664,7 +2694,7 @@
    "qualites": [],
    "description": "Vous vivez les réseaux sociaux et connaissez les algorithmes mieux que votre propre fil d'actu ? Rejoignez-nous. BIONEXT recherche un(e) passionné(e) du digital, capable de transformer une actualité de laboratoire en contenu qui engage. Rattaché(e) à la Direction e et au CODIR, vous travaillerez en binôme avec notre chargée de communication et serez le/la garant(e) de notre image sur l'ensemble de nos canaux en ligne. Vos missionsStratégie digitale : définir et déployer notre ligne éditoriale sur LinkedIn, Instagram, Facebook, le site web et tout nouveau canal pertinent.Contenus & communautés : créer des posts, visuels, vidéos courtes, reels et stories ; programmer, animer et modérer les échanges. Valoriser nos ouvertures de centres, innovations es, recrutements, vie interne et partenariats.IA : intégrer les outils d'IA générative dans la création (texte, visuels, vidéo, déclinaisons multilingues) et l'automatisation, dans le respect des exigences du secteur de la .SEO : optimiser le référencement du site et des contenus, et développer notre visibilité locale via les fiches Google de nos centres.E-réputation & performance : assurer la veille, gérer les avis avec les équipes concernées, suivre les KPI et proposer des optimisations. Votre profilUn(e) vrai(e) geek des réseaux : formats, tendances, algorithmes, nouveautés. vous êtes toujours en avance.Formation en communication, marketing digital ou équivalent, avec une expérience confirmée en community management.Pratique avancée des outils d'IA et bonnes notions de SEO (Search Console, Analytics).Maîtrise des outils de création (Canva, Adobe, CapCut.), de planification et de reporting.Excellente plume en français ; anglais, allemand et/ou luxembourgeois appréciés.Créatif(ve), rigoureux(se), autonome, avec un intérêt pour la . Ce que nous proposonsUn CDI à temps plein.Un poste à forte visibilité, en lien direct avec le CODIR.La liberté d'innover au sein d'un acteur majeur de la biologie e au Luxembourg. Envoyez-nous votre candidature avec vos meilleures réalisations ou un lien vers vos comptes !",
    "date_publication": "2026-10-24",
-   "date_actualisation": "2026-11-21",
+   "date_actualisation": "2026-11-22",
    "url": "https://candidat.francetravail.fr/offres/recherche/detail/8231242",
    "requetes": [
     "mots-clés « community manager »"
