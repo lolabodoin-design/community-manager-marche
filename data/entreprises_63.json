@@ -1,5 +1,5 @@
 {
- "date": "2026-11-25T15:14:37+00:00",
+ "date": "2026-11-26T14:39:52+00:00",
  "source": "API Recherche d'entreprises (data.gouv.fr) — base Sirene",
  "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z",
  "exclus_opposition": 201,
@@ -4189,19 +4189,6 @@
    "effectif_groupe": "0 salarié ou non renseigné",
    "categorie": "PME",
    "date_creation": "2021-10-04"
-  },
-  {
-   "siren": "394096531",
-   "nom": "PHILIPPE BELGRAND",
-   "naf": "70.21Z",
-   "naf_libelle": "Conseil en relations publiques et communication",
-   "commune": "RENNES",
-   "code_postal": "35700",
-   "effectif_libelle": "non renseigné",
-   "effectif_rang": 0,
-   "effectif_groupe": "0 salarié ou non renseigné",
-   "categorie": "PME",
-   "date_creation": "1994-02-15"
   },
   {
    "siren": "538049487",
