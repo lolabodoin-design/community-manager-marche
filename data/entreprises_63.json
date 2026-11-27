@@ -1,8 +1,8 @@
 {
- "date": "2026-11-26T14:39:52+00:00",
+ "date": "2026-11-27T14:37:32+00:00",
  "source": "API Recherche d'entreprises (data.gouv.fr) — base Sirene",
  "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z",
- "exclus_opposition": 201,
+ "exclus_opposition": 202,
  "entreprises": [
   {
    "siren": "622044501",
@@ -900,19 +900,6 @@
    "effectif_groupe": "0 salarié ou non renseigné",
    "categorie": "PME",
    "date_creation": "2022-09-01"
-  },
-  {
-   "siren": "530085570",
-   "nom": "ADRIEN PERRIER-CUSSAC (PERRIER)",
-   "naf": "70.21Z",
-   "naf_libelle": "Conseil en relations publiques et communication",
-   "commune": "LA ROCHE-BLANCHE",
-   "code_postal": "63670",
-   "effectif_libelle": "non renseigné",
-   "effectif_rang": 0,
-   "effectif_groupe": "0 salarié ou non renseigné",
-   "categorie": "PME",
-   "date_creation": "2011-01-07"
   },
   {
    "siren": "912995750",
