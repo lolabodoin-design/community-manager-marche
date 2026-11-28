@@ -1,7 +1,7 @@
 {
  "meta": {
-  "date_donnees": "2026-11-27T14:37:16+00:00",
-  "date_analyse": "2026-11-27T14:37:33+00:00",
+  "date_donnees": "2026-11-28T13:49:28+00:00",
+  "date_analyse": "2026-11-28T13:49:46+00:00",
   "canal": "API France Travail — Offres d'emploi v2",
   "requetes": [
    {
@@ -10,8 +10,8 @@
      "codeROME": "E1101"
     },
     "ok": true,
-    "recuperees": 70,
-    "total_api": 70
+    "recuperees": 72,
+    "total_api": 72
    },
    {
     "label": "mots-clés « community manager »",
@@ -19,59 +19,59 @@
      "motsCles": "community manager"
     },
     "ok": true,
-    "recuperees": 117,
-    "total_api": 117
+    "recuperees": 118,
+    "total_api": 118
    }
   ],
   "code_rome": "E1101",
   "rome_libelle": "Community manager",
-  "nombre_offres": 117,
-  "offres_avec_texte": 117,
+  "nombre_offres": 118,
+  "offres_avec_texte": 118,
   "date_plus_ancienne": "2026-06-18",
-  "date_plus_recente": "2026-11-27"
+  "date_plus_recente": "2026-11-28"
  },
  "volume": {
-  "total": 117,
+  "total": 118,
   "par_requete": {
-   "mots-clés « community manager »": 117,
-   "code ROME E1101": 70
+   "code ROME E1101": 72,
+   "mots-clés « community manager »": 118
   },
   "par_mois": {
    "2026-06": 1,
    "2026-08": 1,
    "2026-09": 1,
-   "2026-10": 17,
-   "2026-11": 97
+   "2026-10": 15,
+   "2026-11": 100
   },
-  "publiees_7_jours": 50,
-  "publiees_30_jours": 101
+  "publiees_7_jours": 52,
+  "publiees_30_jours": 102
  },
  "geographie": {
   "zones": [
    {
     "zone": "Puy-de-Dôme (63)",
     "n": 1,
-    "pct": 0.9
+    "pct": 0.8
    },
    {
     "zone": "Auvergne-Rhône-Alpes hors Puy-de-Dôme (ou département non précisé)",
     "n": 15,
-    "pct": 12.8
+    "pct": 12.7
    },
    {
     "zone": "Autres régions de métropole",
-    "n": 93,
-    "pct": 79.5
+    "n": 94,
+    "pct": 79.7
    },
    {
     "zone": "Outre-mer",
     "n": 7,
-    "pct": 6.0
+    "pct": 5.9
    },
    {
     "zone": "Localisation non précisée (France entière / non renseignée)",
     "n": 1,
-    "pct": 0.9
+    "pct": 0.8
    }
   ],
   "clermont_ferrand": 0,
@@ -79,43 +79,38 @@
   "regions": [
    {
     "region": "Île-de-France",
-    "n": 48,
-    "pct": 41.0
+    "n": 49,
+    "pct": 41.5
    },
    {
     "region": "Auvergne-Rhône-Alpes",
     "n": 16,
-    "pct": 13.7
+    "pct": 13.6
    },
    {
     "region": "Provence-Alpes-Côte d'Azur",
-    "n": 11,
-    "pct": 9.4
+    "n": 13,
+    "pct": 11.0
    },
    {
     "region": "Occitanie",
-    "n": 11,
-    "pct": 9.4
+    "n": 10,
+    "pct": 8.5
    },
    {
     "region": "Hauts-de-France",
     "n": 9,
-    "pct": 7.7
+    "pct": 7.6
    },
    {
     "region": "Outre-mer",
     "n": 7,
-    "pct": 6.0
+    "pct": 5.9
    },
    {
     "region": "Nouvelle-Aquitaine",
     "n": 4,
     "pct": 3.4
-   },
-   {
-    "region": "Bourgogne-Franche-Comté",
-    "n": 3,
-    "pct": 2.6
    },
    {
     "region": "Pays de la Loire",
@@ -128,87 +123,92 @@
     "pct": 1.7
    },
    {
+    "region": "Bourgogne-Franche-Comté",
+    "n": 2,
+    "pct": 1.7
+   },
+   {
     "region": "Bretagne",
     "n": 1,
-    "pct": 0.9
+    "pct": 0.8
    },
    {
     "region": "Corse",
     "n": 1,
-    "pct": 0.9
+    "pct": 0.8
    },
    {
     "region": "Centre-Val de Loire",
     "n": 1,
-    "pct": 0.9
+    "pct": 0.8
    }
   ],
   "departements": [
    {
     "departement": "75",
-    "n": 29
+    "n": 27
    },
    {
     "departement": "69",
-    "n": 12
+    "n": 11
+   },
+   {
+    "departement": "93",
+    "n": 8
+   },
+   {
+    "departement": "06",
+    "n": 7
    },
    {
     "departement": "59",
     "n": 7
    },
    {
-    "departement": "06",
-    "n": 6
-   },
-   {
     "departement": "92",
-    "n": 6
-   },
-   {
-    "departement": "93",
-    "n": 6
+    "n": 5
    },
    {
     "departement": "974",
     "n": 5
    },
    {
-    "departement": "91",
-    "n": 3
+    "departement": "13",
+    "n": 4
    }
   ]
  },
  "teletravail": {
-  "mentionne": 10,
+  "mentionne": 11,
   "complet": 0,
-  "pct_mentionne": 8.5,
+  "pct_mentionne": 9.3,
   "pct_complet": 0.0
  },
  "contrats": [
   {
    "contrat": "CDI",
-   "n": 50,
-   "pct": 42.7
+   "n": 47,
+   "pct": 39.8
   },
   {
    "contrat": "Alternance",
-   "n": 43,
-   "pct": 36.8
+   "n": 46,
+   "pct": 39.0
   },
   {
    "contrat": "CDD",
-   "n": 10,
-   "pct": 8.5
+   "n": 11,
+   "pct": 9.3
   },
   {
    "contrat": "Indépendant / freelance",
    "n": 9,
-   "pct": 7.7
+   "pct": 7.6
   },
   {
    "contrat": "Intérim",
    "n": 3,
-   "pct": 2.6
+   "pct": 2.5
   },
   {
    "contrat": "Stage",
@@ -217,8 +217,8 @@
   }
  ],
  "salaires": {
-  "renseigne": 23,
-  "part_renseignee": 19.7,
+  "renseigne": 24,
+  "part_renseignee": 20.3,
   "par_contrat": {
    "CDI": {
     "n": 13,
@@ -229,8 +229,8 @@
     "q3": 3708
    },
    "CDD": {
-    "n": 6,
-    "mediane": 2300,
+    "n": 7,
+    "mediane": 2350,
     "min": 1141,
     "max": 4333
    },
@@ -254,12 +254,12 @@
    }
   },
   "hors_alternance": {
-   "n": 21,
-   "mediane": 2250,
+   "n": 22,
+   "mediane": 2300,
    "min": 1000,
    "max": 5833,
-   "q1": 1868,
-   "q3": 3119
+   "q1": 1869,
+   "q3": 3083
   },
   "repere_externe": {
    "source": "France Travail, MétierScope (fiche Community manager), 1er trimestre 2026",
@@ -272,18 +272,23 @@
  "intitules": [
   {
    "intitule": "Community manager (H/F)",
-   "n": 18,
-   "pct": 15.4
+   "n": 17,
+   "pct": 14.4
   },
   {
    "intitule": "Manager H/F",
    "n": 5,
-   "pct": 4.3
+   "pct": 4.2
+  },
+  {
+   "intitule": "Assistant / Assistante community manager (H/F)",
+   "n": 3,
+   "pct": 2.5
   },
   {
    "intitule": "Social Media Manager H/F",
    "n": 3,
-   "pct": 2.6
+   "pct": 2.5
   },
   {
    "intitule": "Alternance Community manager de niveau Master en 1 an - Paris (F/H)",
@@ -306,11 +311,6 @@
    "pct": 1.7
   },
   {
-   "intitule": "Assistant / Assistante community manager (H/F)",
-   "n": 2,
-   "pct": 1.7
-  },
-  {
    "intitule": "6 COMMUNITY MANAGER   (Le Port et Saint Paul) #TET14371 (H/F)",
    "n": 2,
    "pct": 1.7
@@ -326,176 +326,176 @@
    {
     "terme": "Vidéo / montage / Reels",
     "categorie": "Compétences métier",
-    "n": 54,
-    "pct": 46.2,
-    "vu_en_formation": true
-   },
-   {
-    "terme": "Instagram",
-    "categorie": "Réseaux et plateformes",
-    "n": 49,
-    "pct": 41.9,
+    "n": 53,
+    "pct": 44.9,
     "vu_en_formation": true
    },
    {
     "terme": "Reporting / KPI / analyse",
     "categorie": "Compétences métier",
     "n": 47,
-    "pct": 40.2,
+    "pct": 39.8,
+    "vu_en_formation": true
+   },
+   {
+    "terme": "Instagram",
+    "categorie": "Réseaux et plateformes",
+    "n": 47,
+    "pct": 39.8,
     "vu_en_formation": true
    },
    {
     "terme": "Création de contenu",
     "categorie": "Compétences métier",
-    "n": 45,
-    "pct": 38.5,
+    "n": 46,
+    "pct": 39.0,
+    "vu_en_formation": true
+   },
+   {
+    "terme": "Veille",
+    "categorie": "Compétences métier",
+    "n": 43,
+    "pct": 36.4,
     "vu_en_formation": true
    },
    {
     "terme": "Rédaction / copywriting",
     "categorie": "Compétences métier",
     "n": 42,
-    "pct": 35.9,
-    "vu_en_formation": true
-   },
-   {
-    "terme": "Veille",
-    "categorie": "Compétences métier",
-    "n": 41,
-    "pct": 35.0,
+    "pct": 35.6,
     "vu_en_formation": true
    },
    {
     "terme": "TikTok",
     "categorie": "Réseaux et plateformes",
     "n": 41,
-    "pct": 35.0,
+    "pct": 34.7,
+    "vu_en_formation": true
+   },
+   {
+    "terme": "Événementiel",
+    "categorie": "Compétences métier",
+    "n": 37,
+    "pct": 31.4,
     "vu_en_formation": true
    },
    {
     "terme": "Créativité",
     "categorie": "Compétences métier",
     "n": 35,
-    "pct": 29.9,
-    "vu_en_formation": true
-   },
-   {
-    "terme": "Stratégie social media",
-    "categorie": "Compétences métier",
-    "n": 34,
-    "pct": 29.1,
+    "pct": 29.7,
     "vu_en_formation": true
    },
    {
     "terme": "Pack Office (Excel, PowerPoint)",
     "categorie": "CRM, CMS et gestion",
     "n": 33,
-    "pct": 28.2,
+    "pct": 28.0,
+    "vu_en_formation": true
+   },
+   {
+    "terme": "Stratégie social media",
+    "categorie": "Compétences métier",
+    "n": 32,
+    "pct": 27.1,
     "vu_en_formation": true
    },
    {
     "terme": "Facebook",
     "categorie": "Réseaux et plateformes",
-    "n": 33,
-    "pct": 28.2,
+    "n": 31,
+    "pct": 26.3,
     "vu_en_formation": true
    },
    {
     "terme": "Influence / partenariats",
     "categorie": "Compétences métier",
-    "n": 33,
-    "pct": 28.2,
+    "n": 30,
+    "pct": 25.4,
     "vu_en_formation": false
-   },
-   {
-    "terme": "Événementiel",
-    "categorie": "Compétences métier",
-    "n": 33,
-    "pct": 28.2,
-    "vu_en_formation": true
    },
    {
     "terme": "Gestion de projet / coordination",
     "categorie": "Compétences métier",
-    "n": 30,
-    "pct": 25.6,
-    "vu_en_formation": true
-   },
-   {
-    "terme": "LinkedIn",
-    "categorie": "Réseaux et plateformes",
-    "n": 28,
-    "pct": 23.9,
+    "n": 29,
+    "pct": 24.6,
     "vu_en_formation": true
    },
    {
     "terme": "Calendrier / ligne éditoriale",
     "categorie": "Compétences métier",
-    "n": 26,
-    "pct": 22.2,
+    "n": 28,
+    "pct": 23.7,
     "vu_en_formation": true
    },
    {
     "terme": "Relation client / SAV",
     "categorie": "Compétences métier",
-    "n": 23,
-    "pct": 19.7,
+    "n": 26,
+    "pct": 22.0,
+    "vu_en_formation": true
+   },
+   {
+    "terme": "LinkedIn",
+    "categorie": "Réseaux et plateformes",
+    "n": 26,
+    "pct": 22.0,
     "vu_en_formation": true
    },
    {
     "terme": "Canva",
     "categorie": "Création visuelle et vidéo",
-    "n": 18,
-    "pct": 15.4,
-    "vu_en_formation": true
-   },
-   {
-    "terme": "Anglais",
-    "categorie": "Compétences métier",
-    "n": 18,
-    "pct": 15.4,
-    "vu_en_formation": true
-   },
-   {
-    "terme": "Premiere Pro / After Effects / Final Cut",
-    "categorie": "Création visuelle et vidéo",
     "n": 17,
-    "pct": 14.5,
+    "pct": 14.4,
     "vu_en_formation": true
    },
    {
     "terme": "Modération / e-réputation",
     "categorie": "Compétences métier",
     "n": 16,
-    "pct": 13.7,
+    "pct": 13.6,
     "vu_en_formation": true
    },
    {
-    "terme": "IA / IA générative",
-    "categorie": "IA et automatisation",
+    "terme": "Anglais",
+    "categorie": "Compétences métier",
+    "n": 16,
+    "pct": 13.6,
+    "vu_en_formation": true
+   },
+   {
+    "terme": "Premiere Pro / After Effects / Final Cut",
+    "categorie": "Création visuelle et vidéo",
     "n": 15,
-    "pct": 12.8,
+    "pct": 12.7,
     "vu_en_formation": true
    },
    {
     "terme": "Emailing / newsletters",
     "categorie": "Publicité et analytics",
-    "n": 13,
-    "pct": 11.1,
+    "n": 14,
+    "pct": 11.9,
+    "vu_en_formation": true
+   },
+   {
+    "terme": "IA / IA générative",
+    "categorie": "IA et automatisation",
+    "n": 14,
+    "pct": 11.9,
+    "vu_en_formation": true
+   },
+   {
+    "terme": "SEO",
+    "categorie": "Publicité et analytics",
+    "n": 10,
+    "pct": 8.5,
     "vu_en_formation": true
    },
    {
     "terme": "YouTube",
     "categorie": "Réseaux et plateformes",
-    "n": 11,
-    "pct": 9.4,
-    "vu_en_formation": true
-   },
-   {
-    "terme": "CapCut",
-    "categorie": "Création visuelle et vidéo",
-    "n": 11,
-    "pct": 9.4,
+    "n": 10,
+    "pct": 8.5,
     "vu_en_formation": true
    },
    {
@@ -506,17 +506,17 @@
     "vu_en_formation": true
    },
    {
-    "terme": "SEO",
-    "categorie": "Publicité et analytics",
-    "n": 9,
-    "pct": 7.7,
+    "terme": "CapCut",
+    "categorie": "Création visuelle et vidéo",
+    "n": 10,
+    "pct": 8.5,
     "vu_en_formation": true
    },
    {
     "terme": "Meta Ads / publicité sociale",
     "categorie": "Publicité et analytics",
     "n": 9,
-    "pct": 7.7,
+    "pct": 7.6,
     "vu_en_formation": true
    },
    {
@@ -530,7 +530,14 @@
     "terme": "Automatisation / no-code",
     "categorie": "IA et automatisation",
     "n": 7,
-    "pct": 6.0,
+    "pct": 5.9,
+    "vu_en_formation": true
+   },
+   {
+    "terme": "Pinterest",
+    "categorie": "Réseaux et plateformes",
+    "n": 6,
+    "pct": 5.1,
     "vu_en_formation": true
    },
    {
@@ -544,14 +551,14 @@
     "terme": "Google Analytics / GA4",
     "categorie": "Publicité et analytics",
     "n": 5,
-    "pct": 4.3,
+    "pct": 4.2,
     "vu_en_formation": true
    },
    {
-    "terme": "Pinterest",
+    "terme": "Snapchat",
     "categorie": "Réseaux et plateformes",
-    "n": 5,
-    "pct": 4.3,
+    "n": 4,
+    "pct": 3.4,
     "vu_en_formation": true
    },
    {
@@ -565,25 +572,25 @@
     "terme": "ChatGPT et outils d'IA",
     "categorie": "IA et automatisation",
     "n": 3,
-    "pct": 2.6,
+    "pct": 2.5,
     "vu_en_formation": true
    },
    {
-    "terme": "WordPress / Shopify / CMS",
-    "categorie": "CRM, CMS et gestion",
-    "n": 3,
-    "pct": 2.6,
-    "vu_en_formation": true
-   },
-   {
-    "terme": "Snapchat",
-    "categorie": "Réseaux et plateformes",
-    "n": 3,
-    "pct": 2.6,
+    "terme": "Outils de veille / social listening",
+    "categorie": "Planification et veille",
+    "n": 2,
+    "pct": 1.7,
     "vu_en_formation": true
    },
    {
     "terme": "Notion / Trello / Asana",
+    "categorie": "CRM, CMS et gestion",
+    "n": 2,
+    "pct": 1.7,
+    "vu_en_formation": true
+   },
+   {
+    "terme": "WordPress / Shopify / CMS",
     "categorie": "CRM, CMS et gestion",
     "n": 2,
     "pct": 1.7,
@@ -600,28 +607,21 @@
     "terme": "GEO (optimisation pour moteurs d'IA)",
     "categorie": "IA et automatisation",
     "n": 1,
-    "pct": 0.9,
+    "pct": 0.8,
     "vu_en_formation": true
    },
    {
     "terme": "Hootsuite / Buffer / Later",
     "categorie": "Planification et veille",
     "n": 1,
-    "pct": 0.9,
+    "pct": 0.8,
     "vu_en_formation": true
    },
    {
     "terme": "Twitch / Discord",
     "categorie": "Réseaux et plateformes",
     "n": 1,
-    "pct": 0.9,
-    "vu_en_formation": true
-   },
-   {
-    "terme": "Outils de veille / social listening",
-    "categorie": "Planification et veille",
-    "n": 1,
-    "pct": 0.9,
+    "pct": 0.8,
     "vu_en_formation": true
    }
   ],
@@ -630,8 +630,8 @@
    {
     "terme": "Influence / partenariats",
     "categorie": "Compétences métier",
-    "n": 33,
-    "pct": 28.2,
+    "n": 30,
+    "pct": 25.4,
     "vu_en_formation": false
    },
    {
@@ -651,19 +651,19 @@
   ],
   "api_competences": [
    {
-    "libelle": "Analyser des échanges communautaires en ligne",
-    "n": 15,
-    "pct": 12.8
-   },
-   {
     "libelle": "Animer un réseau, une communauté",
     "n": 15,
-    "pct": 12.8
+    "pct": 12.7
+   },
+   {
+    "libelle": "Analyser des échanges communautaires en ligne",
+    "n": 15,
+    "pct": 12.7
    },
    {
     "libelle": "Veiller à la cohérence de l'image de l'entreprise sur l'ensemble des déclinaisons de la communication et des supports (éditorial, Web, Intranet, événements, médias, réseaux sociaux)",
     "n": 5,
-    "pct": 4.3
+    "pct": 4.2
    },
    {
     "libelle": "Définir une stratégie de communication",
@@ -673,15 +673,15 @@
    {
     "libelle": "Analyser les tendances des réseaux sociaux",
     "n": 3,
-    "pct": 2.6
+    "pct": 2.5
    },
    {
-    "libelle": "Recueillir et analyser les besoins client",
+    "libelle": "Répondre aux attentes d'un client",
     "n": 2,
     "pct": 1.7
    },
    {
-    "libelle": "Répondre aux attentes d'un client",
+    "libelle": "Recueillir et analyser les besoins client",
     "n": 2,
     "pct": 1.7
    },
@@ -696,34 +696,34 @@
     "pct": 1.7
    },
    {
-    "libelle": "Réaliser des actions de relation publique, de diffusion et de promotion de l'information",
+    "libelle": "Concevoir des supports de communication audiovisuels",
     "n": 1,
-    "pct": 0.9
-   },
-   {
-    "libelle": "Mettre en oeuvre des actions de communication",
-    "n": 1,
-    "pct": 0.9
+    "pct": 0.8
    },
    {
     "libelle": "Rédiger le contenu d'un support de communication",
     "n": 1,
-    "pct": 0.9
+    "pct": 0.8
+   },
+   {
+    "libelle": "Mettre en oeuvre des actions de communication",
+    "n": 1,
+    "pct": 0.8
    }
   ],
   "api_qualites": [
    {
     "libelle": "Etre force de proposition",
-    "n": 7,
-    "pct": 6.0
+    "n": 8,
+    "pct": 6.8
    },
    {
     "libelle": "Faire preuve de rigueur et de précision",
     "n": 5,
-    "pct": 4.3
+    "pct": 4.2
    },
    {
-    "libelle": "Avoir l'esprit d'équipe",
+    "libelle": "Faire preuve de réactivité",
     "n": 4,
     "pct": 3.4
    },
@@ -733,120 +733,141 @@
     "pct": 3.4
    },
    {
+    "libelle": "Avoir l'esprit d'équipe",
+    "n": 4,
+    "pct": 3.4
+   },
+   {
     "libelle": "Organiser son travail selon les priorités et les objectifs",
     "n": 4,
     "pct": 3.4
    },
    {
-    "libelle": "Faire preuve de réactivité",
-    "n": 3,
-    "pct": 2.6
-   },
-   {
     "libelle": "Faire preuve d'autonomie",
     "n": 3,
-    "pct": 2.6
+    "pct": 2.5
    },
    {
-    "libelle": "Faire preuve de leadership",
+    "libelle": "Faire preuve de persévérance",
     "n": 1,
-    "pct": 0.9
+    "pct": 0.8
    },
    {
     "libelle": "Faire preuve de curiosité, d'ouverture d'esprit",
     "n": 1,
-    "pct": 0.9
+    "pct": 0.8
    },
    {
-    "libelle": "Faire preuve de sens des responsabilités",
+    "libelle": "Faire preuve de leadership",
     "n": 1,
-    "pct": 0.9
+    "pct": 0.8
    }
   ],
   "methode": "Un terme est compté une fois par offre où il apparaît (intitulé, description, compétences et qualités renseignées). Le rapprochement avec la formation se fait par mots-clés (data/formation.json)."
  },
  "mouvement": {
   "recent_vs_ancien": {
-   "n_recent": 101,
+   "n_recent": 102,
    "n_ancien": 16,
-   "seuil": "2026-10-28",
+   "seuil": "2026-10-29",
    "lignes": [
     {
+     "terme": "Création de contenu",
+     "pct_recent": 42.2,
+     "pct_ancien": 18.8,
+     "ecart": 23.4,
+     "n": 46
+    },
+    {
      "terme": "Créativité",
-     "pct_recent": 32.7,
+     "pct_recent": 32.4,
      "pct_ancien": 12.5,
-     "ecart": 20.2,
+     "ecart": 19.9,
      "n": 35
     },
     {
-     "terme": "Création de contenu",
-     "pct_recent": 40.6,
-     "pct_ancien": 25.0,
-     "ecart": 15.6,
-     "n": 45
-    },
-    {
-     "terme": "Rédaction / copywriting",
-     "pct_recent": 37.6,
-     "pct_ancien": 25.0,
-     "ecart": 12.6,
-     "n": 42
-    },
-    {
      "terme": "TikTok",
-     "pct_recent": 36.6,
-     "pct_ancien": 25.0,
-     "ecart": 11.6,
+     "pct_recent": 37.3,
+     "pct_ancien": 18.8,
+     "ecart": 18.5,
      "n": 41
     },
     {
-     "terme": "Pack Office (Excel, PowerPoint)",
-     "pct_recent": 29.7,
+     "terme": "Vidéo / montage / Reels",
+     "pct_recent": 47.1,
+     "pct_ancien": 31.2,
+     "ecart": 15.9,
+     "n": 53
+    },
+    {
+     "terme": "Événementiel",
+     "pct_recent": 33.3,
      "pct_ancien": 18.8,
-     "ecart": 10.9,
+     "ecart": 14.5,
+     "n": 37
+    },
+    {
+     "terme": "Pack Office (Excel, PowerPoint)",
+     "pct_recent": 29.4,
+     "pct_ancien": 18.8,
+     "ecart": 10.6,
      "n": 33
     },
     {
-     "terme": "Vidéo / montage / Reels",
-     "pct_recent": 47.5,
-     "pct_ancien": 37.5,
+     "terme": "Instagram",
+     "pct_recent": 41.2,
+     "pct_ancien": 31.2,
      "ecart": 10.0,
-     "n": 54
+     "n": 47
+    },
+    {
+     "terme": "Canva",
+     "pct_recent": 15.7,
+     "pct_ancien": 6.2,
+     "ecart": 9.5,
+     "n": 17
     },
     {
      "terme": "Meta Ads / publicité sociale",
-     "pct_recent": 8.9,
+     "pct_recent": 8.8,
      "pct_ancien": 0.0,
-     "ecart": 8.9,
+     "ecart": 8.8,
      "n": 9
     },
     {
      "terme": "IA / IA générative",
-     "pct_recent": 13.9,
+     "pct_recent": 12.7,
      "pct_ancien": 6.2,
-     "ecart": 7.7,
-     "n": 15
+     "ecart": 6.5,
+     "n": 14
     },
     {
-     "terme": "Instagram",
-     "pct_recent": 42.6,
-     "pct_ancien": 37.5,
+     "terme": "Rédaction / copywriting",
+     "pct_recent": 36.3,
+     "pct_ancien": 31.2,
      "ecart": 5.1,
-     "n": 49
-    },
-    {
-     "terme": "Canva",
-     "pct_recent": 15.8,
-     "pct_ancien": 12.5,
-     "ecart": 3.3,
-     "n": 18
+     "n": 42
     },
     {
      "terme": "ChatGPT et outils d'IA",
-     "pct_recent": 3.0,
+     "pct_recent": 2.9,
      "pct_ancien": 0.0,
-     "ecart": 3.0,
+     "ecart": 2.9,
      "n": 3
+    },
+    {
+     "terme": "Facebook",
+     "pct_recent": 26.5,
+     "pct_ancien": 25.0,
+     "ecart": 1.5,
+     "n": 31
+    },
+    {
+     "terme": "Influence / partenariats",
+     "pct_recent": 25.5,
+     "pct_ancien": 25.0,
+     "ecart": 0.5,
+     "n": 30
     },
     {
      "terme": "Automatisation / no-code",
@@ -856,284 +877,276 @@
      "n": 7
     },
     {
-     "terme": "Facebook",
-     "pct_recent": 27.7,
-     "pct_ancien": 31.2,
-     "ecart": -3.5,
-     "n": 33
-    },
-    {
-     "terme": "Influence / partenariats",
-     "pct_recent": 27.7,
-     "pct_ancien": 31.2,
-     "ecart": -3.5,
-     "n": 33
-    },
-    {
      "terme": "Stratégie social media",
-     "pct_recent": 27.7,
-     "pct_ancien": 37.5,
-     "ecart": -9.8,
-     "n": 34
+     "pct_recent": 26.5,
+     "pct_ancien": 31.2,
+     "ecart": -4.7,
+     "n": 32
     },
     {
      "terme": "Veille",
-     "pct_recent": 33.7,
-     "pct_ancien": 43.8,
-     "ecart": -10.1,
-     "n": 41
+     "pct_recent": 34.3,
+     "pct_ancien": 50.0,
+     "ecart": -15.7,
+     "n": 43
     },
     {
      "terme": "Reporting / KPI / analyse",
-     "pct_recent": 37.6,
+     "pct_recent": 37.3,
      "pct_ancien": 56.2,
-     "ecart": -18.6,
+     "ecart": -18.9,
      "n": 47
     }
    ],
    "avertissement": "Comparaison indicative : échantillons modestes, et une offre ancienne encore ouverte n'est pas représentative de toutes les offres passées."
   },
   "vs_releve_precedent": {
-   "date_precedent": "2026-11-13",
-   "n_precedent": 114,
+   "date_precedent": "2026-11-14",
+   "n_precedent": 105,
    "lignes": [
     {
-     "terme": "IA / IA générative",
-     "pct_actuel": 12.8,
-     "pct_precedent": 7.0,
+     "terme": "Relation client / SAV",
+     "pct_actuel": 22.0,
+     "pct_precedent": 16.2,
      "ecart": 5.8
     },
     {
-     "terme": "Gestion de projet / coordination",
-     "pct_actuel": 25.6,
-     "pct_precedent": 21.1,
-     "ecart": 4.5
+     "terme": "IA / IA générative",
+     "pct_actuel": 11.9,
+     "pct_precedent": 6.7,
+     "ecart": 5.2
     },
     {
      "terme": "TikTok",
-     "pct_actuel": 35.0,
-     "pct_precedent": 30.7,
-     "ecart": 4.3
+     "pct_actuel": 34.7,
+     "pct_precedent": 29.5,
+     "ecart": 5.2
     },
     {
      "terme": "Instagram",
-     "pct_actuel": 41.9,
-     "pct_precedent": 37.7,
-     "ecart": 4.2
-    },
-    {
-     "terme": "Automatisation / no-code",
-     "pct_actuel": 6.0,
-     "pct_precedent": 2.6,
-     "ecart": 3.4
-    },
-    {
-     "terme": "Relation client / SAV",
-     "pct_actuel": 19.7,
-     "pct_precedent": 16.7,
-     "ecart": 3.0
+     "pct_actuel": 39.8,
+     "pct_precedent": 35.2,
+     "ecart": 4.6
     },
     {
      "terme": "HubSpot / CRM",
      "pct_actuel": 5.1,
-     "pct_precedent": 2.6,
-     "ecart": 2.5
+     "pct_precedent": 1.9,
+     "ecart": 3.2
     },
     {
-     "terme": "Google Analytics / GA4",
-     "pct_actuel": 4.3,
-     "pct_precedent": 1.8,
-     "ecart": 2.5
-    },
-    {
-     "terme": "SEO",
-     "pct_actuel": 7.7,
-     "pct_precedent": 5.3,
-     "ecart": 2.4
-    },
-    {
-     "terme": "YouTube",
-     "pct_actuel": 9.4,
-     "pct_precedent": 7.0,
-     "ecart": 2.4
-    },
-    {
-     "terme": "LinkedIn",
-     "pct_actuel": 23.9,
-     "pct_precedent": 21.9,
-     "ecart": 2.0
+     "terme": "Automatisation / no-code",
+     "pct_actuel": 5.9,
+     "pct_precedent": 2.9,
+     "ecart": 3.0
     },
     {
      "terme": "Snapchat",
-     "pct_actuel": 2.6,
-     "pct_precedent": 0.9,
-     "ecart": 1.7
+     "pct_actuel": 3.4,
+     "pct_precedent": 1.0,
+     "ecart": 2.4
+    },
+    {
+     "terme": "Pack Office (Excel, PowerPoint)",
+     "pct_actuel": 28.0,
+     "pct_precedent": 25.7,
+     "ecart": 2.3
     },
     {
      "terme": "Pinterest",
-     "pct_actuel": 4.3,
-     "pct_precedent": 2.6,
-     "ecart": 1.7
+     "pct_actuel": 5.1,
+     "pct_precedent": 2.9,
+     "ecart": 2.2
     },
     {
-     "terme": "Canva",
-     "pct_actuel": 15.4,
-     "pct_precedent": 14.0,
-     "ecart": 1.4
+     "terme": "SEO",
+     "pct_actuel": 8.5,
+     "pct_precedent": 6.7,
+     "ecart": 1.8
     },
     {
-     "terme": "Stratégie social media",
-     "pct_actuel": 29.1,
-     "pct_precedent": 28.1,
-     "ecart": 1.0
+     "terme": "YouTube",
+     "pct_actuel": 8.5,
+     "pct_precedent": 6.7,
+     "ecart": 1.8
     },
     {
-     "terme": "Influence / partenariats",
-     "pct_actuel": 28.2,
-     "pct_precedent": 27.2,
-     "ecart": 1.0
+     "terme": "Google Analytics / GA4",
+     "pct_actuel": 4.2,
+     "pct_precedent": 2.9,
+     "ecart": 1.3
     },
     {
-     "terme": "Google Ads / SEA",
-     "pct_actuel": 3.4,
-     "pct_precedent": 2.6,
+     "terme": "Gestion de projet / coordination",
+     "pct_actuel": 24.6,
+     "pct_precedent": 23.8,
      "ecart": 0.8
     },
     {
-     "terme": "Meta Business Suite",
-     "pct_actuel": 6.8,
-     "pct_precedent": 6.1,
+     "terme": "Outils de veille / social listening",
+     "pct_actuel": 1.7,
+     "pct_precedent": 1.0,
      "ecart": 0.7
-    },
-    {
-     "terme": "Anglais",
-     "pct_actuel": 15.4,
-     "pct_precedent": 14.9,
-     "ecart": 0.5
-    },
-    {
-     "terme": "ChatGPT et outils d'IA",
-     "pct_actuel": 2.6,
-     "pct_precedent": 2.6,
-     "ecart": 0.0
-    },
-    {
-     "terme": "WordPress / Shopify / CMS",
-     "pct_actuel": 2.6,
-     "pct_precedent": 2.6,
-     "ecart": 0.0
     },
     {
      "terme": "Twitter / X",
      "pct_actuel": 1.7,
-     "pct_precedent": 1.8,
-     "ecart": -0.1
+     "pct_precedent": 1.0,
+     "ecart": 0.7
+    },
+    {
+     "terme": "ChatGPT et outils d'IA",
+     "pct_actuel": 2.5,
+     "pct_precedent": 1.9,
+     "ecart": 0.6
+    },
+    {
+     "terme": "Anglais",
+     "pct_actuel": 13.6,
+     "pct_precedent": 13.3,
+     "ecart": 0.3
+    },
+    {
+     "terme": "Canva",
+     "pct_actuel": 14.4,
+     "pct_precedent": 14.3,
+     "ecart": 0.1
+    },
+    {
+     "terme": "Meta Business Suite",
+     "pct_actuel": 6.8,
+     "pct_precedent": 6.7,
+     "ecart": 0.1
+    },
+    {
+     "terme": "LinkedIn",
+     "pct_actuel": 22.0,
+     "pct_precedent": 21.9,
+     "ecart": 0.1
     },
     {
      "terme": "Meta Ads / publicité sociale",
-     "pct_actuel": 7.7,
-     "pct_precedent": 7.9,
-     "ecart": -0.2
+     "pct_actuel": 7.6,
+     "pct_precedent": 7.6,
+     "ecart": 0.0
     },
     {
-     "terme": "Premiere Pro / After Effects / Final Cut",
-     "pct_actuel": 14.5,
-     "pct_precedent": 14.9,
+     "terme": "Google Ads / SEA",
+     "pct_actuel": 3.4,
+     "pct_precedent": 3.8,
      "ecart": -0.4
     },
     {
-     "terme": "Pack Office (Excel, PowerPoint)",
-     "pct_actuel": 28.2,
-     "pct_precedent": 28.9,
-     "ecart": -0.7
-    },
-    {
      "terme": "Facebook",
-     "pct_actuel": 28.2,
-     "pct_precedent": 28.9,
-     "ecart": -0.7
-    },
-    {
-     "terme": "Créativité",
-     "pct_actuel": 29.9,
-     "pct_precedent": 30.7,
-     "ecart": -0.8
+     "pct_actuel": 26.3,
+     "pct_precedent": 26.7,
+     "ecart": -0.4
     },
     {
      "terme": "Notion / Trello / Asana",
      "pct_actuel": 1.7,
-     "pct_precedent": 2.6,
-     "ecart": -0.9
+     "pct_precedent": 2.9,
+     "ecart": -1.2
+    },
+    {
+     "terme": "Reporting / KPI / analyse",
+     "pct_actuel": 39.8,
+     "pct_precedent": 41.0,
+     "ecart": -1.2
+    },
+    {
+     "terme": "WordPress / Shopify / CMS",
+     "pct_actuel": 1.7,
+     "pct_precedent": 2.9,
+     "ecart": -1.2
+    },
+    {
+     "terme": "Influence / partenariats",
+     "pct_actuel": 25.4,
+     "pct_precedent": 26.7,
+     "ecart": -1.3
     },
     {
      "terme": "Emailing / newsletters",
-     "pct_actuel": 11.1,
-     "pct_precedent": 12.3,
-     "ecart": -1.2
+     "pct_actuel": 11.9,
+     "pct_precedent": 13.3,
+     "ecart": -1.4
+    },
+    {
+     "terme": "Stratégie social media",
+     "pct_actuel": 27.1,
+     "pct_precedent": 28.6,
+     "ecart": -1.5
+    },
+    {
+     "terme": "Créativité",
+     "pct_actuel": 29.7,
+     "pct_precedent": 31.4,
+     "ecart": -1.7
+    },
+    {
+     "terme": "Premiere Pro / After Effects / Final Cut",
+     "pct_actuel": 12.7,
+     "pct_precedent": 15.2,
+     "ecart": -2.5
+    },
+    {
+     "terme": "Événementiel",
+     "pct_actuel": 31.4,
+     "pct_precedent": 34.3,
+     "ecart": -2.9
+    },
+    {
+     "terme": "Rédaction / copywriting",
+     "pct_actuel": 35.6,
+     "pct_precedent": 39.0,
+     "ecart": -3.4
     },
     {
      "terme": "Suite Adobe (Photoshop, Illustrator…)",
      "pct_actuel": 8.5,
-     "pct_precedent": 10.5,
-     "ecart": -2.0
-    },
-    {
-     "terme": "Rédaction / copywriting",
-     "pct_actuel": 35.9,
-     "pct_precedent": 38.6,
-     "ecart": -2.7
-    },
-    {
-     "terme": "Reporting / KPI / analyse",
-     "pct_actuel": 40.2,
-     "pct_precedent": 43.9,
-     "ecart": -3.7
-    },
-    {
-     "terme": "CapCut",
-     "pct_actuel": 9.4,
-     "pct_precedent": 13.2,
-     "ecart": -3.8
-    },
-    {
-     "terme": "Événementiel",
-     "pct_actuel": 28.2,
-     "pct_precedent": 33.3,
-     "ecart": -5.1
-    },
-    {
-     "terme": "Vidéo / montage / Reels",
-     "pct_actuel": 46.2,
-     "pct_precedent": 53.5,
-     "ecart": -7.3
+     "pct_precedent": 12.4,
+     "ecart": -3.9
     },
     {
      "terme": "Calendrier / ligne éditoriale",
-     "pct_actuel": 22.2,
-     "pct_precedent": 30.7,
-     "ecart": -8.5
+     "pct_actuel": 23.7,
+     "pct_precedent": 28.6,
+     "ecart": -4.9
+    },
+    {
+     "terme": "Vidéo / montage / Reels",
+     "pct_actuel": 44.9,
+     "pct_precedent": 50.5,
+     "ecart": -5.6
+    },
+    {
+     "terme": "CapCut",
+     "pct_actuel": 8.5,
+     "pct_precedent": 14.3,
+     "ecart": -5.8
     },
     {
      "terme": "Modération / e-réputation",
-     "pct_actuel": 13.7,
-     "pct_precedent": 23.7,
-     "ecart": -10.0
-    },
-    {
-     "terme": "Création de contenu",
-     "pct_actuel": 38.5,
-     "pct_precedent": 49.1,
-     "ecart": -10.6
+     "pct_actuel": 13.6,
+     "pct_precedent": 20.0,
+     "ecart": -6.4
     },
     {
      "terme": "Veille",
-     "pct_actuel": 35.0,
-     "pct_precedent": 45.6,
-     "ecart": -10.6
+     "pct_actuel": 36.4,
+     "pct_precedent": 42.9,
+     "ecart": -6.5
+    },
+    {
+     "terme": "Création de contenu",
+     "pct_actuel": 39.0,
+     "pct_precedent": 48.6,
+     "ecart": -9.6
     }
    ]
   },
-  "nb_releves": 17
+  "nb_releves": 18
  },
  "acteurs": {
   "recruteurs": [
@@ -1306,14 +1319,6 @@
     ]
    },
    {
-    "entreprise": "GSR MANAGER",
-    "n": 1,
-    "type": "Employeur direct (présumé)",
-    "lieux": [
-     "81 - GAILLAC"
-    ]
-   },
-   {
     "entreprise": "HAZI PRO",
     "n": 1,
     "type": "Employeur direct (présumé)",
@@ -1344,13 +1349,21 @@
     "lieux": [
      "75 - Paris"
     ]
+   },
+   {
+    "entreprise": "ILEC CANNES",
+    "n": 1,
+    "type": "Employeur direct (présumé)",
+    "lieux": [
+     "06 - CANNES"
+    ]
    }
   ],
   "n_recruteurs": 57,
-  "sans_employeur": 39,
+  "sans_employeur": 40,
   "marche_cache": {
    "source": "API Recherche d'entreprises (data.gouv.fr) — base Sirene",
-   "date": "2026-11-27T14:37:32+00:00",
+   "date": "2026-11-28T13:49:45+00:00",
    "filtre": "département 63, établissements actifs, codes NAF 73.11Z, 73.12Z, 70.21Z · siège dans le 63",
    "total": 330,
    "par_naf": {
@@ -1589,11 +1602,11 @@
   }
  },
  "limites": [
-  "Photographie du 27/11/2026 : seules les offres déposées à France Travail (et ses partenaires) et encore ouvertes sont visibles. Ce n'est ni le total annuel (MétierScope annonce ~4100 offres sur 12 mois) ni l'ensemble du marché : beaucoup de recrutements ne passent jamais par une annonce.",
-  "Le salaire n'est affiché que dans 19.7 % des offres ; les moyennes ne reflètent que les employeurs qui le publient. Les salaires d'alternance suivent une grille légale et sont séparés.",
+  "Photographie du 28/11/2026 : seules les offres déposées à France Travail (et ses partenaires) et encore ouvertes sont visibles. Ce n'est ni le total annuel (MétierScope annonce ~4100 offres sur 12 mois) ni l'ensemble du marché : beaucoup de recrutements ne passent jamais par une annonce.",
+  "Le salaire n'est affiché que dans 20.3 % des offres ; les moyennes ne reflètent que les employeurs qui le publient. Les salaires d'alternance suivent une grille légale et sont séparés.",
   "Une même offre peut être republiée plusieurs fois, ou par plusieurs agences : les volumes peuvent être gonflés.",
   "Compétences, outils et télétravail sont détectés par mots-clés dans le texte des annonces : une mention n'est pas une exigence, et un outil non cité peut quand même être utilisé.",
-  "39 offres (33.3 %) n'indiquent pas l'employeur (annonces anonymisées).",
+  "40 offres (33.9 %) n'indiquent pas l'employeur (annonces anonymisées).",
   "Le classement « intermédiaire / employeur direct » est automatique (mots du nom) et à vérifier."
  ]
 }
